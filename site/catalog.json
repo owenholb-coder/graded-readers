@@ -1,0 +1,127 @@
+{
+  "version": 1,
+  "updated_utc": "2026-01-17T21:21:32Z",
+  "books": [
+    {
+      "id": "biografia-de-alex-hurricane-higgins-a2-es",
+      "title": "Biografía de Alex Hurricane Higgins",
+      "language": "es",
+      "level": "A2",
+      "genre": [
+        "biography"
+      ],
+      "difficulty": 3,
+      "enjoyment": 3,
+      "path": "books/es/a2/biografia-de-alex-hurricane-higgins-a2-es.json"
+    },
+    {
+      "id": "biografia-de-marlene-dietrich-a2-es",
+      "title": "Biografía de Marlene Dietrich",
+      "language": "es",
+      "level": "A2",
+      "genre": [
+        "biography"
+      ],
+      "difficulty": 3,
+      "enjoyment": 3,
+      "path": "books/es/a2/biografia-de-marlene-dietrich-a2-es.json"
+    },
+    {
+      "id": "biografia-de-winston-churchill-a2-es",
+      "title": "Biografía de Winston Churchill",
+      "language": "es",
+      "level": "A2",
+      "genre": [
+        "biography"
+      ],
+      "difficulty": 3,
+      "enjoyment": 3,
+      "path": "books/es/a2/biografia-de-winston-churchill-a2-es.json"
+    },
+    {
+      "id": "dos-pueblos-un-corazon-a2-es",
+      "title": "Dos pueblos, un corazón",
+      "language": "es",
+      "level": "A2",
+      "genre": [
+        "fiction"
+      ],
+      "difficulty": 3,
+      "enjoyment": 3,
+      "path": "books/es/a2/dos-pueblos-un-corazon-a2-es.json"
+    },
+    {
+      "id": "el-camino-de-ana-a2-b1-es",
+      "title": "El camino de Ana A2",
+      "language": "es",
+      "level": "B1",
+      "genre": [
+        "fiction"
+      ],
+      "difficulty": 3,
+      "enjoyment": 3,
+      "path": "books/es/b1/el-camino-de-ana-a2-b1-es.json"
+    },
+    {
+      "id": "el-olor-de-los-recuerdos-a2-es",
+      "title": "El olor de los recuerdos",
+      "language": "es",
+      "level": "A2",
+      "genre": [
+        "fiction"
+      ],
+      "difficulty": 3,
+      "enjoyment": 3,
+      "path": "books/es/a2/el-olor-de-los-recuerdos-a2-es.json"
+    },
+    {
+      "id": "las-senales-del-corazon-a2-es",
+      "title": "Las señales del corazón",
+      "language": "es",
+      "level": "A2",
+      "genre": [
+        "fiction"
+      ],
+      "difficulty": 3,
+      "enjoyment": 3,
+      "path": "books/es/a2/las-senales-del-corazon-a2-es.json"
+    },
+    {
+      "id": "la-primera-guerra-mundial-b1-es",
+      "title": "La Primera Guerra Mundial",
+      "language": "es",
+      "level": "B1",
+      "genre": [
+        "history"
+      ],
+      "difficulty": 3,
+      "enjoyment": 4,
+      "path": "books/es/b1/la-primera-guerra-mundial-b1-es.json"
+    },
+    {
+      "id": "isabel-i-de-castilla-b1-es",
+      "title": "Isabel I de Castilla",
+      "language": "es",
+      "level": "B1",
+      "genre": [
+        "biography",
+        "history"
+      ],
+      "difficulty": 3,
+      "enjoyment": 4,
+      "path": "books/es/b1/isabel-i-de-castilla-b1-es.json"
+    },
+    {
+      "id": "la-geografia-del-litoral-b1-es",
+      "title": "La geografía del litoral",
+      "language": "es",
+      "level": "B1",
+      "genre": [
+        "geography"
+      ],
+      "difficulty": 3,
+      "enjoyment": 3,
+      "path": "books/es/b1/la-geografia-del-litoral-b1-es.json"
+    }
+  ]
+}

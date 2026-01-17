@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Graded Readers Library</title>
+  <style>
+    body { font-family: system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif; margin: 0; padding: 18px; }
+    .wrap { max-width: 980px; margin: 0 auto; }
+    h1 { margin: 0 0 10px 0; font-size: 22px; }
+    .controls { display:flex; flex-wrap:wrap; gap:10px; align-items:end; padding:12px; border:1px solid #ddd; border-radius:12px; }
+    label { font-size: 12px; color:#444; display:block; margin-bottom:4px; }
+    select, input { padding:10px; border:1px solid #ccc; border-radius:10px; min-width: 160px; }
+    .books { margin-top: 14px; }
+    .card { border:1px solid #eee; border-radius:12px; padding:12px; margin:10px 0; }
+    .title { font-weight: 650; font-size: 16px; margin:0 0 4px 0; }
+    .meta { font-size: 13px; color:#555; margin:0 0 6px 0; }
+    .row { display:flex; gap:8px; flex-wrap:wrap; align-items:center; }
+    a { color:#0b57d0; text-decoration:none; }
+    a:hover { text-decoration:underline; }
+    .pill { font-size: 12px; padding: 2px 8px; border:1px solid #ddd; border-radius:999px; color:#444; }
+    .small { font-size: 12px; color:#666; margin-top: 8px; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>Library</h1>
+
+    <div class="controls">
+      <div>
+        <label for="lang">Language</label>
+        <select id="lang"></select>
+      </div>
+      <div>
+        <label for="level">Level</label>
+        <select id="level"></select>
+      </div>
+      <div>
+        <label for="genre">Genre</label>
+        <select id="genre"></select>
+      </div>
+      <div>
+        <label for="sort">Sort</label>
+        <select id="sort">
+          <option value="diff_asc_enj_desc">Easiest → Hardest, then Enjoyment</option>
+          <option value="enj_desc_diff_asc">Most Enjoyable → Least, then Difficulty</option>
+          <option value="title_asc">Title A → Z</option>
+        </select>
+      </div>
+      <div style="flex:1; min-width:220px;">
+        <label for="q">Search</label>
+        <input id="q" placeholder="Search title…" />
+      </div>
+    </div>
+
+    <div class="small" id="summary"></div>
+    <div class="books" id="books"></div>
+  </div>
+
+  <script src="./app.js"></script>
+</body>
+</html>
