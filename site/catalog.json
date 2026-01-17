@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_utc": "2026-01-17T22:38:25Z",
+  "updated_utc": "2026-01-17T23:46:56Z",
   "books": [
     {
       "id": "biografia-de-alex-hurricane-higgins-a2-es",
@@ -134,6 +134,18 @@
       "difficulty": 3,
       "enjoyment": 3,
       "path": "books/es/b1/biografia-de-j-m-barrie-b1-es.json"
+    },
+    {
+      "id": "biografia-de-queen-elizabeth-ii-b2-es",
+      "title": "Biografía de Queen Elizabeth II",
+      "language": "es",
+      "level": "B2",
+      "genre": [
+        "biography"
+      ],
+      "difficulty": 3,
+      "enjoyment": 3,
+      "path": "books/es/b2/biografia-de-queen-elizabeth-ii-b2-es.json"
     }
   ]
 }
