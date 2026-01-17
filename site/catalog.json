@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_utc": "2026-01-17T21:21:32Z",
+  "updated_utc": "2026-01-17T22:38:25Z",
   "books": [
     {
       "id": "biografia-de-alex-hurricane-higgins-a2-es",
@@ -122,6 +122,18 @@
       "difficulty": 3,
       "enjoyment": 3,
       "path": "books/es/b1/la-geografia-del-litoral-b1-es.json"
+    },
+    {
+      "id": "biografia-de-j-m-barrie-b1-es",
+      "title": "Biografía de J M Barrie",
+      "language": "es",
+      "level": "B1",
+      "genre": [
+        "biography"
+      ],
+      "difficulty": 3,
+      "enjoyment": 3,
+      "path": "books/es/b1/biografia-de-j-m-barrie-b1-es.json"
     }
   ]
 }
