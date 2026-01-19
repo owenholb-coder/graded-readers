@@ -107,19 +107,19 @@
     }
 
     function normalizeForTTS(s) {
-        // Add pauses around Spanish dialogue dashes
-        // "—Hola —dice..." -> "Hola. Dice..."
-        // Keep it conservative: only when a dash is used like dialogue at start or after punctuation.
-        return (s || "")
-            // leading dialogue dash
-            .replace(/^\s*[—–]\s*/g, "")
-            // mid-sentence dialogue dash (space-dash-space) -> period pause
-            .replace(/\s*[—–]\s*/g, ". ")
-            // clean up duplicated punctuation/spaces
-            .replace(/\.\s*\./g, ".")
-            .replace(/\s{2,}/g, " ")
-            .trim();
+        let t = (s || "").trim();
+
+        // Remove initial dialogue dash
+        t = t.replace(/^\s*[—–]\s*/g, "");
+
+        // Convert dialogue separators to a short pause
+        // e.g. "—Hola —dice ella." -> "Hola; dice ella."
+        t = t.replace(/\s*[—–]\s*/g, "; ");
+
+        t = t.replace(/\s{2,}/g, " ").trim();
+        return t;
     }
+
 
 
     function renderInlineMarkdown(md) {
