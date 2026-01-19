@@ -105,6 +105,23 @@
       return s.replaceAll("&","&amp;").replaceAll("<","&lt;").replaceAll(">","&gt;")
               .replaceAll('"',"&quot;").replaceAll("'","&#39;");
     }
+
+    function normalizeForTTS(s) {
+        // Add pauses around Spanish dialogue dashes
+        // "—Hola —dice..." -> "Hola. Dice..."
+        // Keep it conservative: only when a dash is used like dialogue at start or after punctuation.
+        return (s || "")
+            // leading dialogue dash
+            .replace(/^\s*[—–]\s*/g, "")
+            // mid-sentence dialogue dash (space-dash-space) -> period pause
+            .replace(/\s*[—–]\s*/g, ". ")
+            // clean up duplicated punctuation/spaces
+            .replace(/\.\s*\./g, ".")
+            .replace(/\s{2,}/g, " ")
+            .trim();
+    }
+
+
     function renderInlineMarkdown(md) {
         // Escape HTML first to keep things safe
         let s = escapeHtml(md);
@@ -318,7 +335,9 @@
         return;
       }
 
-      const text = (allSentenceSpans[currentIndex].dataset.sentence || "").trim();
+      const raw = (allSentenceSpans[currentIndex].dataset.sentence || "").trim();
+      const text = normalizeForTTS(raw);
+
       if (!text){ currentIndex++; queueNext(); return; }
 
       markActive(currentIndex);
