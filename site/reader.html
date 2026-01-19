@@ -133,6 +133,55 @@
       return cleaned.split(/(?<=[.!?¿¡])\s+/).map(s => s.trim()).filter(Boolean);
     }
 
+    function buildPlainAndMap(md) {
+        // Returns:
+        //  - plain: markdown stripped down to plain text (keeps italics/bold content, removes markers)
+        //  - map: map[plainIndex] = mdIndex of the character in md that produced it
+        let plain = "";
+        const map = [];
+
+        for (let i = 0; i < md.length; i++) {
+            // skip bold markers
+            if (md[i] === "*" && md[i + 1] === "*") {
+            i++; // skip second *
+            continue;
+            }
+            // skip single * italics markers
+            if (md[i] === "*") continue;
+
+            plain += md[i];
+            map.push(i);
+        }
+        return { plain, map };
+        }
+
+        function sliceMarkdownByPlain(paraMd, startPlain, endPlain) {
+        const { map } = buildPlainAndMap(paraMd);
+        if (!map.length) return "";
+
+        const s = Math.max(0, Math.min(startPlain, map.length - 1));
+        const e = Math.max(0, Math.min(endPlain - 1, map.length - 1));
+
+        let mdStart = map[s];
+        let mdEnd = map[e] + 1;
+
+        // Expand to include any ** markers we clipped at the boundaries
+        // (prevents orphan ** showing up)
+        // Expand left if we're right after '**'
+        if (mdStart >= 2 && paraMd.slice(mdStart - 2, mdStart) === "**") mdStart -= 2;
+        // Expand right if we're right before '**'
+        if (mdEnd + 2 <= paraMd.length && paraMd.slice(mdEnd, mdEnd + 2) === "**") mdEnd += 2;
+
+        let slice = paraMd.slice(mdStart, mdEnd);
+
+        // Final safety: if odd number of ** remains, drop them (never show raw **)
+        const markerCount = (slice.match(/\*\*/g) || []).length;
+        if (markerCount % 2 === 1) slice = slice.replace(/\*\*/g, "");
+
+        return slice;
+        }
+
+
     const titleEl = document.getElementById("title");
     const statusEl = document.getElementById("status");
     const contentEl = document.getElementById("content");
@@ -300,22 +349,12 @@
             const start = paraPlain.indexOf(sPlain, plainCursor);
             const end = start >= 0 ? start + sPlain.length : plainCursor + sPlain.length;
 
-            let mdSlice = "";
-            (function buildSlice(){
-              const paraMd = paraMdRaw;
-              let pi = 0;
-              for (let i=0;i<paraMd.length;i++){
-                if (paraMd[i] === "*" && paraMd[i+1] === "*") { if (pi >= start && pi <= end) mdSlice += "**"; i++; continue; }
-                if (pi >= start && pi < end) mdSlice += paraMd[i];
-                pi++;
-                if (pi >= end) break;
-              }
-            })();
-            if (!mdSlice.trim()) mdSlice = sPlain;
+            const mdSlice = sliceMarkdownByPlain(paraMdRaw, start, end);
 
             const span = document.createElement("span");
             span.className = "sent";
-            span.innerHTML = renderBoldMarkdown(mdSlice) + " ";
+            span.innerHTML = renderBoldMarkdown(mdSlice || sPlain) + " ";
+
             span.dataset.sentence = sPlain;
 
             span.addEventListener("click", () => {
