@@ -246,6 +246,8 @@
     let allSentenceSpans = [];
     let currentIndex = 0;
     let isPlaying = false;
+    let speakChapterTitles = true;   // change to false later if you want to turn it off
+
 
     function getSelectedVoice(){
       const name = voiceSelect.value;
@@ -372,6 +374,22 @@
         const h2 = document.createElement("h2");
         h2.textContent = ch.title || "";
         chap.appendChild(h2);
+
+        // speak chapter title once (optional) ----
+        if (speakChapterTitles && ch.title) {
+        const fake = document.createElement("span");
+        fake.className = "sent spoken";          // looks "used" so it won't distract
+        fake.dataset.sentence = ch.title;        // what TTS will actually say
+        allSentenceSpans.push(fake);
+        }
+        // -------------------------------------------------------
+
+        // small pause after chapter title
+        const pause = document.createElement("span");
+        pause.className = "sent spoken";
+        pause.dataset.sentence = "…";   // forces a natural break
+        allSentenceSpans.push(pause);
+
 
         const paragraphs = splitParagraphs(ch.text || "");
         for (const paraMdRaw of paragraphs) {
