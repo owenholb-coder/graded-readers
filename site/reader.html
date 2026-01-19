@@ -337,8 +337,32 @@
         return;
       }
 
-      const raw = (allSentenceSpans[currentIndex].dataset.sentence || "").trim();
-      const text = normalizeForTTS(raw);
+        const sp = allSentenceSpans[currentIndex];
+
+        // ---- handle silent pause markers first ----
+        const pauseMs = parseInt(sp.dataset.pauseMs || "0", 10);
+        const raw = (sp.dataset.sentence || "").trim();
+
+        // If this is a deliberate silent pause, wait and continue
+        if (!raw && pauseMs > 0) {
+            setStatus("Playing…");
+            setTimeout(() => {
+                currentIndex++;
+                queueNext();
+        }, pauseMs);
+        return;
+        }
+
+        // Skip truly empty spans that are not meant to pause
+        if (!raw) {
+        currentIndex++;
+        queueNext();
+        return;
+        }
+
+        // ---- normal case: prepare text for speech ----
+        const text = normalizeForTTS(raw);
+
 
       if (!text){ currentIndex++; queueNext(); return; }
 
@@ -387,7 +411,8 @@
         // small pause after chapter title
         const pause = document.createElement("span");
         pause.className = "sent spoken";
-        pause.dataset.sentence = "…";   // forces a natural break
+        pause.dataset.sentence = "";   // forces a natural break
+        pause.dataset.pauseMs = "700";    // pause length in ms (tweak: 500–1200)
         allSentenceSpans.push(pause);
 
 
