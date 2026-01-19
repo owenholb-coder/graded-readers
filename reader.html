@@ -1,0 +1,493 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Reader</title>
+  <style>
+    :root { --max: 980px; }
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin: 0; padding: 16px; line-height: 1.6; background: #fff; }
+    .wrap { max-width: var(--max); margin: 0 auto; }
+    header { display: flex; gap: 12px; align-items: baseline; justify-content: space-between; flex-wrap: wrap; margin-bottom: 12px; }
+    h1 { font-size: 20px; margin: 0; }
+    .controls { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; padding: 10px; border: 1px solid #ddd; border-radius: 12px; }
+    button { padding: 10px 12px; border: 1px solid #ccc; border-radius: 10px; background: #f7f7f7; cursor: pointer; }
+    button:hover { background: #eee; }
+    button.primary { background: #0b57d0; border-color: #0b57d0; color: #fff; }
+    button.primary:hover { background: #0a4ab2; }
+    select, input[type="range"] { padding: 8px; }
+    .row { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+    .small { font-size: 13px; color: #444; }
+    .chapter { margin: 18px 0; padding-top: 8px; border-top: 1px solid #eee; }
+    .chapter h2 { font-size: 18px; margin: 10px 0 8px 0; }
+    .sentences { display: block; margin: 0 0 12px 0; }
+    .sent { cursor: pointer; padding: 2px 3px; border-radius: 6px; }
+    .sent:hover { background: #f2f5ff; }
+    .sent.active { background: #ffe58f; }
+    .sent.spoken { color: #666; }
+    .notice { margin: 10px 0 0 0; font-size: 13px; color: #555; }
+    .topbar { display: flex; gap: 10px; align-items: center; margin-bottom: 10px; }
+    a { color: #0b57d0; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    /* Sticky mini player */
+    .mini {
+      position: fixed; left: 12px; right: 12px; bottom: 12px; z-index: 9999;
+      display: none; align-items: center; justify-content: space-between; gap: 10px;
+      background: rgba(255,255,255,0.98);
+      border: 1px solid #ddd; border-radius: 14px; padding: 10px 12px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.12); backdrop-filter: blur(6px);
+    }
+    .mini.show { display: flex; }
+    .mini .left { display: flex; flex-direction: column; min-width: 0; }
+    .mini .now, .mini .sub {
+      white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 70vw;
+    }
+    .mini .now { font-size: 13px; color: #444; }
+    .mini .sub { font-size: 12px; color: #666; }
+    .mini .buttons { display: flex; gap: 8px; align-items: center; }
+    .mini button { padding: 10px 12px; border-radius: 12px; }
+    .mini button.toggle { background: #0b57d0; border-color: #0b57d0; color: #fff; }
+    .mini button.toggle:hover { background: #0a4ab2; }
+    .pad-bottom { padding-bottom: 84px; }
+  </style>
+</head>
+<body class="pad-bottom">
+  <div class="wrap">
+    <div class="topbar">
+      <a href="./index.html">← Back</a>
+      <span class="small" id="status"></span>
+    </div>
+
+    <header>
+      <h1 id="title">Loading…</h1>
+    </header>
+
+    <div class="controls" role="region" aria-label="Read aloud controls">
+      <div class="row">
+        <button class="primary" id="playBtn">▶ Play</button>
+        <button id="pauseBtn">⏸ Pause</button>
+        <button id="resumeBtn">⏵ Resume</button>
+        <button id="stopBtn">⏹ Stop</button>
+      </div>
+
+      <div class="row">
+        <label class="small" for="rate">Speed:</label>
+        <input id="rate" type="range" min="0.3" max="1.2" step="0.05" value="0.85" />
+        <span class="small" id="rateLabel">0.85×</span>
+      </div>
+
+      <div class="row">
+        <label class="small" for="voice">Voice:</label>
+        <select id="voice"><option value="">(default)</option></select>
+      </div>
+    </div>
+
+    <p class="notice">Tip: tap any sentence to start from there.</p>
+    <main id="content"></main>
+  </div>
+
+  <div class="mini" id="mini" role="region" aria-label="Quick controls">
+    <div class="left">
+      <div class="now" id="miniNow">Ready</div>
+      <div class="sub" id="miniSub">Tap ⏸ to pause</div>
+    </div>
+    <div class="buttons">
+      <button class="toggle" id="miniToggle">⏸</button>
+      <button id="miniStop">⏹</button>
+    </div>
+  </div>
+
+  <script>
+    function getParam(name) { return new URL(location.href).searchParams.get(name); }
+
+    function escapeHtml(s) {
+      return s.replaceAll("&","&amp;").replaceAll("<","&lt;").replaceAll(">","&gt;")
+              .replaceAll('"',"&quot;").replaceAll("'","&#39;");
+    }
+
+    function normalizeForTTS(s) {
+        let t = (s || "").trim();
+
+        // Remove initial dialogue dash
+        t = t.replace(/^\s*[—–]\s*/g, "");
+
+        // Convert dialogue separators to a short pause
+        // e.g. "—Hola —dice ella." -> "Hola; dice ella."
+        t = t.replace(/\s*[—–]\s*/g, "; ");
+
+        t = t.replace(/\s{2,}/g, " ").trim();
+        return t;
+    }
+
+
+
+    function renderInlineMarkdown(md) {
+        // Escape HTML first to keep things safe
+        let s = escapeHtml(md);
+
+        // Bold: **text**
+        s = s.replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>");
+
+        // Italic: *text* (but not **bold**)
+        // This regex avoids grabbing the asterisks inside **...**
+        s = s.replace(/(^|[^*])\*(?!\s)([^*]+?)(?<!\s)\*(?!\*)/g, "$1<em>$2</em>");
+
+        return s;
+    }
+
+    function stripMarkdownMarkers(md) {
+        // **bold** -> bold
+        // *italic* -> italic
+        return md
+            .replace(/\*\*(.+?)\*\*/g, "$1")
+            .replace(/(^|[^*])\*(?!\s)([^*]+?)(?<!\s)\*(?!\*)/g, "$1$2");
+    }
+
+    function stripHtmlTags(s) { return s.replace(/<[^>]*>/g, ""); }
+
+    function splitParagraphs(chapterText) {
+      return (chapterText || "")
+        .replace(/\r\n/g,"\n").replace(/\r/g,"\n")
+        .split(/\n\s*\n+/).map(p => p.trim()).filter(Boolean);
+    }
+
+    function splitSentences(text) {
+      const cleaned = (text || "").replace(/\s+/g," ").replace(/\u00A0/g," ").trim();
+      if (!cleaned) return [];
+      if (window.Intl && Intl.Segmenter) {
+        const seg = new Intl.Segmenter("es", { granularity: "sentence" });
+        const out = [];
+        for (const part of seg.segment(cleaned)) {
+          const s = (part.segment || "").trim();
+          if (s) out.push(s);
+        }
+        return out;
+      }
+      return cleaned.split(/(?<=[.!?¿¡])\s+/).map(s => s.trim()).filter(Boolean);
+    }
+
+    function buildPlainAndMap(md) {
+        // Returns:
+        //  - plain: markdown stripped down to plain text (keeps italics/bold content, removes markers)
+        //  - map: map[plainIndex] = mdIndex of the character in md that produced it
+        let plain = "";
+        const map = [];
+
+        for (let i = 0; i < md.length; i++) {
+            // skip bold markers
+            if (md[i] === "*" && md[i + 1] === "*") {
+            i++; // skip second *
+            continue;
+            }
+            // skip single * italics markers
+            if (md[i] === "*") continue;
+
+            plain += md[i];
+            map.push(i);
+        }
+        return { plain, map };
+        }
+
+        function sliceMarkdownByPlain(paraMd, startPlain, endPlain) {
+        const { map } = buildPlainAndMap(paraMd);
+        if (!map.length) return "";
+
+        const s = Math.max(0, Math.min(startPlain, map.length - 1));
+        const e = Math.max(0, Math.min(endPlain - 1, map.length - 1));
+
+        let mdStart = map[s];
+        let mdEnd = map[e] + 1;
+
+        // Expand to include any ** markers we clipped at the boundaries
+        // (prevents orphan ** showing up)
+        // Expand left if we're right after '**'
+        if (mdStart >= 2 && paraMd.slice(mdStart - 2, mdStart) === "**") mdStart -= 2;
+        // Expand right if we're right before '**'
+        if (mdEnd + 2 <= paraMd.length && paraMd.slice(mdEnd, mdEnd + 2) === "**") mdEnd += 2;
+
+        let slice = paraMd.slice(mdStart, mdEnd);
+
+        // Final safety: if odd number of ** remains, drop them (never show raw **)
+        const markerCount = (slice.match(/\*\*/g) || []).length;
+        if (markerCount % 2 === 1) slice = slice.replace(/\*\*/g, "");
+
+        return slice;
+        }
+
+
+    const titleEl = document.getElementById("title");
+    const statusEl = document.getElementById("status");
+    const contentEl = document.getElementById("content");
+    const voiceSelect = document.getElementById("voice");
+    const rateInput = document.getElementById("rate");
+    const rateLabel = document.getElementById("rateLabel");
+
+    const miniEl = document.getElementById("mini");
+    const miniNow = document.getElementById("miniNow");
+    const miniSub = document.getElementById("miniSub");
+    const miniToggle = document.getElementById("miniToggle");
+    const miniStop = document.getElementById("miniStop");
+
+    function setStatus(msg){ statusEl.textContent = msg || ""; }
+    function showMini(show){ miniEl.classList.toggle("show", !!show); }
+    function setMini(nowText, subText){
+      if (typeof nowText === "string") miniNow.textContent = nowText;
+      if (typeof subText === "string") miniSub.textContent = subText;
+    }
+    function setMiniPaused(paused){
+      miniToggle.textContent = paused ? "▶" : "⏸";
+      setMini(null, paused ? "Tap ▶ to resume" : "Tap ⏸ to pause");
+    }
+
+    function supportsTTS(){ return "speechSynthesis" in window && "SpeechSynthesisUtterance" in window; }
+
+    let book = null;
+    let allSentenceSpans = [];
+    let currentIndex = 0;
+    let isPlaying = false;
+    let speakChapterTitles = true;   // change to false later if you want to turn it off
+
+
+    function getSelectedVoice(){
+      const name = voiceSelect.value;
+      if (!name) return null;
+      const voices = speechSynthesis.getVoices();
+      return voices.find(v => v.name === name) || null;
+    }
+    function populateVoices(){
+      if (!supportsTTS()) return;
+      const voices = speechSynthesis.getVoices();
+      const es = voices.filter(v => (v.lang || "").toLowerCase().startsWith("es"));
+      const other = voices.filter(v => !(v.lang || "").toLowerCase().startsWith("es"));
+      const current = voiceSelect.value;
+      voiceSelect.innerHTML = `<option value="">(default)</option>`;
+      [...es, ...other].forEach(v => {
+        const opt = document.createElement("option");
+        opt.value = v.name;
+        opt.textContent = `${v.name} — ${v.lang}`;
+        voiceSelect.appendChild(opt);
+      });
+      if (current) voiceSelect.value = current;
+    }
+
+    function clearHighlights(){ allSentenceSpans.forEach(sp => sp.classList.remove("active")); }
+    function markActive(idx){
+      clearHighlights();
+      const sp = allSentenceSpans[idx];
+      if (!sp) return;
+      sp.classList.add("active");
+      sp.scrollIntoView({ block:"center", behavior:"smooth" });
+      const preview = (sp.dataset.sentence || "").trim();
+      setMini(preview || "Playing…", null);
+    }
+    function markSpoken(idx){ const sp = allSentenceSpans[idx]; if (sp) sp.classList.add("spoken"); }
+
+    function pause(){
+      if (!supportsTTS()) return;
+      speechSynthesis.pause();
+      setStatus("Paused");
+      showMini(true);
+      setMiniPaused(true);
+    }
+    function resume(){
+      if (!supportsTTS()) return;
+      speechSynthesis.resume();
+      setStatus("Playing…");
+      showMini(true);
+      setMiniPaused(false);
+    }
+    function stop(){
+      if (!supportsTTS()) return;
+      isPlaying = false;
+      speechSynthesis.cancel();
+      clearHighlights();
+      setStatus("Stopped");
+      showMini(false);
+      setMini("Stopped", "Tap ▶ to start");
+    }
+    function togglePauseResume(){
+      if (!supportsTTS()) return;
+      if (!isPlaying) return;
+      if (speechSynthesis.paused) resume(); else pause();
+    }
+
+    function speakFrom(startIdx){
+      if (!supportsTTS()) { alert("TTS not supported in this browser."); return; }
+      if (!allSentenceSpans.length) return;
+
+      speechSynthesis.cancel();
+      isPlaying = true;
+      showMini(true);
+      setMiniPaused(false);
+
+      setStatus("Playing…");
+      currentIndex = Math.max(0, Math.min(startIdx, allSentenceSpans.length - 1));
+      queueNext();
+    }
+
+    function queueNext(){
+      if (!isPlaying) return;
+      if (currentIndex >= allSentenceSpans.length){
+        isPlaying = false;
+        setStatus("End ✅");
+        clearHighlights();
+        showMini(false);
+        setMini("End ✅", "Tap ▶ to restart");
+        return;
+      }
+
+        const sp = allSentenceSpans[currentIndex];
+
+        // ---- handle silent pause markers first ----
+        const pauseMs = parseInt(sp.dataset.pauseMs || "0", 10);
+        const raw = (sp.dataset.sentence || "").trim();
+
+        // If this is a deliberate silent pause, wait and continue
+        if (!raw && pauseMs > 0) {
+            setStatus("Playing…");
+            setTimeout(() => {
+                currentIndex++;
+                queueNext();
+        }, pauseMs);
+        return;
+        }
+
+        // Skip truly empty spans that are not meant to pause
+        if (!raw) {
+        currentIndex++;
+        queueNext();
+        return;
+        }
+
+        // ---- normal case: prepare text for speech ----
+        const text = normalizeForTTS(raw);
+
+
+      if (!text){ currentIndex++; queueNext(); return; }
+
+      markActive(currentIndex);
+
+      const u = new SpeechSynthesisUtterance(text);
+      // Use book language if present; otherwise Spanish
+      u.lang = (book && book.language) ? book.language : "es";
+      const r = parseFloat(rateInput.value);
+      u.rate = Number.isFinite(r) ? Math.max(0.3, Math.min(1.2, r)) : 1.0;
+
+
+      const v = getSelectedVoice();
+      if (v) u.voice = v;
+
+      u.onend = () => { markSpoken(currentIndex); currentIndex++; queueNext(); };
+      u.onerror = () => { isPlaying = false; clearHighlights(); showMini(false); setStatus("Audio error"); };
+
+      speechSynthesis.speak(u);
+    }
+
+    function renderBook(){
+      titleEl.textContent = book ? book.title : "Book not found";
+      contentEl.innerHTML = "";
+      allSentenceSpans = [];
+      currentIndex = 0;
+
+      if (!book) return;
+
+      for (const ch of book.chapters || []) {
+        const chap = document.createElement("section");
+        chap.className = "chapter";
+        const h2 = document.createElement("h2");
+        h2.textContent = ch.title || "";
+        chap.appendChild(h2);
+
+        // speak chapter title once (optional) ----
+        if (speakChapterTitles && ch.title) {
+        const fake = document.createElement("span");
+        fake.className = "sent spoken";          // looks "used" so it won't distract
+        fake.dataset.sentence = ch.title;        // what TTS will actually say
+        allSentenceSpans.push(fake);
+        }
+        // -------------------------------------------------------
+
+        // small pause after chapter title
+        const pause = document.createElement("span");
+        pause.className = "sent spoken";
+        pause.dataset.sentence = "";   // forces a natural break
+        pause.dataset.pauseMs = "700";    // pause length in ms (tweak: 500–1200)
+        allSentenceSpans.push(pause);
+
+
+        const paragraphs = splitParagraphs(ch.text || "");
+        for (const paraMdRaw of paragraphs) {
+          const paraPlain = stripHtmlTags(stripMarkdownMarkers(paraMdRaw));
+          const sentencesPlain = splitSentences(paraPlain);
+
+          let plainCursor = 0;
+          const p = document.createElement("p");
+          p.className = "sentences";
+
+          for (const sPlain of sentencesPlain) {
+            // Approx markdown slice (keeps **bold** for display)
+            const start = paraPlain.indexOf(sPlain, plainCursor);
+            const end = start >= 0 ? start + sPlain.length : plainCursor + sPlain.length;
+
+            const mdSlice = sliceMarkdownByPlain(paraMdRaw, start, end);
+
+            const span = document.createElement("span");
+            span.className = "sent";
+            span.innerHTML = renderInlineMarkdown(mdSlice || sPlain) + " ";
+
+
+            span.dataset.sentence = sPlain;
+
+            span.addEventListener("click", () => {
+              const idx = allSentenceSpans.indexOf(span);
+              if (idx === currentIndex && isPlaying) { stop(); return; }
+              stop();
+              currentIndex = Math.max(0, idx);
+              speakFrom(currentIndex);
+            });
+
+            p.appendChild(span);
+            allSentenceSpans.push(span);
+            plainCursor = Math.max(plainCursor, end);
+          }
+
+          chap.appendChild(p);
+        }
+
+        contentEl.appendChild(chap);
+      }
+
+      setStatus(allSentenceSpans.length ? `${allSentenceSpans.length} sentences` : "No text");
+      setMini("Ready", "Tap ▶ to start");
+    }
+
+    async function loadBook(){
+      const path = getParam("path");
+      if (!path) { titleEl.textContent = "Missing book path"; return; }
+      const res = await fetch(path, { cache: "no-store" });
+      if (!res.ok) { titleEl.textContent = "Could not load book"; return; }
+      book = await res.json();
+      renderBook();
+    }
+
+    document.getElementById("playBtn").addEventListener("click", () => speakFrom(currentIndex));
+    document.getElementById("pauseBtn").addEventListener("click", pause);
+    document.getElementById("resumeBtn").addEventListener("click", resume);
+    document.getElementById("stopBtn").addEventListener("click", stop);
+    miniToggle.addEventListener("click", togglePauseResume);
+    miniStop.addEventListener("click", stop);
+    rateInput.addEventListener("input", () => rateLabel.textContent = `${rateInput.value}×`);
+
+    if (supportsTTS()){
+      populateVoices();
+      speechSynthesis.onvoiceschanged = populateVoices;
+      setInterval(() => { if (isPlaying) setMiniPaused(speechSynthesis.paused); }, 300);
+    } else {
+      setStatus("TTS not supported in this browser");
+    }
+
+    loadBook().catch(err => { console.error(err); titleEl.textContent = "Error loading book"; });
+  </script>
+</body>
+</html>
