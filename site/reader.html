@@ -105,11 +105,28 @@
       return s.replaceAll("&","&amp;").replaceAll("<","&lt;").replaceAll(">","&gt;")
               .replaceAll('"',"&quot;").replaceAll("'","&#39;");
     }
-    function renderBoldMarkdown(md) {
-      const escaped = escapeHtml(md);
-      return escaped.replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>");
+    function renderInlineMarkdown(md) {
+        // Escape HTML first to keep things safe
+        let s = escapeHtml(md);
+
+        // Bold: **text**
+        s = s.replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>");
+
+        // Italic: *text* (but not **bold**)
+        // This regex avoids grabbing the asterisks inside **...**
+        s = s.replace(/(^|[^*])\*(?!\s)([^*]+?)(?<!\s)\*(?!\*)/g, "$1<em>$2</em>");
+
+        return s;
     }
-    function stripBoldMarkdown(md) { return md.replace(/\*\*(.+?)\*\*/g, "$1"); }
+
+    function stripMarkdownMarkers(md) {
+        // **bold** -> bold
+        // *italic* -> italic
+        return md
+            .replace(/\*\*(.+?)\*\*/g, "$1")
+            .replace(/(^|[^*])\*(?!\s)([^*]+?)(?<!\s)\*(?!\*)/g, "$1$2");
+    }
+
     function stripHtmlTags(s) { return s.replace(/<[^>]*>/g, ""); }
 
     function splitParagraphs(chapterText) {
@@ -337,7 +354,7 @@
 
         const paragraphs = splitParagraphs(ch.text || "");
         for (const paraMdRaw of paragraphs) {
-          const paraPlain = stripHtmlTags(stripBoldMarkdown(paraMdRaw));
+          const paraPlain = stripHtmlTags(stripMarkdownMarkers(paraMdRaw));
           const sentencesPlain = splitSentences(paraPlain);
 
           let plainCursor = 0;
@@ -353,7 +370,8 @@
 
             const span = document.createElement("span");
             span.className = "sent";
-            span.innerHTML = renderBoldMarkdown(mdSlice || sPlain) + " ";
+            span.innerHTML = renderInlineMarkdown(mdSlice || sPlain) + " ";
+
 
             span.dataset.sentence = sPlain;
 
