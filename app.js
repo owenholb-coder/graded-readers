@@ -167,11 +167,11 @@ async function renderAuth() {
       const email = document.getElementById("email").value.trim();
       if (!email) return alert("Enter an email.");
       
+      const redirectTo = window.location.origin + "/graded-readers/";
+
       const { error } = await sb.auth.signInWithOtp({
         email,
-        options: {
-            emailRedirectTo: "https://owenholb-coder.github.io/graded-readers/"
-        }
+        options: { emailRedirectTo: redirectTo }
       });
 
 
