@@ -166,7 +166,15 @@ async function renderAuth() {
     document.getElementById("loginBtn").onclick = async () => {
       const email = document.getElementById("email").value.trim();
       if (!email) return alert("Enter an email.");
-      const { error } = await sb.auth.signInWithOtp({ email });
+      
+      const { error } = await sb.auth.signInWithOtp({
+        email,
+        options: {
+            emailRedirectTo: "https://owenholb-coder.github.io/graded-readers/"
+        }
+      });
+
+
       if (error) alert(error.message);
       else alert("Check your email for the sign-in link.");
     };
