@@ -183,7 +183,11 @@ function render(booksAll) {
 }
 
 async function renderAuth() {
+    console.log("renderAuth() called");
+
   const box = document.getElementById("authBox");
+  box.textContent = "Auth loading…";
+
   if (!box) return;
 
   if (!window.sb) {
