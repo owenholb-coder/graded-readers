@@ -477,7 +477,18 @@
     document.getElementById("stopBtn").addEventListener("click", stop);
     miniToggle.addEventListener("click", togglePauseResume);
     miniStop.addEventListener("click", stop);
-    rateInput.addEventListener("input", () => rateLabel.textContent = `${rateInput.value}×`);
+    
+    // Load saved speed
+    const savedRate = parseFloat(localStorage.getItem("ttsRate") || "");
+    if (Number.isFinite(savedRate)) {
+        rateInput.value = String(savedRate);
+        rateLabel.textContent = `${rateInput.value}×`;
+    }
+
+    rateInput.addEventListener("input", () => {
+        rateLabel.textContent = `${rateInput.value}×`;
+        localStorage.setItem("ttsRate", rateInput.value);
+    });
 
     if (supportsTTS()){
       populateVoices();

@@ -50,6 +50,31 @@ function buildSelect(el, values, allLabel) {
   });
 }
 
+function getTtsRatePref() {
+  const r = parseFloat(localStorage.getItem("ttsRate") || "0.85");
+  return Number.isFinite(r) ? Math.max(0.3, Math.min(1.2, r)) : 0.85;
+}
+
+function fmtInt(n) {
+  const x = Number(n) || 0;
+  return x.toLocaleString();
+}
+
+function fmtMins(mins) {
+  const m = Math.max(0, Math.round(mins));
+  if (m < 90) return `${m} min`;
+  return `${Math.round(m / 60)} h`;
+}
+
+function estListenMinutes(wordCount, rate) {
+  // Baseline listening speed at rate=1.0
+  const baselineWpm = 150;
+  const wc = Number(wordCount) || 0;
+  if (!wc) return null;
+  return wc / (baselineWpm * rate);
+}
+
+
 function sortBooks(list, mode) {
   const byTitle = (a, b) => a.title.localeCompare(b.title, undefined, { sensitivity: "base" });
   const byDiff = (a, b) => (a.difficulty || 0) - (b.difficulty || 0);
@@ -95,8 +120,18 @@ function render(booksAll) {
 
     const meta = document.createElement("div");
     meta.className = "meta";
+
     const g = (b.genre || []).join(", ") || "—";
-    meta.textContent = `${(b.language || "").toUpperCase()} · ${(b.level || "").toUpperCase()} · ${g}`;
+    const rate = getTtsRatePref();
+    const wc = Number(b.word_count) || 0;
+    const mins = estListenMinutes(wc, rate);
+
+    const wcPart = wc ? `Words: ${fmtInt(wc)}` : `Words: —`;
+    const timePart = mins ? `~${fmtMins(mins)} @ ${rate}×` : `Time: —`;
+
+    meta.textContent =
+        `${(b.language || "").toUpperCase()} · ${(b.level || "").toUpperCase()} · ${g} · ` +
+        `${wcPart} · ${timePart}`;
 
     const row = document.createElement("div");
     row.className = "row";
