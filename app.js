@@ -186,9 +186,8 @@ async function renderAuth() {
     console.log("renderAuth() called");
 
   const box = document.getElementById("authBox");
-  box.textContent = "Auth loading…";
-
   if (!box) return;
+  box.textContent = "Auth loading…";
 
   if (!window.sb) {
     box.innerHTML = `<div class="small">Auth unavailable: Supabase client not initialized.</div>`;
