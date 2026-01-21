@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_utc": "2026-01-19T21:25:32Z",
+  "updated_utc": "2026-01-21T08:58:46Z",
   "books": [
     {
       "id": "biografia-de-alex-hurricane-higgins-a2-es",
@@ -12,7 +12,8 @@
       ],
       "difficulty": 3,
       "enjoyment": 3,
-      "path": "books/es/a2/biografia-de-alex-hurricane-higgins-a2-es.json"
+      "path": "books/es/a2/biografia-de-alex-hurricane-higgins-a2-es.json",
+      "word_count": 2432
     },
     {
       "id": "biografia-de-marlene-dietrich-a2-es",
@@ -24,7 +25,8 @@
       ],
       "difficulty": 3,
       "enjoyment": 3,
-      "path": "books/es/a2/biografia-de-marlene-dietrich-a2-es.json"
+      "path": "books/es/a2/biografia-de-marlene-dietrich-a2-es.json",
+      "word_count": 2390
     },
     {
       "id": "biografia-de-winston-churchill-a2-es",
@@ -36,7 +38,8 @@
       ],
       "difficulty": 3,
       "enjoyment": 3,
-      "path": "books/es/a2/biografia-de-winston-churchill-a2-es.json"
+      "path": "books/es/a2/biografia-de-winston-churchill-a2-es.json",
+      "word_count": 2387
     },
     {
       "id": "dos-pueblos-un-corazon-a2-es",
@@ -48,7 +51,8 @@
       ],
       "difficulty": 3,
       "enjoyment": 3,
-      "path": "books/es/a2/dos-pueblos-un-corazon-a2-es.json"
+      "path": "books/es/a2/dos-pueblos-un-corazon-a2-es.json",
+      "word_count": 3051
     },
     {
       "id": "el-camino-de-ana-a2-b1-es",
@@ -60,7 +64,8 @@
       ],
       "difficulty": 3,
       "enjoyment": 3,
-      "path": "books/es/b1/el-camino-de-ana-a2-b1-es.json"
+      "path": "books/es/b1/el-camino-de-ana-a2-b1-es.json",
+      "word_count": 2193
     },
     {
       "id": "el-olor-de-los-recuerdos-a2-es",
@@ -72,7 +77,8 @@
       ],
       "difficulty": 3,
       "enjoyment": 3,
-      "path": "books/es/a2/el-olor-de-los-recuerdos-a2-es.json"
+      "path": "books/es/a2/el-olor-de-los-recuerdos-a2-es.json",
+      "word_count": 2849
     },
     {
       "id": "las-senales-del-corazon-a2-es",
@@ -84,7 +90,8 @@
       ],
       "difficulty": 3,
       "enjoyment": 3,
-      "path": "books/es/a2/las-senales-del-corazon-a2-es.json"
+      "path": "books/es/a2/las-senales-del-corazon-a2-es.json",
+      "word_count": 2869
     },
     {
       "id": "la-primera-guerra-mundial-b1-es",
@@ -96,7 +103,8 @@
       ],
       "difficulty": 3,
       "enjoyment": 4,
-      "path": "books/es/b1/la-primera-guerra-mundial-b1-es.json"
+      "path": "books/es/b1/la-primera-guerra-mundial-b1-es.json",
+      "word_count": 5520
     },
     {
       "id": "isabel-i-de-castilla-b1-es",
@@ -109,7 +117,8 @@
       ],
       "difficulty": 3,
       "enjoyment": 4,
-      "path": "books/es/b1/isabel-i-de-castilla-b1-es.json"
+      "path": "books/es/b1/isabel-i-de-castilla-b1-es.json",
+      "word_count": 4673
     },
     {
       "id": "la-geografia-del-litoral-b1-es",
@@ -121,7 +130,8 @@
       ],
       "difficulty": 3,
       "enjoyment": 3,
-      "path": "books/es/b1/la-geografia-del-litoral-b1-es.json"
+      "path": "books/es/b1/la-geografia-del-litoral-b1-es.json",
+      "word_count": 4892
     },
     {
       "id": "biografia-de-j-m-barrie-b1-es",
@@ -133,7 +143,8 @@
       ],
       "difficulty": 3,
       "enjoyment": 3,
-      "path": "books/es/b1/biografia-de-j-m-barrie-b1-es.json"
+      "path": "books/es/b1/biografia-de-j-m-barrie-b1-es.json",
+      "word_count": 3766
     },
     {
       "id": "biografia-de-queen-elizabeth-ii-b2-es",
@@ -145,7 +156,8 @@
       ],
       "difficulty": 3,
       "enjoyment": 3,
-      "path": "books/es/b2/biografia-de-queen-elizabeth-ii-b2-es.json"
+      "path": "books/es/b2/biografia-de-queen-elizabeth-ii-b2-es.json",
+      "word_count": 4854
     },
     {
       "id": "biografia-de-erskine-childers-b1-chat-b1-es",
@@ -157,7 +169,8 @@
       ],
       "difficulty": 3,
       "enjoyment": 3,
-      "path": "books/es/b1/biografia-de-erskine-childers-b1-chat-b1-es.json"
+      "path": "books/es/b1/biografia-de-erskine-childers-b1-chat-b1-es.json",
+      "word_count": 4359
     },
     {
       "id": "biografia-de-erskine-childers-b1-grok-b1-es",
@@ -169,7 +182,8 @@
       ],
       "difficulty": 3,
       "enjoyment": 3,
-      "path": "books/es/b1/biografia-de-erskine-childers-b1-grok-b1-es.json"
+      "path": "books/es/b1/biografia-de-erskine-childers-b1-grok-b1-es.json",
+      "word_count": 3703
     }
   ]
 }
