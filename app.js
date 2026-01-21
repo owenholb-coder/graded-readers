@@ -182,42 +182,65 @@ function render(booksAll) {
 
 async function renderAuth() {
   const box = document.getElementById("authBox");
-  if (!box || !window.sb) return;
+  if (!box) return;
 
-  const { data: { session } } = await sb.auth.getSession();
+  if (!window.sb) {
+    box.innerHTML = `<div class="small">Auth unavailable: Supabase client not initialized.</div>`;
+    return;
+  }
+
+  let session = null;
+  try {
+    const res = await window.sb.auth.getSession();
+    session = res?.data?.session ?? null;
+  } catch (err) {
+    // IMPORTANT: don't let an aborted refresh kill the UI
+    if (err?.name === "AbortError") {
+      console.warn("Supabase getSession aborted (ignored):", err);
+    } else {
+      console.error("Supabase getSession failed:", err);
+    }
+    session = null;
+  }
 
   if (session) {
     box.innerHTML = `
       <div class="small">Signed in as ${session.user.email}</div>
       <button id="logoutBtn">Log out</button>
     `;
-    document.getElementById("logoutBtn").onclick = () => sb.auth.signOut();
-  } else {
-    box.innerHTML = `
-      <input id="email" placeholder="Email for magic link" style="padding:10px;border:1px solid #ccc;border-radius:10px;min-width:260px;" />
-      <button id="loginBtn">Send login link</button>
-      <div class="small">You’ll get an email link to sign in.</div>
-    `;
-    document.getElementById("loginBtn").onclick = async () => {
-      const email = document.getElementById("email").value.trim();
-      if (!email) return alert("Enter an email.");
-      
-      const redirectTo = window.location.origin + "/graded-readers/";
-
-      const { error } = await sb.auth.signInWithOtp({
-        email,
-        options: { emailRedirectTo: redirectTo }
-      });
-
-
-      if (error) alert(error.message);
-      else alert("Check your email for the sign-in link.");
-    };
+    document.getElementById("logoutBtn").onclick = () => window.sb.auth.signOut();
+    return;
   }
+
+  // Logged-out UI (your existing magic-link UI)
+  box.innerHTML = `
+    <input id="email" placeholder="Email for magic link"
+      style="padding:10px;border:1px solid #ccc;border-radius:10px;min-width:260px;" />
+    <button id="loginBtn">Send login link</button>
+  `;
+
+  document.getElementById("loginBtn").onclick = async () => {
+    const email = document.getElementById("email").value.trim();
+    if (!email) return alert("Enter an email.");
+
+    const redirectTo = window.location.origin + "/graded-readers/";
+    const { error } = await window.sb.auth.signInWithOtp({
+      email,
+      options: { emailRedirectTo: redirectTo }
+    });
+
+    if (error) alert(error.message);
+    else alert("Check your email for the sign-in link.");
+  };
 }
 
-sb?.auth?.onAuthStateChange(() => renderAuth());
-renderAuth();
+
+document.addEventListener("DOMContentLoaded", () => {
+  window.sb?.auth?.onAuthStateChange(() => renderAuth());
+  renderAuth();
+});
+
+
 
 
 async function main() {
