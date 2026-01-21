@@ -1,3 +1,5 @@
+console.log("APP.JS LOADED — version 2026-01-21-words-authfix");
+
 const elLang = document.getElementById("lang");
 const elLevel = document.getElementById("level");
 const elGenre = document.getElementById("genre");
