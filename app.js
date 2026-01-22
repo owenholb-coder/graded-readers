@@ -204,6 +204,8 @@ async function renderAuth() {
     return;
   }
 
+  let authWasReset = false;
+
   // 1) Always render logged-out UI immediately (never leave the user “stuck”)
   box.innerHTML = `
     <input id="email" placeholder="Email for magic link"
@@ -225,6 +227,15 @@ async function renderAuth() {
     else alert("Check your email for the sign-in link.");
   };
 
+  if (authWasReset) {
+    box.insertAdjacentHTML(
+      "beforeend",
+      `<div class="small" style="margin-top:6px;color:#666">
+        Your session expired — please sign in again.
+       </div>`
+    );
+  }
+
   // 2) Then try to upgrade to logged-in UI if a session exists
   let session = null;
   try {
@@ -238,6 +249,7 @@ async function renderAuth() {
     // Broad match: if it smells like token/session trouble, clear and stay logged out
     if (err?.name === "AbortError" || /refresh|jwt|token|session|invalid/i.test(msg)) {
       clearSupabaseAuthStorage();
+      authWasReset = true;
     }
     session = null;
   }
