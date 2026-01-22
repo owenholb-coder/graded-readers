@@ -1,5 +1,3 @@
-console.log("APP.JS LOADED new — version 2026-01-21-words-authfix");
-
 const elLang = document.getElementById("lang");
 const elLevel = document.getElementById("level");
 const elGenre = document.getElementById("genre");
@@ -182,42 +180,31 @@ function render(booksAll) {
   }
 }
 
-async function renderAuth() {
-    console.log("renderAuth() called");
+function clearSupabaseAuthStorage() {
+  // Project-specific key (your project ref is ookytzrplwzpqpqujhrk)
+  try { localStorage.removeItem("sb-ookytzrplwzpqpqujhrk-auth-token"); } catch {}
+  // Older/common keys (harmless if absent)
+  try { localStorage.removeItem("supabase.auth.token"); } catch {}
+  try { localStorage.removeItem("sb-auth-token"); } catch {}
+}
 
+function withTimeout(promise, ms = 2500) {
+  return Promise.race([
+    promise,
+    new Promise((_, reject) => setTimeout(() => reject(new Error("getSession timeout")), ms)),
+  ]);
+}
+
+async function renderAuth() {
   const box = document.getElementById("authBox");
   if (!box) return;
-  box.textContent = "Auth loading…";
 
-  if (!window.sb) {
+  if (!window.sb?.auth) {
     box.innerHTML = `<div class="small">Auth unavailable: Supabase client not initialized.</div>`;
     return;
   }
 
-  let session = null;
-  try {
-    const res = await window.sb.auth.getSession();
-    session = res?.data?.session ?? null;
-  } catch (err) {
-    // IMPORTANT: don't let an aborted refresh kill the UI
-    if (err?.name === "AbortError") {
-      console.warn("Supabase getSession aborted (ignored):", err);
-    } else {
-      console.error("Supabase getSession failed:", err);
-    }
-    session = null;
-  }
-
-  if (session) {
-    box.innerHTML = `
-      <div class="small">Signed in as ${session.user.email}</div>
-      <button id="logoutBtn">Log out</button>
-    `;
-    document.getElementById("logoutBtn").onclick = () => window.sb.auth.signOut();
-    return;
-  }
-
-  // Logged-out UI (your existing magic-link UI)
+  // 1) Always render logged-out UI immediately (never leave the user “stuck”)
   box.innerHTML = `
     <input id="email" placeholder="Email for magic link"
       style="padding:10px;border:1px solid #ccc;border-radius:10px;min-width:260px;" />
@@ -237,7 +224,33 @@ async function renderAuth() {
     if (error) alert(error.message);
     else alert("Check your email for the sign-in link.");
   };
+
+  // 2) Then try to upgrade to logged-in UI if a session exists
+  let session = null;
+  try {
+    const res = await withTimeout(window.sb.auth.getSession(), 2500);
+    session = res?.data?.session ?? null;
+  } catch (err) {
+    // If session storage is corrupted, self-heal
+    const msg = String(err?.message || err || "");
+    console.warn("Supabase getSession failed:", err);
+
+    // Broad match: if it smells like token/session trouble, clear and stay logged out
+    if (err?.name === "AbortError" || /refresh|jwt|token|session|invalid/i.test(msg)) {
+      clearSupabaseAuthStorage();
+    }
+    session = null;
+  }
+
+  if (session) {
+    box.innerHTML = `
+      <div class="small">Signed in as ${session.user.email}</div>
+      <button id="logoutBtn">Log out</button>
+    `;
+    document.getElementById("logoutBtn").onclick = () => window.sb.auth.signOut();
+  }
 }
+
 
 
 document.addEventListener("DOMContentLoaded", () => {
