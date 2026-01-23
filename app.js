@@ -53,31 +53,63 @@ function renderProgressSummary(container) {
 
   const now = new Date();
 
-  const rows = [
-    ["Today", startOfDay(now)],
-    ["This week", startOfWeek(now)],
-    ["This month", startOfMonth(now)],
-    ["This year", startOfYear(now)],
-    ["All time", new Date(0)],
+  const PERIODS = [
+    { key: "today", label: "Today", start: () => startOfDay(now) },
+    { key: "week", label: "This week", start: () => startOfWeek(now) },
+    { key: "month", label: "This month", start: () => startOfMonth(now) },
+    { key: "year", label: "This year", start: () => startOfYear(now) },
+    { key: "all", label: "All time", start: () => new Date(0) },
   ];
 
-  const html = rows.map(([label, since]) => {
-    const { words, secs } = sumActivitySince(events, since);
-    if (!words && !secs) return null;
-    return `
-      <div class="small">
-        <strong>${label}:</strong>
-        ${words.toLocaleString()} words · ${fmtDuration(secs)}
-      </div>`;
-  }).filter(Boolean).join("");
+  // Persist the dropdown selection
+  const prefKey = "progress_period";
+  const saved = localStorage.getItem(prefKey) || "week";
+  const initialKey = PERIODS.some(p => p.key === saved) ? saved : "week";
 
-  if (!html) return;
+  // Inject UI once
+  const wrapId = "progressSummary";
+  const existing = container.querySelector(`#${wrapId}`);
+  if (existing) existing.remove();
 
   container.insertAdjacentHTML(
     "beforeend",
-    `<div style="margin-top:10px">${html}</div>`
+    `
+    <div id="${wrapId}" style="margin-top:10px">
+      <div class="small" style="display:flex;gap:8px;align-items:center;flex-wrap:wrap">
+        <strong>Progress</strong>
+        <select id="progressPeriod" style="padding:6px;border:1px solid #ccc;border-radius:10px;">
+          ${PERIODS.map(p => `<option value="${p.key}">${p.label}</option>`).join("")}
+        </select>
+      </div>
+
+      <div class="small" style="margin-top:6px">
+        <div><strong>Words read:</strong> <span id="progressWords">0</span></div>
+        <div><strong>Minutes listened:</strong> <span id="progressMinutes">0</span></div>
+      </div>
+    </div>
+    `
   );
+
+  const sel = container.querySelector("#progressPeriod");
+  const elW = container.querySelector("#progressWords");
+  const elM = container.querySelector("#progressMinutes");
+
+  function update() {
+    const key = sel.value;
+    localStorage.setItem(prefKey, key);
+
+    const period = PERIODS.find(p => p.key === key) || PERIODS[1];
+    const { words, secs } = sumActivitySince(events, period.start());
+
+    elW.textContent = (Number(words) || 0).toLocaleString();
+    elM.textContent = fmtMinutes(secs).toLocaleString();
+  }
+
+  sel.value = initialKey;
+  sel.addEventListener("change", update);
+  update();
 }
+
 
 
 function uniq(arr) {
