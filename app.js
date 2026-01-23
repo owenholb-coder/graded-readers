@@ -6,6 +6,80 @@ const elQ = document.getElementById("q");
 const elBooks = document.getElementById("books");
 const elSummary = document.getElementById("summary");
 
+function startOfDay(d) {
+  return new Date(d.getFullYear(), d.getMonth(), d.getDate());
+}
+
+function startOfWeek(d) {
+  const x = startOfDay(d);
+  const day = (x.getDay() + 6) % 7; // Monday = 0
+  x.setDate(x.getDate() - day);
+  return x;
+}
+
+function startOfMonth(d) {
+  return new Date(d.getFullYear(), d.getMonth(), 1);
+}
+
+function startOfYear(d) {
+  return new Date(d.getFullYear(), 0, 1);
+}
+
+function sumActivitySince(events, sinceDate) {
+  const since = sinceDate.getTime();
+  let words = 0;
+  let secs = 0;
+
+  for (const e of events) {
+    const t = Date.parse(e.ts);
+    if (!Number.isFinite(t) || t < since) continue;
+    words += Number(e.words) || 0;
+    secs += Number(e.listened_seconds) || 0;
+  }
+  return { words, secs };
+}
+
+function fmtDuration(secs) {
+  const mins = Math.round(secs / 60);
+  if (mins < 90) return `${mins} min`;
+  return `${(mins / 60).toFixed(1)} h`;
+}
+
+function renderProgressSummary(container) {
+  if (!container || typeof loadActivity !== "function") return;
+
+  const events = loadActivity();
+  if (!events.length) return;
+
+  const now = new Date();
+
+  const rows = [
+    ["Today", startOfDay(now)],
+    ["This week", startOfWeek(now)],
+    ["This month", startOfMonth(now)],
+    ["This year", startOfYear(now)],
+    ["All time", new Date(0)],
+  ];
+
+  const html = rows.map(([label, since]) => {
+    const { words, secs } = sumActivitySince(events, since);
+    if (!words && !secs) return null;
+    return `
+      <div class="small">
+        <strong>${label}:</strong>
+        ${words.toLocaleString()} words · ${fmtDuration(secs)}
+      </div>`;
+  }).filter(Boolean).join("");
+
+  if (!html) return;
+
+  container.insertAdjacentHTML(
+    "beforeend",
+    `<div style="margin-top:10px">${html}</div>`
+  );
+}
+
+
 function uniq(arr) {
   return [...new Set(arr)].filter(Boolean);
 }
@@ -261,6 +335,8 @@ async function renderAuth() {
     `;
     document.getElementById("logoutBtn").onclick = () => window.sb.auth.signOut();
   }
+  renderProgressSummary(box);
+
 }
 
 
