@@ -45,6 +45,11 @@ function fmtDuration(secs) {
   return `${(mins / 60).toFixed(1)} h`;
 }
 
+function fmtMinutes(secs) {
+  return Math.max(0, Math.round((Number(secs) || 0) / 60));
+}
+
+
 function renderProgressSummary(container) {
   if (!container || typeof loadActivity !== "function") return;
 
