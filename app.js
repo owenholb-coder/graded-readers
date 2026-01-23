@@ -301,14 +301,7 @@ async function renderAuth() {
     else alert("Check your email for the sign-in link.");
   };
 
-  if (authWasReset) {
-    box.insertAdjacentHTML(
-      "beforeend",
-      `<div class="small" style="margin-top:6px;color:#666">
-        Your session expired — please sign in again.
-       </div>`
-    );
-  }
+  
 
   // 2) Then try to upgrade to logged-in UI if a session exists
   let session = null;
@@ -326,6 +319,15 @@ async function renderAuth() {
       authWasReset = true;
     }
     session = null;
+  }
+
+  if (authWasReset) {
+    box.insertAdjacentHTML(
+      "beforeend",
+      `<div class="small" style="margin-top:6px;color:#666">
+        Your session expired — please sign in again.
+       </div>`
+    );
   }
 
   if (session) {
