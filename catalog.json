@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_utc": "2026-01-21T08:58:46Z",
+  "updated_utc": "2026-01-23T22:54:35Z",
   "books": [
     {
       "id": "biografia-de-alex-hurricane-higgins-a2-es",
@@ -184,6 +184,17 @@
       "enjoyment": 3,
       "path": "books/es/b1/biografia-de-erskine-childers-b1-grok-b1-es.json",
       "word_count": 3703
+    },
+    {
+      "id": "gibraltar-b2-es",
+      "title": "Gibraltar B2",
+      "language": "es",
+      "level": "B2",
+      "genre": [],
+      "difficulty": 3,
+      "enjoyment": 3,
+      "path": "books/es/b2/gibraltar-b2-es.json",
+      "word_count": 4503
     }
   ]
 }
