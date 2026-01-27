@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_utc": "2026-01-23T22:54:35Z",
+  "updated_utc": "2026-01-27T21:56:37Z",
   "books": [
     {
       "id": "biografia-de-alex-hurricane-higgins-a2-es",
@@ -195,6 +195,26 @@
       "enjoyment": 3,
       "path": "books/es/b2/gibraltar-b2-es.json",
       "word_count": 4503
+    },
+    {
+      "id": "giuseppe-verdi-b1-b1-es",
+      "title": "Giuseppe Verdi B1",
+      "language": "es",
+      "level": "B1",
+      "genre": [],
+      "difficulty": 3,
+      "enjoyment": 3,
+      "path": "books/es/b1/giuseppe-verdi-b1-b1-es.json"
+    },
+    {
+      "id": "mark-tully-b1-b1-es",
+      "title": "Mark Tully B1",
+      "language": "es",
+      "level": "B1",
+      "genre": [],
+      "difficulty": 3,
+      "enjoyment": 3,
+      "path": "books/es/b1/mark-tully-b1-b1-es.json"
     }
   ]
 }
