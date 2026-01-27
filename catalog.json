@@ -204,7 +204,8 @@
       "genre": [],
       "difficulty": 3,
       "enjoyment": 3,
-      "path": "books/es/b1/giuseppe-verdi-b1-b1-es.json"
+      "path": "books/es/b1/giuseppe-verdi-b1-b1-es.json",
+      "word_count": 3373
     },
     {
       "id": "mark-tully-b1-b1-es",
@@ -214,7 +215,8 @@
       "genre": [],
       "difficulty": 3,
       "enjoyment": 3,
-      "path": "books/es/b1/mark-tully-b1-b1-es.json"
+      "path": "books/es/b1/mark-tully-b1-b1-es.json",
+      "word_count": 3455
     }
   ]
 }
