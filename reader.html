@@ -264,6 +264,30 @@
       }
     }
 
+    let wakeLock = null;
+
+    async function requestWakeLock() {
+      try {
+        if (!("wakeLock" in navigator)) return;
+        wakeLock = await navigator.wakeLock.request("screen");
+        // If the lock is released (e.g. screen off), we can try again when playing resumes.
+        wakeLock.addEventListener("release", () => {
+          wakeLock = null;
+        });
+      } catch (e) {
+        // Not fatal; just means we can't keep the screen awake on this device/browser.
+        wakeLock = null;
+      }
+    }
+
+    async function releaseWakeLock() {
+      try {
+        await wakeLock?.release();
+      } catch {}
+      wakeLock = null;
+    }
+
+
     function getBookWordCountFallback() {
       // Prefer precomputed word_count in the book JSON if present
       if (book && Number.isInteger(book.word_count)) return book.word_count;
@@ -329,6 +353,7 @@
     function pause(){
       if (!supportsTTS()) return;
       stopTiming();
+      releaseWakeLock();
       speechSynthesis.pause();
       setStatus("Paused");
       showMini(true);
@@ -345,6 +370,7 @@
     function stop(){
       if (!supportsTTS()) return;
       stopTiming();
+      releaseWakeLock();
       const secs = Math.round(listenedMs / 1000);
       if (secs > 0) {
         logActivityEvent({ listened_seconds: secs, type: "session" });
@@ -371,6 +397,7 @@
 
       speechSynthesis.cancel();
       isPlaying = true;
+      requestWakeLock();
       showMini(true);
       setMiniPaused(false);
       startTiming();
@@ -399,6 +426,7 @@
         setStatus("End ✅");
         clearHighlights();
         showMini(false);
+        releaseWakeLock();
         setMini("End ✅", "Tap ▶ to restart");
         return;
       }
@@ -549,6 +577,12 @@
     document.getElementById("pauseBtn").addEventListener("click", pause);
     document.getElementById("resumeBtn").addEventListener("click", resume);
     document.getElementById("stopBtn").addEventListener("click", stop);
+    document.addEventListener("visibilitychange", () => {
+      if (document.visibilityState === "visible" && isPlaying) {
+        requestWakeLock();
+      }
+    });
+
     miniToggle.addEventListener("click", togglePauseResume);
     miniStop.addEventListener("click", stop);
     
