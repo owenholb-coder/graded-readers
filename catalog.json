@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_utc": "2026-01-28T23:09:58Z",
+  "updated_utc": "2026-01-29T21:48:08Z",
   "books": [
     {
       "id": "biografia-de-alex-hurricane-higgins-a2-es",
@@ -228,6 +228,17 @@
       "enjoyment": 3,
       "path": "books/es/b1/henry-viii-b1-b1-es.json",
       "word_count": 3163
+    },
+    {
+      "id": "george-iii-b1-es",
+      "title": "George III",
+      "language": "es",
+      "level": "B1",
+      "genre": [],
+      "difficulty": 3,
+      "enjoyment": 3,
+      "path": "books/es/b1/george-iii-b1-es.json",
+      "word_count": 1975
     }
   ]
 }
