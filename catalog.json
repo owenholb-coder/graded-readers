@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_utc": "2026-01-29T21:48:08Z",
+  "updated_utc": "2026-01-29T23:17:03Z",
   "books": [
     {
       "id": "biografia-de-alex-hurricane-higgins-a2-es",
@@ -239,6 +239,17 @@
       "enjoyment": 3,
       "path": "books/es/b1/george-iii-b1-es.json",
       "word_count": 1975
+    },
+    {
+      "id": "mahatma-gandhi-b1-es",
+      "title": "Mahatma Gandhi",
+      "language": "es",
+      "level": "B1",
+      "genre": [],
+      "difficulty": 3,
+      "enjoyment": 3,
+      "path": "books/es/b1/mahatma-gandhi-b1-es.json",
+      "word_count": 2546
     }
   ]
 }
