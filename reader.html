@@ -30,6 +30,10 @@
     a { color: #0b57d0; text-decoration: none; }
     a:hover { text-decoration: underline; }
 
+    /* Read-only mode: don’t look tappable */
+    body.tap-to-speak-off .sent { cursor: default; }
+    body.tap-to-speak-off .sent:hover { background: transparent; }
+
     /* Sticky mini player */
     .mini {
       position: fixed; left: 12px; right: 12px; bottom: 12px; z-index: 9999;
@@ -69,6 +73,12 @@
         <button id="pauseBtn">⏸ Pause</button>
         <button id="resumeBtn">⏵ Resume</button>
         <button id="stopBtn">⏹ Stop</button>
+
+        <!-- NEW: Tap-to-speak toggle -->
+        <label class="small" style="display:flex;align-items:center;gap:8px;margin-left:6px;">
+          <input type="checkbox" id="speakToggle" checked />
+          Tap-to-speak
+        </label>
       </div>
 
       <div class="row">
@@ -83,7 +93,7 @@
       </div>
     </div>
 
-    <p class="notice">Tip: tap any sentence to start from there.</p>
+    <p class="notice" id="tip">Tip: tap any sentence to start from there.</p>
     <main id="content"></main>
   </div>
 
@@ -98,7 +108,7 @@
     </div>
   </div>
 
-   <script src="./progress.js"></script>
+  <script src="./progress.js"></script>
   <script>
     function getParam(name) { return new URL(location.href).searchParams.get(name); }
 
@@ -120,8 +130,6 @@
         t = t.replace(/\s{2,}/g, " ").trim();
         return t;
     }
-
-
 
     function renderInlineMarkdown(md) {
         // Escape HTML first to keep things safe
@@ -216,19 +224,21 @@
         return slice;
         }
 
-
     const titleEl = document.getElementById("title");
     const statusEl = document.getElementById("status");
     const contentEl = document.getElementById("content");
     const voiceSelect = document.getElementById("voice");
     const rateInput = document.getElementById("rate");
     const rateLabel = document.getElementById("rateLabel");
+    const tipEl = document.getElementById("tip");
 
     const miniEl = document.getElementById("mini");
     const miniNow = document.getElementById("miniNow");
     const miniSub = document.getElementById("miniSub");
     const miniToggle = document.getElementById("miniToggle");
     const miniStop = document.getElementById("miniStop");
+
+    const speakToggle = document.getElementById("speakToggle");
 
     function setStatus(msg){ statusEl.textContent = msg || ""; }
     function showMini(show){ miniEl.classList.toggle("show", !!show); }
@@ -243,13 +253,54 @@
 
     function supportsTTS(){ return "speechSynthesis" in window && "SpeechSynthesisUtterance" in window; }
 
+    // NEW: tap-to-speak mode + accidental-scroll guard
+    let tapToSpeakEnabled = true;
+    let isScrolling = false;
+    let scrollTimer = null;
+
+    function updateTip() {
+      tipEl.textContent = tapToSpeakEnabled
+        ? "Tip: tap any sentence to start from there."
+        : "Read-only mode: tap-to-speak is off (use ▶ Play to listen).";
+    }
+
+    function loadSpeakPref() {
+      const v = localStorage.getItem("tapToSpeak");
+      tapToSpeakEnabled = (v === null) ? true : (v === "1");
+      speakToggle.checked = tapToSpeakEnabled;
+      document.body.classList.toggle("tap-to-speak-off", !tapToSpeakEnabled);
+      updateTip();
+    }
+
+    function saveSpeakPref(enabled) {
+      localStorage.setItem("tapToSpeak", enabled ? "1" : "0");
+      document.body.classList.toggle("tap-to-speak-off", !enabled);
+      updateTip();
+    }
+
+    window.addEventListener("scroll", () => {
+      isScrolling = true;
+      clearTimeout(scrollTimer);
+      scrollTimer = setTimeout(() => { isScrolling = false; }, 150);
+    }, { passive: true });
+
+    speakToggle.addEventListener("change", () => {
+      tapToSpeakEnabled = speakToggle.checked;
+      saveSpeakPref(tapToSpeakEnabled);
+
+      // Optional: if they disable tap-to-speak while speaking, stop immediately
+      if (!tapToSpeakEnabled && supportsTTS() && speechSynthesis.speaking) {
+        stop();
+      }
+    });
+
     let book = null;
     let allSentenceSpans = [];
     let currentIndex = 0;
     let isPlaying = false;
     let speakChapterTitles = true;   // change to false later if you want to turn it off
 
-        // ---- progress tracking (listening time + completion) ----
+    // ---- progress tracking (listening time + completion) ----
     let listenedMs = 0;
     let playStartedAt = null;
     let completedThisSession = false;
@@ -270,29 +321,22 @@
       try {
         if (!("wakeLock" in navigator)) return;
         wakeLock = await navigator.wakeLock.request("screen");
-        // If the lock is released (e.g. screen off), we can try again when playing resumes.
         wakeLock.addEventListener("release", () => {
           wakeLock = null;
         });
       } catch (e) {
-        // Not fatal; just means we can't keep the screen awake on this device/browser.
         wakeLock = null;
       }
     }
 
     async function releaseWakeLock() {
-      try {
-        await wakeLock?.release();
-      } catch {}
+      try { await wakeLock?.release(); } catch {}
       wakeLock = null;
     }
 
-
     function getBookWordCountFallback() {
-      // Prefer precomputed word_count in the book JSON if present
       if (book && Number.isInteger(book.word_count)) return book.word_count;
 
-      // Fallback: count words from chapter text
       let text = "";
       for (const ch of (book?.chapters || [])) text += " " + (ch?.text || "");
       const m = text.trim().match(/\b\w+\b/g);
@@ -300,7 +344,6 @@
     }
 
     function logActivityEvent({ words = 0, listened_seconds = 0, type = "session" }) {
-      // progress.js should expose addActivityEvent()
       if (typeof addActivityEvent !== "function") return;
 
       addActivityEvent({
@@ -313,8 +356,6 @@
       });
     }
     // ---------------------------------------------------------
-
-
 
     function getSelectedVoice(){
       const name = voiceSelect.value;
@@ -389,8 +430,6 @@
       if (speechSynthesis.paused) resume(); else pause();
     }
 
-    
-
     function speakFrom(startIdx){
       if (!supportsTTS()) { alert("TTS not supported in this browser."); return; }
       if (!allSentenceSpans.length) return;
@@ -412,13 +451,11 @@
       if (currentIndex >= allSentenceSpans.length){
         isPlaying = false;
 
-         stopTiming();
+        stopTiming();
         if (!completedThisSession) {
           completedThisSession = true;
           const secs = Math.round(listenedMs / 1000);
           const wc = getBookWordCountFallback();
-
-          // One completion event credits the whole book (words) + time listened in this session
           logActivityEvent({ words: wc, listened_seconds: secs, type: "completed_book" });
         }
         listenedMs = 0;
@@ -431,43 +468,35 @@
         return;
       }
 
-        const sp = allSentenceSpans[currentIndex];
+      const sp = allSentenceSpans[currentIndex];
 
-        // ---- handle silent pause markers first ----
-        const pauseMs = parseInt(sp.dataset.pauseMs || "0", 10);
-        const raw = (sp.dataset.sentence || "").trim();
+      const pauseMs = parseInt(sp.dataset.pauseMs || "0", 10);
+      const raw = (sp.dataset.sentence || "").trim();
 
-        // If this is a deliberate silent pause, wait and continue
-        if (!raw && pauseMs > 0) {
-            setStatus("Playing…");
-            setTimeout(() => {
-                currentIndex++;
-                queueNext();
+      if (!raw && pauseMs > 0) {
+        setStatus("Playing…");
+        setTimeout(() => {
+          currentIndex++;
+          queueNext();
         }, pauseMs);
         return;
-        }
+      }
 
-        // Skip truly empty spans that are not meant to pause
-        if (!raw) {
+      if (!raw) {
         currentIndex++;
         queueNext();
         return;
-        }
+      }
 
-        // ---- normal case: prepare text for speech ----
-        const text = normalizeForTTS(raw);
-
-
+      const text = normalizeForTTS(raw);
       if (!text){ currentIndex++; queueNext(); return; }
 
       markActive(currentIndex);
 
       const u = new SpeechSynthesisUtterance(text);
-      // Use book language if present; otherwise Spanish
       u.lang = (book && book.language) ? book.language : "es";
       const r = parseFloat(rateInput.value);
       u.rate = Number.isFinite(r) ? Math.max(0.3, Math.min(1.2, r)) : 1.0;
-
 
       const v = getSelectedVoice();
       if (v) u.voice = v;
@@ -485,7 +514,6 @@
       listenedMs = 0;
     });
 
-
     function renderBook(){
       titleEl.textContent = book ? book.title : "Book not found";
       contentEl.innerHTML = "";
@@ -501,22 +529,18 @@
         h2.textContent = ch.title || "";
         chap.appendChild(h2);
 
-        // speak chapter title once (optional) ----
         if (speakChapterTitles && ch.title) {
-        const fake = document.createElement("span");
-        fake.className = "sent spoken";          // looks "used" so it won't distract
-        fake.dataset.sentence = ch.title;        // what TTS will actually say
-        allSentenceSpans.push(fake);
+          const fake = document.createElement("span");
+          fake.className = "sent spoken";
+          fake.dataset.sentence = ch.title;
+          allSentenceSpans.push(fake);
         }
-        // -------------------------------------------------------
 
-        // small pause after chapter title
         const pause = document.createElement("span");
         pause.className = "sent spoken";
-        pause.dataset.sentence = "";   // forces a natural break
-        pause.dataset.pauseMs = "700";    // pause length in ms (tweak: 500–1200)
+        pause.dataset.sentence = "";
+        pause.dataset.pauseMs = "700";
         allSentenceSpans.push(pause);
-
 
         const paragraphs = splitParagraphs(ch.text || "");
         for (const paraMdRaw of paragraphs) {
@@ -528,7 +552,6 @@
           p.className = "sentences";
 
           for (const sPlain of sentencesPlain) {
-            // Approx markdown slice (keeps **bold** for display)
             const start = paraPlain.indexOf(sPlain, plainCursor);
             const end = start >= 0 ? start + sPlain.length : plainCursor + sPlain.length;
 
@@ -537,11 +560,15 @@
             const span = document.createElement("span");
             span.className = "sent";
             span.innerHTML = renderInlineMarkdown(mdSlice || sPlain) + " ";
-
-
             span.dataset.sentence = sPlain;
 
-            span.addEventListener("click", () => {
+            span.addEventListener("click", (e) => {
+              // NEW: Respect read-only mode + ignore “clicks” during scroll
+              if (!tapToSpeakEnabled) return;
+              if (isScrolling) return;
+
+              e.preventDefault();
+
               const idx = allSentenceSpans.indexOf(span);
               if (idx === currentIndex && isPlaying) { stop(); return; }
               stop();
@@ -585,17 +612,17 @@
 
     miniToggle.addEventListener("click", togglePauseResume);
     miniStop.addEventListener("click", stop);
-    
+
     // Load saved speed
     const savedRate = parseFloat(localStorage.getItem("ttsRate") || "");
     if (Number.isFinite(savedRate)) {
-        rateInput.value = String(savedRate);
-        rateLabel.textContent = `${rateInput.value}×`;
+      rateInput.value = String(savedRate);
+      rateLabel.textContent = `${rateInput.value}×`;
     }
 
     rateInput.addEventListener("input", () => {
-        rateLabel.textContent = `${rateInput.value}×`;
-        localStorage.setItem("ttsRate", rateInput.value);
+      rateLabel.textContent = `${rateInput.value}×`;
+      localStorage.setItem("ttsRate", rateInput.value);
     });
 
     if (supportsTTS()){
@@ -605,6 +632,9 @@
     } else {
       setStatus("TTS not supported in this browser");
     }
+
+    // NEW: load tap-to-speak preference at startup
+    loadSpeakPref();
 
     loadBook().catch(err => { console.error(err); titleEl.textContent = "Error loading book"; });
   </script>
