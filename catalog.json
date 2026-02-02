@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_utc": "2026-02-01T23:51:24Z",
+  "updated_utc": "2026-02-02T13:56:08Z",
   "books": [
     {
       "id": "biografia-de-alex-hurricane-higgins-a2-es",
@@ -261,6 +261,17 @@
       "enjoyment": 3,
       "path": "books/es/b1/la-tierra-v1-b1-b1-es.json",
       "word_count": 2275
+    },
+    {
+      "id": "la-tierra-v2-b1-b1-es",
+      "title": "La Tierra V2 B1",
+      "language": "es",
+      "level": "B1",
+      "genre": [],
+      "difficulty": 3,
+      "enjoyment": 3,
+      "path": "books/es/b1/la-tierra-v2-b1-b1-es.json",
+      "word_count": 2109
     }
   ]
 }
