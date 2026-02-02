@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_utc": "2026-02-02T13:56:08Z",
+  "updated_utc": "2026-02-02T22:48:21Z",
   "books": [
     {
       "id": "biografia-de-alex-hurricane-higgins-a2-es",
@@ -272,6 +272,39 @@
       "enjoyment": 3,
       "path": "books/es/b1/la-tierra-v2-b1-b1-es.json",
       "word_count": 2109
+    },
+    {
+      "id": "la-tierra-v3-b1-b1-es",
+      "title": "La Tierra V3 B1",
+      "language": "es",
+      "level": "B1",
+      "genre": [],
+      "difficulty": 3,
+      "enjoyment": 3,
+      "path": "books/es/b1/la-tierra-v3-b1-b1-es.json",
+      "word_count": 2120
+    },
+    {
+      "id": "la-tierra-v4-b1-b1-es",
+      "title": "La Tierra V4 B1",
+      "language": "es",
+      "level": "B1",
+      "genre": [],
+      "difficulty": 3,
+      "enjoyment": 3,
+      "path": "books/es/b1/la-tierra-v4-b1-b1-es.json",
+      "word_count": 1851
+    },
+    {
+      "id": "el-hotel-la-casa-del-roble-a2-v1-b1-es",
+      "title": "El Hotel La Casa del Roble A2 V1",
+      "language": "es",
+      "level": "B1",
+      "genre": [],
+      "difficulty": 3,
+      "enjoyment": 3,
+      "path": "books/es/a2/el-hotel-la-casa-del-roble-a2-v1-b1-es.json",
+      "word_count": 1156
     }
   ]
 }
