@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_utc": "2026-02-03T15:25:15Z",
+  "updated_utc": "2026-02-03T23:32:19Z",
   "books": [
     {
       "id": "biografia-de-alex-hurricane-higgins-a2-es",
@@ -318,6 +318,32 @@
       "enjoyment": 4,
       "word_count": 2642,
       "path": "books/es/a2/el-collar-a2-es.json"
+    },
+    {
+      "id": "una-mujer-que-quiere-más-a2-es",
+      "title": "# **Una mujer que quiere más**",
+      "language": "es",
+      "level": "A2",
+      "genre": [
+        "short_story"
+      ],
+      "difficulty": 3,
+      "enjoyment": 4,
+      "word_count": 2976,
+      "path": "books/es/a2/una-mujer-que-quiere-más-a2-es.json"
+    },
+    {
+      "id": "sección-1-una-mujer-que-quiere-más-a2-es",
+      "title": "## **SECCIÓN 1 — Una mujer que quiere más**",
+      "language": "es",
+      "level": "A2",
+      "genre": [
+        "short_story"
+      ],
+      "difficulty": 3,
+      "enjoyment": 4,
+      "word_count": 2772,
+      "path": "books/es/a2/sección-1-una-mujer-que-quiere-más-a2-es.json"
     }
   ]
 }
