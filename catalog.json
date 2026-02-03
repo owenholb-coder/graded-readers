@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_utc": "2026-02-02T22:48:21Z",
+  "updated_utc": "2026-02-03T15:25:15Z",
   "books": [
     {
       "id": "biografia-de-alex-hurricane-higgins-a2-es",
@@ -305,6 +305,19 @@
       "enjoyment": 3,
       "path": "books/es/a2/el-hotel-la-casa-del-roble-a2-v1-b1-es.json",
       "word_count": 1157
+    },
+    {
+      "id": "el-collar-a2-es",
+      "title": "El collar",
+      "language": "es",
+      "level": "A2",
+      "genre": [
+        "short_story"
+      ],
+      "difficulty": 3,
+      "enjoyment": 4,
+      "word_count": 2642,
+      "path": "books/es/a2/el-collar-a2-es.json"
     }
   ]
 }
