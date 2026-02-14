@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_utc": "2026-02-13T23:58:21Z",
+  "updated_utc": "2026-02-14T22:33:34Z",
   "books": [
     {
       "id": "biografia-de-alex-hurricane-higgins-a2-es",
@@ -355,6 +355,61 @@
       "enjoyment": 3,
       "word_count": 2255,
       "path": "books/es/b1/la-tecnica-pomodoro-b1-b1-es.json"
+    },
+    {
+      "id": "time-blocking-b1-b1-es",
+      "title": "Time Blocking B1",
+      "language": "es",
+      "level": "B1",
+      "genre": [],
+      "difficulty": 3,
+      "enjoyment": 3,
+      "word_count": 2241,
+      "path": "books/es/b1/time-blocking-b1-b1-es.json"
+    },
+    {
+      "id": "la-matriz-de-eisenhower-nivel-b1-b1-es",
+      "title": "La Matriz de Eisenhower (Nivel B1)",
+      "language": "es",
+      "level": "B1",
+      "genre": [],
+      "difficulty": 3,
+      "enjoyment": 3,
+      "word_count": 2106,
+      "path": "books/es/b1/la-matriz-de-eisenhower-nivel-b1-b1-es.json"
+    },
+    {
+      "id": "el-principio-80-20-analisis-de-pareto-nivel-b1-b1-es",
+      "title": "El principio 80/20 (Análisis de Pareto) – Nivel B1",
+      "language": "es",
+      "level": "B1",
+      "genre": [],
+      "difficulty": 3,
+      "enjoyment": 3,
+      "word_count": 2078,
+      "path": "books/es/b1/el-principio-80-20-analisis-de-pareto-nivel-b1-b1-es.json"
+    },
+    {
+      "id": "el-metodo-kanban-nivel-b1-b1-es",
+      "title": "El método Kanban – Nivel B1",
+      "language": "es",
+      "level": "B1",
+      "genre": [],
+      "difficulty": 3,
+      "enjoyment": 3,
+      "word_count": 1860,
+      "path": "books/es/b1/el-metodo-kanban-nivel-b1-b1-es.json"
+    },
+    {
+      "id": "organiza-tu-vida-con-el-metodo-getting-things-done-b1-b1-es",
+      "title": "Organiza tu vida con el método Getting Things Done B1",
+      "language": "es",
+      "level": "B1",
+      "genre": [],
+      "difficulty": 3,
+      "enjoyment": 3,
+      "word_count": 2330,
+      "path": "books/es/b1/organiza-tu-vida-con-el-metodo-getting-things-done-b1-b1-es.json"
     }
   ]
 }
