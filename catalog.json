@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_utc": "2026-02-03T23:32:19Z",
+  "updated_utc": "2026-02-13T23:58:21Z",
   "books": [
     {
       "id": "biografia-de-alex-hurricane-higgins-a2-es",
@@ -344,6 +344,17 @@
       "enjoyment": 4,
       "word_count": 2772,
       "path": "books/es/a2/sección-1-una-mujer-que-quiere-más-a2-es.json"
+    },
+    {
+      "id": "la-tecnica-pomodoro-b1-b1-es",
+      "title": "La Técnica Pomodoro B1",
+      "language": "es",
+      "level": "B1",
+      "genre": [],
+      "difficulty": 3,
+      "enjoyment": 3,
+      "word_count": 2255,
+      "path": "books/es/b1/la-tecnica-pomodoro-b1-b1-es.json"
     }
   ]
 }
