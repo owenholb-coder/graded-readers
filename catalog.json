@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updated_utc": "2026-02-14T22:33:34Z",
+  "updated_utc": "2026-02-16T23:32:47Z",
   "books": [
+    {
+      "id": "Japan-a2-es",
+      "title": "Japan — Perfil del país (A2)",
+      "language": "es",
+      "level": "A2",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 2,
+      "enjoyment": 3,
+      "path": "books/es/a2/Japan-a2-es.json",
+      "word_count": 1545
+    },
     {
       "id": "biografia-de-alex-hurricane-higgins-a2-es",
       "title": "Biografía de Alex Hurricane Higgins",
@@ -16,6 +29,45 @@
       "word_count": 2432
     },
     {
+      "id": "biografia-de-erskine-childers-b1-chat-b1-es",
+      "title": "Biografía de Erskine Childers B1 (Chat)",
+      "language": "es",
+      "level": "B1",
+      "genre": [
+        "biography"
+      ],
+      "difficulty": 3,
+      "enjoyment": 3,
+      "path": "books/es/b1/biografia-de-erskine-childers-b1-chat-b1-es.json",
+      "word_count": 4359
+    },
+    {
+      "id": "biografia-de-erskine-childers-b1-grok-b1-es",
+      "title": "Biografía de Erskine Childers B1 Grok",
+      "language": "es",
+      "level": "B1",
+      "genre": [
+        "biography"
+      ],
+      "difficulty": 3,
+      "enjoyment": 3,
+      "path": "books/es/b1/biografia-de-erskine-childers-b1-grok-b1-es.json",
+      "word_count": 3703
+    },
+    {
+      "id": "biografia-de-j-m-barrie-b1-es",
+      "title": "Biografía de J M Barrie",
+      "language": "es",
+      "level": "B1",
+      "genre": [
+        "biography"
+      ],
+      "difficulty": 3,
+      "enjoyment": 3,
+      "path": "books/es/b1/biografia-de-j-m-barrie-b1-es.json",
+      "word_count": 3766
+    },
+    {
       "id": "biografia-de-marlene-dietrich-a2-es",
       "title": "Biografía de Marlene Dietrich",
       "language": "es",
@@ -27,6 +79,19 @@
       "enjoyment": 3,
       "path": "books/es/a2/biografia-de-marlene-dietrich-a2-es.json",
       "word_count": 2390
+    },
+    {
+      "id": "biografia-de-queen-elizabeth-ii-b2-es",
+      "title": "Biografía de Queen Elizabeth II",
+      "language": "es",
+      "level": "B2",
+      "genre": [
+        "biography"
+      ],
+      "difficulty": 3,
+      "enjoyment": 3,
+      "path": "books/es/b2/biografia-de-queen-elizabeth-ii-b2-es.json",
+      "word_count": 4854
     },
     {
       "id": "biografia-de-winston-churchill-a2-es",
@@ -68,6 +133,41 @@
       "word_count": 2193
     },
     {
+      "id": "el-collar-a2-es",
+      "title": "El collar",
+      "language": "es",
+      "level": "A2",
+      "genre": [
+        "short_story"
+      ],
+      "difficulty": 3,
+      "enjoyment": 4,
+      "word_count": 2642,
+      "path": "books/es/a2/el-collar-a2-es.json"
+    },
+    {
+      "id": "el-hotel-la-casa-del-roble-a2-v1-b1-es",
+      "title": "El Hotel La Casa del Roble A2 V1",
+      "language": "es",
+      "level": "B1",
+      "genre": [],
+      "difficulty": 3,
+      "enjoyment": 3,
+      "path": "books/es/a2/el-hotel-la-casa-del-roble-a2-v1-b1-es.json",
+      "word_count": 1157
+    },
+    {
+      "id": "el-metodo-kanban-nivel-b1-b1-es",
+      "title": "El método Kanban – Nivel B1",
+      "language": "es",
+      "level": "B1",
+      "genre": [],
+      "difficulty": 3,
+      "enjoyment": 3,
+      "word_count": 1860,
+      "path": "books/es/b1/el-metodo-kanban-nivel-b1-b1-es.json"
+    },
+    {
       "id": "el-olor-de-los-recuerdos-a2-es",
       "title": "El olor de los recuerdos",
       "language": "es",
@@ -81,30 +181,59 @@
       "word_count": 2849
     },
     {
-      "id": "las-senales-del-corazon-a2-es",
-      "title": "Las señales del corazón",
-      "language": "es",
-      "level": "A2",
-      "genre": [
-        "fiction"
-      ],
-      "difficulty": 3,
-      "enjoyment": 3,
-      "path": "books/es/a2/las-senales-del-corazon-a2-es.json",
-      "word_count": 2869
-    },
-    {
-      "id": "la-primera-guerra-mundial-b1-es",
-      "title": "La Primera Guerra Mundial",
+      "id": "el-principio-80-20-analisis-de-pareto-nivel-b1-b1-es",
+      "title": "El principio 80/20 (Análisis de Pareto) – Nivel B1",
       "language": "es",
       "level": "B1",
-      "genre": [
-        "history"
-      ],
+      "genre": [],
       "difficulty": 3,
-      "enjoyment": 4,
-      "path": "books/es/b1/la-primera-guerra-mundial-b1-es.json",
-      "word_count": 5520
+      "enjoyment": 3,
+      "word_count": 2078,
+      "path": "books/es/b1/el-principio-80-20-analisis-de-pareto-nivel-b1-b1-es.json"
+    },
+    {
+      "id": "george-iii-b1-es",
+      "title": "George III",
+      "language": "es",
+      "level": "B1",
+      "genre": [],
+      "difficulty": 3,
+      "enjoyment": 3,
+      "path": "books/es/b1/george-iii-b1-es.json",
+      "word_count": 1975
+    },
+    {
+      "id": "gibraltar-b2-es",
+      "title": "Gibraltar B2",
+      "language": "es",
+      "level": "B2",
+      "genre": [],
+      "difficulty": 3,
+      "enjoyment": 3,
+      "path": "books/es/b2/gibraltar-b2-es.json",
+      "word_count": 4503
+    },
+    {
+      "id": "giuseppe-verdi-b1-b1-es",
+      "title": "Giuseppe Verdi B1",
+      "language": "es",
+      "level": "B1",
+      "genre": [],
+      "difficulty": 3,
+      "enjoyment": 3,
+      "path": "books/es/b1/giuseppe-verdi-b1-b1-es.json",
+      "word_count": 3373
+    },
+    {
+      "id": "henry-viii-b1-b1-es",
+      "title": "Henry VIII B1",
+      "language": "es",
+      "level": "B1",
+      "genre": [],
+      "difficulty": 3,
+      "enjoyment": 3,
+      "path": "books/es/b1/henry-viii-b1-b1-es.json",
+      "word_count": 3163
     },
     {
       "id": "isabel-i-de-castilla-b1-es",
@@ -134,122 +263,39 @@
       "word_count": 4892
     },
     {
-      "id": "biografia-de-j-m-barrie-b1-es",
-      "title": "Biografía de J M Barrie",
+      "id": "la-matriz-de-eisenhower-nivel-b1-b1-es",
+      "title": "La Matriz de Eisenhower (Nivel B1)",
+      "language": "es",
+      "level": "B1",
+      "genre": [],
+      "difficulty": 3,
+      "enjoyment": 3,
+      "word_count": 2106,
+      "path": "books/es/b1/la-matriz-de-eisenhower-nivel-b1-b1-es.json"
+    },
+    {
+      "id": "la-primera-guerra-mundial-b1-es",
+      "title": "La Primera Guerra Mundial",
       "language": "es",
       "level": "B1",
       "genre": [
-        "biography"
+        "history"
       ],
       "difficulty": 3,
-      "enjoyment": 3,
-      "path": "books/es/b1/biografia-de-j-m-barrie-b1-es.json",
-      "word_count": 3766
+      "enjoyment": 4,
+      "path": "books/es/b1/la-primera-guerra-mundial-b1-es.json",
+      "word_count": 5520
     },
     {
-      "id": "biografia-de-queen-elizabeth-ii-b2-es",
-      "title": "Biografía de Queen Elizabeth II",
-      "language": "es",
-      "level": "B2",
-      "genre": [
-        "biography"
-      ],
-      "difficulty": 3,
-      "enjoyment": 3,
-      "path": "books/es/b2/biografia-de-queen-elizabeth-ii-b2-es.json",
-      "word_count": 4854
-    },
-    {
-      "id": "biografia-de-erskine-childers-b1-chat-b1-es",
-      "title": "Biografía de Erskine Childers B1 (Chat)",
-      "language": "es",
-      "level": "B1",
-      "genre": [
-        "biography"
-      ],
-      "difficulty": 3,
-      "enjoyment": 3,
-      "path": "books/es/b1/biografia-de-erskine-childers-b1-chat-b1-es.json",
-      "word_count": 4359
-    },
-    {
-      "id": "biografia-de-erskine-childers-b1-grok-b1-es",
-      "title": "Biografía de Erskine Childers B1 Grok",
-      "language": "es",
-      "level": "B1",
-      "genre": [
-        "biography"
-      ],
-      "difficulty": 3,
-      "enjoyment": 3,
-      "path": "books/es/b1/biografia-de-erskine-childers-b1-grok-b1-es.json",
-      "word_count": 3703
-    },
-    {
-      "id": "gibraltar-b2-es",
-      "title": "Gibraltar B2",
-      "language": "es",
-      "level": "B2",
-      "genre": [],
-      "difficulty": 3,
-      "enjoyment": 3,
-      "path": "books/es/b2/gibraltar-b2-es.json",
-      "word_count": 4503
-    },
-    {
-      "id": "giuseppe-verdi-b1-b1-es",
-      "title": "Giuseppe Verdi B1",
+      "id": "la-tecnica-pomodoro-b1-b1-es",
+      "title": "La Técnica Pomodoro B1",
       "language": "es",
       "level": "B1",
       "genre": [],
       "difficulty": 3,
       "enjoyment": 3,
-      "path": "books/es/b1/giuseppe-verdi-b1-b1-es.json",
-      "word_count": 3373
-    },
-    {
-      "id": "mark-tully-b1-b1-es",
-      "title": "Mark Tully B1",
-      "language": "es",
-      "level": "B1",
-      "genre": [],
-      "difficulty": 3,
-      "enjoyment": 3,
-      "path": "books/es/b1/mark-tully-b1-b1-es.json",
-      "word_count": 3455
-    },
-    {
-      "id": "henry-viii-b1-b1-es",
-      "title": "Henry VIII B1",
-      "language": "es",
-      "level": "B1",
-      "genre": [],
-      "difficulty": 3,
-      "enjoyment": 3,
-      "path": "books/es/b1/henry-viii-b1-b1-es.json",
-      "word_count": 3163
-    },
-    {
-      "id": "george-iii-b1-es",
-      "title": "George III",
-      "language": "es",
-      "level": "B1",
-      "genre": [],
-      "difficulty": 3,
-      "enjoyment": 3,
-      "path": "books/es/b1/george-iii-b1-es.json",
-      "word_count": 1975
-    },
-    {
-      "id": "mahatma-gandhi-b1-es",
-      "title": "Mahatma Gandhi",
-      "language": "es",
-      "level": "B1",
-      "genre": [],
-      "difficulty": 3,
-      "enjoyment": 3,
-      "path": "books/es/b1/mahatma-gandhi-b1-es.json",
-      "word_count": 2546
+      "word_count": 2255,
+      "path": "books/es/b1/la-tecnica-pomodoro-b1-b1-es.json"
     },
     {
       "id": "la-tierra-v1-b1-b1-es",
@@ -296,41 +342,50 @@
       "word_count": 1851
     },
     {
-      "id": "el-hotel-la-casa-del-roble-a2-v1-b1-es",
-      "title": "El Hotel La Casa del Roble A2 V1",
+      "id": "las-senales-del-corazon-a2-es",
+      "title": "Las señales del corazón",
+      "language": "es",
+      "level": "A2",
+      "genre": [
+        "fiction"
+      ],
+      "difficulty": 3,
+      "enjoyment": 3,
+      "path": "books/es/a2/las-senales-del-corazon-a2-es.json",
+      "word_count": 2869
+    },
+    {
+      "id": "mahatma-gandhi-b1-es",
+      "title": "Mahatma Gandhi",
       "language": "es",
       "level": "B1",
       "genre": [],
       "difficulty": 3,
       "enjoyment": 3,
-      "path": "books/es/a2/el-hotel-la-casa-del-roble-a2-v1-b1-es.json",
-      "word_count": 1157
+      "path": "books/es/b1/mahatma-gandhi-b1-es.json",
+      "word_count": 2546
     },
     {
-      "id": "el-collar-a2-es",
-      "title": "El collar",
+      "id": "mark-tully-b1-b1-es",
+      "title": "Mark Tully B1",
       "language": "es",
-      "level": "A2",
-      "genre": [
-        "short_story"
-      ],
+      "level": "B1",
+      "genre": [],
       "difficulty": 3,
-      "enjoyment": 4,
-      "word_count": 2642,
-      "path": "books/es/a2/el-collar-a2-es.json"
+      "enjoyment": 3,
+      "path": "books/es/b1/mark-tully-b1-b1-es.json",
+      "word_count": 3455
     },
     {
-      "id": "una-mujer-que-quiere-más-a2-es",
-      "title": "# **Una mujer que quiere más**",
+      "id": "organiza-tu-vida-con-el-metodo-getting-things-done-b1-b1-es",
+      "title": "Organiza tu vida con el método Getting Things Done B1",
       "language": "es",
-      "level": "A2",
-      "genre": [
-        "short_story"
-      ],
+      "level": "B1",
+      "genre": [],
       "difficulty": 3,
-      "enjoyment": 4,
-      "word_count": 2976,
-      "path": "books/es/a2/una-mujer-que-quiere-más-a2-es.json"
+      "enjoyment": 3,
+      "word_count": 2330,
+      "path": "books/es/b1/organiza-tu-vida-con-el-metodo-getting-things-done-b1-b1-es.json"
     },
     {
       "id": "sección-1-una-mujer-que-quiere-más-a2-es",
@@ -346,17 +401,6 @@
       "path": "books/es/a2/sección-1-una-mujer-que-quiere-más-a2-es.json"
     },
     {
-      "id": "la-tecnica-pomodoro-b1-b1-es",
-      "title": "La Técnica Pomodoro B1",
-      "language": "es",
-      "level": "B1",
-      "genre": [],
-      "difficulty": 3,
-      "enjoyment": 3,
-      "word_count": 2255,
-      "path": "books/es/b1/la-tecnica-pomodoro-b1-b1-es.json"
-    },
-    {
       "id": "time-blocking-b1-b1-es",
       "title": "Time Blocking B1",
       "language": "es",
@@ -368,48 +412,17 @@
       "path": "books/es/b1/time-blocking-b1-b1-es.json"
     },
     {
-      "id": "la-matriz-de-eisenhower-nivel-b1-b1-es",
-      "title": "La Matriz de Eisenhower (Nivel B1)",
+      "id": "una-mujer-que-quiere-más-a2-es",
+      "title": "# **Una mujer que quiere más**",
       "language": "es",
-      "level": "B1",
-      "genre": [],
+      "level": "A2",
+      "genre": [
+        "short_story"
+      ],
       "difficulty": 3,
-      "enjoyment": 3,
-      "word_count": 2106,
-      "path": "books/es/b1/la-matriz-de-eisenhower-nivel-b1-b1-es.json"
-    },
-    {
-      "id": "el-principio-80-20-analisis-de-pareto-nivel-b1-b1-es",
-      "title": "El principio 80/20 (Análisis de Pareto) – Nivel B1",
-      "language": "es",
-      "level": "B1",
-      "genre": [],
-      "difficulty": 3,
-      "enjoyment": 3,
-      "word_count": 2078,
-      "path": "books/es/b1/el-principio-80-20-analisis-de-pareto-nivel-b1-b1-es.json"
-    },
-    {
-      "id": "el-metodo-kanban-nivel-b1-b1-es",
-      "title": "El método Kanban – Nivel B1",
-      "language": "es",
-      "level": "B1",
-      "genre": [],
-      "difficulty": 3,
-      "enjoyment": 3,
-      "word_count": 1860,
-      "path": "books/es/b1/el-metodo-kanban-nivel-b1-b1-es.json"
-    },
-    {
-      "id": "organiza-tu-vida-con-el-metodo-getting-things-done-b1-b1-es",
-      "title": "Organiza tu vida con el método Getting Things Done B1",
-      "language": "es",
-      "level": "B1",
-      "genre": [],
-      "difficulty": 3,
-      "enjoyment": 3,
-      "word_count": 2330,
-      "path": "books/es/b1/organiza-tu-vida-con-el-metodo-getting-things-done-b1-b1-es.json"
+      "enjoyment": 4,
+      "word_count": 2976,
+      "path": "books/es/a2/una-mujer-que-quiere-más-a2-es.json"
     }
   ]
 }
