@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_utc": "2026-02-16T23:32:47Z",
+  "updated_utc": "2026-02-16T23:54:43Z",
   "books": [
     {
       "id": "Japan-a2-es",
@@ -14,6 +14,19 @@
       "enjoyment": 3,
       "path": "books/es/a2/Japan-a2-es.json",
       "word_count": 1545
+    },
+    {
+      "id": "South-Korea-a2-es",
+      "title": "South Korea — Perfil del país (A2)",
+      "language": "es",
+      "level": "A2",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 2,
+      "enjoyment": 3,
+      "path": "books/es/a2/South-Korea-a2-es.json",
+      "word_count": 1565
     },
     {
       "id": "biografia-de-alex-hurricane-higgins-a2-es",
