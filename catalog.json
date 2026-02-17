@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_utc": "2026-02-17T23:22:22Z",
+  "updated_utc": "2026-02-17T23:40:55Z",
   "books": [
     {
       "id": "Afganistan-a2-es",
@@ -829,7 +829,7 @@
     },
     {
       "id": "rugby-a1-es",
-      "title": "rugby — Lectura fácil (A1)",
+      "title": "Rugby — Lectura fácil (A1)",
       "language": "es",
       "level": "A1",
       "genre": [
@@ -838,7 +838,670 @@
       "difficulty": 1,
       "enjoyment": 3,
       "path": "books/es/a1/rugby-a1-es.json",
+      "word_count": 150
+    },
+    {
+      "id": "fútbol-a1-es",
+      "title": "fútbol — Lectura fácil (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/fútbol-a1-es.json",
+      "word_count": 148
+    },
+    {
+      "id": "baloncesto-a1-es",
+      "title": "baloncesto — Lectura fácil (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/baloncesto-a1-es.json",
+      "word_count": 147
+    },
+    {
+      "id": "críquet-a1-es",
+      "title": "críquet — Lectura fácil (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/críquet-a1-es.json",
+      "word_count": 144
+    },
+    {
+      "id": "tenis-a1-es",
+      "title": "tenis — Lectura fácil (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/tenis-a1-es.json",
+      "word_count": 147
+    },
+    {
+      "id": "hockey-sobre-césped-a1-es",
+      "title": "hockey sobre césped — Lectura fácil (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/hockey-sobre-césped-a1-es.json",
+      "word_count": 158
+    },
+    {
+      "id": "voleibol-a1-es",
+      "title": "voleibol — Lectura fácil (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/voleibol-a1-es.json",
+      "word_count": 148
+    },
+    {
+      "id": "tenis-de-mesa-a1-es",
+      "title": "Tenis de mesa — Lectura fácil (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/tenis-de-mesa-a1-es.json",
+      "word_count": 157
+    },
+    {
+      "id": "béisbol-a1-es",
+      "title": "béisbol — Lectura fácil (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/béisbol-a1-es.json",
       "word_count": 142
+    },
+    {
+      "id": "fútbol-americano-a1-es",
+      "title": "fútbol americano — Lectura fácil (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/fútbol-americano-a1-es.json",
+      "word_count": 140
+    },
+    {
+      "id": "rugby-league-a1-es",
+      "title": "Rugby League — Lectura fácil (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/rugby-league-a1-es.json",
+      "word_count": 141
+    },
+    {
+      "id": "golf-a1-es",
+      "title": "Golf — Lectura fácil (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/golf-a1-es.json",
+      "word_count": 149
+    },
+    {
+      "id": "boxeo-a1-es",
+      "title": "boxeo — Lectura fácil (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/boxeo-a1-es.json",
+      "word_count": 143
+    },
+    {
+      "id": "hockey-sobre-hielo-a1-es",
+      "title": "hockey sobre hielo — Lectura fácil (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/hockey-sobre-hielo-a1-es.json",
+      "word_count": 141
+    },
+    {
+      "id": "bádminton-a1-es",
+      "title": "bádminton — Lectura fácil (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/bádminton-a1-es.json",
+      "word_count": 143
+    },
+    {
+      "id": "ciclismo-a1-es",
+      "title": "ciclismo — Lectura fácil (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/ciclismo-a1-es.json",
+      "word_count": 140
+    },
+    {
+      "id": "natación-a1-es",
+      "title": "natación — Lectura fácil (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/natación-a1-es.json",
+      "word_count": 156
+    },
+    {
+      "id": "atletismo-a1-es",
+      "title": "atletismo — Lectura fácil (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/atletismo-a1-es.json",
+      "word_count": 142
+    },
+    {
+      "id": "lucha-libre-a1-es",
+      "title": "lucha libre — Lectura fácil (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/lucha-libre-a1-es.json",
+      "word_count": 146
+    },
+    {
+      "id": "artes-marciales-mixtas-a1-es",
+      "title": "Artes Marciales Mixtas — Lectura fácil (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/artes-marciales-mixtas-a1-es.json",
+      "word_count": 142
+    },
+    {
+      "id": "fórmula-1-a1-es",
+      "title": "Fórmula 1 — Lectura fácil (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/fórmula-1-a1-es.json",
+      "word_count": 149
+    },
+    {
+      "id": "motociclismo-de-velocidad-a1-es",
+      "title": "Motociclismo de velocidad — Lectura fácil (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/motociclismo-de-velocidad-a1-es.json",
+      "word_count": 142
+    },
+    {
+      "id": "surf-a1-es",
+      "title": "surf — Lectura fácil (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/surf-a1-es.json",
+      "word_count": 157
+    },
+    {
+      "id": "esquí-alpino-a1-es",
+      "title": "Esquí alpino — Lectura fácil (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/esquí-alpino-a1-es.json",
+      "word_count": 143
+    },
+    {
+      "id": "snowboard-a1-es",
+      "title": "Snowboard — Lectura fácil (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/snowboard-a1-es.json",
+      "word_count": 142
+    },
+    {
+      "id": "gimnasia-a1-es",
+      "title": "gimnasia — Lectura fácil (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/gimnasia-a1-es.json",
+      "word_count": 141
+    },
+    {
+      "id": "balonmano-a1-es",
+      "title": "Balonmano — Lectura fácil (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/balonmano-a1-es.json",
+      "word_count": 143
+    },
+    {
+      "id": "polo-a1-es",
+      "title": "polo — Lectura fácil (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/polo-a1-es.json",
+      "word_count": 148
+    },
+    {
+      "id": "polo-acuático-a1-es",
+      "title": "polo acuático — Lectura fácil (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/polo-acuático-a1-es.json",
+      "word_count": 148
+    },
+    {
+      "id": "lacrosse-a1-es",
+      "title": "lacrosse — Lectura fácil (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/lacrosse-a1-es.json",
+      "word_count": 149
+    },
+    {
+      "id": "sóftbol-a1-es",
+      "title": "Sóftbol — Lectura fácil (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/sóftbol-a1-es.json",
+      "word_count": 143
+    },
+    {
+      "id": "ultimate-frisbee-a1-es",
+      "title": "Ultimate Frisbee — Lectura fácil (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/ultimate-frisbee-a1-es.json",
+      "word_count": 152
+    },
+    {
+      "id": "patinaje-en-patineta-a1-es",
+      "title": "Patinaje en patineta — Lectura fácil (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/patinaje-en-patineta-a1-es.json",
+      "word_count": 145
+    },
+    {
+      "id": "karate-a1-es",
+      "title": "karate — Lectura fácil (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/karate-a1-es.json",
+      "word_count": 142
+    },
+    {
+      "id": "taekwondo-a1-es",
+      "title": "Taekwondo — Lectura fácil (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/taekwondo-a1-es.json",
+      "word_count": 150
+    },
+    {
+      "id": "judo-a1-es",
+      "title": "Judo — Lectura fácil (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/judo-a1-es.json",
+      "word_count": 146
+    },
+    {
+      "id": "bolos-sobre-césped-a1-es",
+      "title": "Bolos sobre césped — Lectura fácil (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/bolos-sobre-césped-a1-es.json",
+      "word_count": 144
+    },
+    {
+      "id": "dardos-a1-es",
+      "title": "dardos — Lectura fácil (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/dardos-a1-es.json",
+      "word_count": 141
+    },
+    {
+      "id": "carreras-de-caballos-a1-es",
+      "title": "Carreras de caballos — Lectura fácil (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/carreras-de-caballos-a1-es.json",
+      "word_count": 147
+    },
+    {
+      "id": "sepak-takraw-a1-es",
+      "title": "Sepak Takraw — Lectura fácil (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/sepak-takraw-a1-es.json",
+      "word_count": 140
+    },
+    {
+      "id": "deportes-electrónicos-a1-es",
+      "title": "deportes electrónicos — Lectura fácil (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/deportes-electrónicos-a1-es.json",
+      "word_count": 151
+    },
+    {
+      "id": "triatlón-a1-es",
+      "title": "Triatlón — Lectura fácil (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/triatlón-a1-es.json",
+      "word_count": 140
+    },
+    {
+      "id": "levantamiento-de-pesas-a1-es",
+      "title": "levantamiento de pesas — Lectura fácil (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/levantamiento-de-pesas-a1-es.json",
+      "word_count": 157
+    },
+    {
+      "id": "vela-a1-es",
+      "title": "vela — Lectura fácil (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/vela-a1-es.json",
+      "word_count": 142
+    },
+    {
+      "id": "tiro-con-arco-a1-es",
+      "title": "Tiro con arco — Lectura fácil (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/tiro-con-arco-a1-es.json",
+      "word_count": 144
+    },
+    {
+      "id": "esgrima-a1-es",
+      "title": "Esgrima — Lectura fácil (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/esgrima-a1-es.json",
+      "word_count": 145
+    },
+    {
+      "id": "snooker-a1-es",
+      "title": "snooker — Lectura fácil (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/snooker-a1-es.json",
+      "word_count": 152
+    },
+    {
+      "id": "billar-a1-es",
+      "title": "Billar — Lectura fácil (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/billar-a1-es.json",
+      "word_count": 143
+    },
+    {
+      "id": "animación-deportiva-a1-es",
+      "title": "animación deportiva — Lectura fácil (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/animación-deportiva-a1-es.json",
+      "word_count": 140
+    },
+    {
+      "id": "orientación-a1-es",
+      "title": "Orientación — Lectura fácil (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/orientación-a1-es.json",
+      "word_count": 141
+    },
+    {
+      "id": "boccia-a1-es",
+      "title": "boccia — Lectura fácil (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/boccia-a1-es.json",
+      "word_count": 158
+    },
+    {
+      "id": "petanca-a1-es",
+      "title": "Petanca — Lectura fácil (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/petanca-a1-es.json",
+      "word_count": 145
     }
   ]
 }
