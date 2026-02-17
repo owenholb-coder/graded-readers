@@ -1,7 +1,137 @@
 {
   "version": 1,
-  "updated_utc": "2026-02-17T00:32:33Z",
+  "updated_utc": "2026-02-17T22:49:34Z",
   "books": [
+    {
+      "id": "Afganistan-a2-es",
+      "title": "Afganistan — Perfil del país (A2)",
+      "language": "es",
+      "level": "A2",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 2,
+      "enjoyment": 3,
+      "path": "books/es/a2/Afganistan-a2-es.json",
+      "word_count": 1450
+    },
+    {
+      "id": "Argentina-a2-es",
+      "title": "Argentina — Perfil del país (A2)",
+      "language": "es",
+      "level": "A2",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 2,
+      "enjoyment": 3,
+      "path": "books/es/a2/Argentina-a2-es.json",
+      "word_count": 1822
+    },
+    {
+      "id": "Belgium-a2-es",
+      "title": "Belgium — Perfil del país (A2)",
+      "language": "es",
+      "level": "A2",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 2,
+      "enjoyment": 3,
+      "path": "books/es/a2/Belgium-a2-es.json",
+      "word_count": 1682
+    },
+    {
+      "id": "Benin-a2-es",
+      "title": "Benin — Perfil del país (A2)",
+      "language": "es",
+      "level": "A2",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 2,
+      "enjoyment": 3,
+      "path": "books/es/a2/Benin-a2-es.json",
+      "word_count": 1835
+    },
+    {
+      "id": "Canada-a2-es",
+      "title": "Canada — Perfil del país (A2)",
+      "language": "es",
+      "level": "A2",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 2,
+      "enjoyment": 3,
+      "path": "books/es/a2/Canada-a2-es.json",
+      "word_count": 1459
+    },
+    {
+      "id": "Chile-a2-es",
+      "title": "Chile — Perfil del país (A2)",
+      "language": "es",
+      "level": "A2",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 2,
+      "enjoyment": 3,
+      "path": "books/es/a2/Chile-a2-es.json",
+      "word_count": 1514
+    },
+    {
+      "id": "Czechia-a2-es",
+      "title": "Czechia — Perfil del país (A2)",
+      "language": "es",
+      "level": "A2",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 2,
+      "enjoyment": 3,
+      "path": "books/es/a2/Czechia-a2-es.json",
+      "word_count": 1494
+    },
+    {
+      "id": "Denmark-a2-es",
+      "title": "Denmark — Perfil del país (A2)",
+      "language": "es",
+      "level": "A2",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 2,
+      "enjoyment": 3,
+      "path": "books/es/a2/Denmark-a2-es.json",
+      "word_count": 1462
+    },
+    {
+      "id": "Egypt-a2-es",
+      "title": "Egypt — Perfil del país (A2)",
+      "language": "es",
+      "level": "A2",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 2,
+      "enjoyment": 3,
+      "path": "books/es/a2/Egypt-a2-es.json",
+      "word_count": 1407
+    },
+    {
+      "id": "Ethiopia-a2-es",
+      "title": "Ethiopia — Perfil del país (A2)",
+      "language": "es",
+      "level": "A2",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 2,
+      "enjoyment": 3,
+      "path": "books/es/a2/Ethiopia-a2-es.json",
+      "word_count": 1580
+    },
     {
       "id": "France-a2-es",
       "title": "France — Perfil del país (A2)",
@@ -42,6 +172,19 @@
       "word_count": 1591
     },
     {
+      "id": "Ireland-a2-es",
+      "title": "Ireland — Perfil del país (A2)",
+      "language": "es",
+      "level": "A2",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 2,
+      "enjoyment": 3,
+      "path": "books/es/a2/Ireland-a2-es.json",
+      "word_count": 1550
+    },
+    {
       "id": "Italy-a2-es",
       "title": "Italy — Perfil del país (A2)",
       "language": "es",
@@ -68,6 +211,32 @@
       "word_count": 1545
     },
     {
+      "id": "Kenya-a2-es",
+      "title": "Kenya — Perfil del país (A2)",
+      "language": "es",
+      "level": "A2",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 2,
+      "enjoyment": 3,
+      "path": "books/es/a2/Kenya-a2-es.json",
+      "word_count": 1205
+    },
+    {
+      "id": "Libya-a2-es",
+      "title": "Libya — Perfil del país (A2)",
+      "language": "es",
+      "level": "A2",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 2,
+      "enjoyment": 3,
+      "path": "books/es/a2/Libya-a2-es.json",
+      "word_count": 1602
+    },
+    {
       "id": "Mexico-a2-es",
       "title": "Mexico — Perfil del país (A2)",
       "language": "es",
@@ -79,6 +248,84 @@
       "enjoyment": 3,
       "path": "books/es/a2/Mexico-a2-es.json",
       "word_count": 1659
+    },
+    {
+      "id": "Mongolia-a2-es",
+      "title": "Mongolia — Perfil del país (A2)",
+      "language": "es",
+      "level": "A2",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 2,
+      "enjoyment": 3,
+      "path": "books/es/a2/Mongolia-a2-es.json",
+      "word_count": 1277
+    },
+    {
+      "id": "Nepal-a2-es",
+      "title": "Nepal — Perfil del país (A2)",
+      "language": "es",
+      "level": "A2",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 2,
+      "enjoyment": 3,
+      "path": "books/es/a2/Nepal-a2-es.json",
+      "word_count": 1405
+    },
+    {
+      "id": "New-Zealand-a2-es",
+      "title": "New Zealand — Perfil del país (A2)",
+      "language": "es",
+      "level": "A2",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 2,
+      "enjoyment": 3,
+      "path": "books/es/a2/New-Zealand-a2-es.json",
+      "word_count": 1480
+    },
+    {
+      "id": "Pakistan-a2-es",
+      "title": "Pakistan — Perfil del país (A2)",
+      "language": "es",
+      "level": "A2",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 2,
+      "enjoyment": 3,
+      "path": "books/es/a2/Pakistan-a2-es.json",
+      "word_count": 1629
+    },
+    {
+      "id": "Poland-a2-es",
+      "title": "Poland — Perfil del país (A2)",
+      "language": "es",
+      "level": "A2",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 2,
+      "enjoyment": 3,
+      "path": "books/es/a2/Poland-a2-es.json",
+      "word_count": 1601
+    },
+    {
+      "id": "Russia-a2-es",
+      "title": "Russia — Perfil del país (A2)",
+      "language": "es",
+      "level": "A2",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 2,
+      "enjoyment": 3,
+      "path": "books/es/a2/Russia-a2-es.json",
+      "word_count": 1335
     },
     {
       "id": "South-Korea-a2-es",
@@ -107,6 +354,19 @@
       "word_count": 1581
     },
     {
+      "id": "Thailand-a2-es",
+      "title": "Thailand — Perfil del país (A2)",
+      "language": "es",
+      "level": "A2",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 2,
+      "enjoyment": 3,
+      "path": "books/es/a2/Thailand-a2-es.json",
+      "word_count": 1229
+    },
+    {
       "id": "USA-a2-es",
       "title": "USA — Perfil del país (A2)",
       "language": "es",
@@ -118,6 +378,45 @@
       "enjoyment": 3,
       "path": "books/es/a2/USA-a2-es.json",
       "word_count": 1680
+    },
+    {
+      "id": "Ukraine-a2-es",
+      "title": "Ukraine — Perfil del país (A2)",
+      "language": "es",
+      "level": "A2",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 2,
+      "enjoyment": 3,
+      "path": "books/es/a2/Ukraine-a2-es.json",
+      "word_count": 1423
+    },
+    {
+      "id": "Vietnam-a2-es",
+      "title": "Vietnam — Perfil del país (A2)",
+      "language": "es",
+      "level": "A2",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 2,
+      "enjoyment": 3,
+      "path": "books/es/a2/Vietnam-a2-es.json",
+      "word_count": 1317
+    },
+    {
+      "id": "Zimbabwe-a2-es",
+      "title": "Zimbabwe — Perfil del país (A2)",
+      "language": "es",
+      "level": "A2",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 2,
+      "enjoyment": 3,
+      "path": "books/es/a2/Zimbabwe-a2-es.json",
+      "word_count": 1339
     },
     {
       "id": "biografia-de-alex-hurricane-higgins-a2-es",
