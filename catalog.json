@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_utc": "2026-02-17T22:49:34Z",
+  "updated_utc": "2026-02-17T23:22:22Z",
   "books": [
     {
       "id": "Afganistan-a2-es",
@@ -826,6 +826,19 @@
       "enjoyment": 4,
       "word_count": 2976,
       "path": "books/es/a2/una-mujer-que-quiere-más-a2-es.json"
+    },
+    {
+      "id": "rugby-a1-es",
+      "title": "rugby — Lectura fácil (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/rugby-a1-es.json",
+      "word_count": 142
     }
   ]
 }
