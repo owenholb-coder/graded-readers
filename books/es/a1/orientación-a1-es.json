@@ -1,0 +1,20 @@
+{
+  "id": "orientación-a1-es",
+  "title": "Orientación — Lectura fácil (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — Orientación",
+      "text": "La orientación es un deporte al aire libre. Los jugadores usan un mapa y una brújula. El objetivo es encontrar puntos en el bosque o en la ciudad. Cada punto tiene una marca especial. Los jugadores deben ir rápido y sin perderse. La orientación se juega en parques, bosques y a veces en pueblos. Es un deporte para todas las edades. A los jugadores les gusta porque es un reto para la mente y el cuerpo. También es bueno para conocer la naturaleza. En la orientación, no gana solo quien corre más rápido, sino quien encuentra todos los puntos en el mejor orden. Es divertido y diferente de otros deportes. Muchas personas hacen orientación para estar en forma y disfrutar del aire libre. También es un deporte tranquilo y seguro. Por eso, muchas personas lo practican en familia o con amigos."
+    }
+  ],
+  "word_count": 141
+}

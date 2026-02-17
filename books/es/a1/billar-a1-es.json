@@ -1,0 +1,20 @@
+{
+  "id": "billar-a1-es",
+  "title": "Billar — Lectura fácil (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — Billar",
+      "text": "El billar es un deporte que se juega con una mesa, bolas y un taco. La mesa es rectangular y tiene seis bolsillos. Los jugadores usan el taco para golpear una bola blanca. Esta bola blanca choca con otras bolas de colores. El objetivo es meter las bolas en los bolsillos. El billar se juega en lugares cerrados, como clubes o bares. Dos o más personas pueden jugar. Los jugadores piensan mucho para hacer buenos tiros y ganar. El billar gusta porque es un juego tranquilo y divertido. También ayuda a mejorar la concentración y la precisión. Muchas personas lo juegan para pasar un buen rato con amigos y familia. El billar es un deporte para todas las edades. No se necesita mucha fuerza, solo habilidad y paciencia. Es un juego que une a las personas y crea un ambiente agradable y social."
+    }
+  ],
+  "word_count": 143
+}

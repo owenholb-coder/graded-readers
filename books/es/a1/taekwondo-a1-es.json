@@ -1,0 +1,20 @@
+{
+  "id": "taekwondo-a1-es",
+  "title": "Taekwondo — Lectura fácil (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — Taekwondo",
+      "text": "El taekwondo es un deporte de artes marciales que viene de Corea. En este deporte, las personas usan golpes con las manos y las piernas. Los jugadores llevan ropa especial y protecciones para estar seguros. El taekwondo se practica en un lugar llamado tatami. Los jugadores intentan tocar al otro con golpes para ganar puntos. Aunque es un deporte de lucha, siempre hay respeto entre los jugadores. Ellos se saludan antes y después del combate. Este deporte es popular porque ayuda a estar fuerte y rápido. También enseña disciplina y control del cuerpo y la mente. Muchas personas practican taekwondo para aprender defensa personal. Es bueno para la salud física y mental. En las competiciones, hay reglas claras para que todo sea seguro. El taekwondo es para todos, niños y adultos. Es un deporte que une fuerza y técnica, y por eso muchas personas lo disfrutan en todo el mundo."
+    }
+  ],
+  "word_count": 150
+}
