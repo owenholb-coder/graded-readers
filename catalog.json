@@ -1,7 +1,59 @@
 {
   "version": 1,
-  "updated_utc": "2026-02-16T23:54:43Z",
+  "updated_utc": "2026-02-17T00:32:33Z",
   "books": [
+    {
+      "id": "France-a2-es",
+      "title": "France — Perfil del país (A2)",
+      "language": "es",
+      "level": "A2",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 2,
+      "enjoyment": 3,
+      "path": "books/es/a2/France-a2-es.json",
+      "word_count": 1661
+    },
+    {
+      "id": "Germany-a2-es",
+      "title": "Germany — Perfil del país (A2)",
+      "language": "es",
+      "level": "A2",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 2,
+      "enjoyment": 3,
+      "path": "books/es/a2/Germany-a2-es.json",
+      "word_count": 1530
+    },
+    {
+      "id": "India-a2-es",
+      "title": "India — Perfil del país (A2)",
+      "language": "es",
+      "level": "A2",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 2,
+      "enjoyment": 3,
+      "path": "books/es/a2/India-a2-es.json",
+      "word_count": 1591
+    },
+    {
+      "id": "Italy-a2-es",
+      "title": "Italy — Perfil del país (A2)",
+      "language": "es",
+      "level": "A2",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 2,
+      "enjoyment": 3,
+      "path": "books/es/a2/Italy-a2-es.json",
+      "word_count": 1770
+    },
     {
       "id": "Japan-a2-es",
       "title": "Japan — Perfil del país (A2)",
@@ -16,6 +68,19 @@
       "word_count": 1545
     },
     {
+      "id": "Mexico-a2-es",
+      "title": "Mexico — Perfil del país (A2)",
+      "language": "es",
+      "level": "A2",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 2,
+      "enjoyment": 3,
+      "path": "books/es/a2/Mexico-a2-es.json",
+      "word_count": 1659
+    },
+    {
       "id": "South-Korea-a2-es",
       "title": "South Korea — Perfil del país (A2)",
       "language": "es",
@@ -27,6 +92,32 @@
       "enjoyment": 3,
       "path": "books/es/a2/South-Korea-a2-es.json",
       "word_count": 1565
+    },
+    {
+      "id": "Spain-a2-es",
+      "title": "Spain — Perfil del país (A2)",
+      "language": "es",
+      "level": "A2",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 2,
+      "enjoyment": 3,
+      "path": "books/es/a2/Spain-a2-es.json",
+      "word_count": 1581
+    },
+    {
+      "id": "USA-a2-es",
+      "title": "USA — Perfil del país (A2)",
+      "language": "es",
+      "level": "A2",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 2,
+      "enjoyment": 3,
+      "path": "books/es/a2/USA-a2-es.json",
+      "word_count": 1680
     },
     {
       "id": "biografia-de-alex-hurricane-higgins-a2-es",
