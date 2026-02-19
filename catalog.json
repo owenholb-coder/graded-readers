@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_utc": "2026-02-17T23:40:55Z",
+  "updated_utc": "2026-02-19T18:34:47Z",
   "books": [
     {
       "id": "Afganistan-a2-es",
@@ -1502,6 +1502,656 @@
       "enjoyment": 3,
       "path": "books/es/a1/petanca-a1-es.json",
       "word_count": 145
+    },
+    {
+      "id": "Spain-a1-es",
+      "title": "Spain — Perfil del país (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Spain-a1-es.json",
+      "word_count": 569
+    },
+    {
+      "id": "France-a1-es",
+      "title": "France — Perfil del país (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/France-a1-es.json",
+      "word_count": 610
+    },
+    {
+      "id": "Germany-a1-es",
+      "title": "Germany — Perfil del país (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Germany-a1-es.json",
+      "word_count": 607
+    },
+    {
+      "id": "Italy-a1-es",
+      "title": "Italy — Perfil del país (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Italy-a1-es.json",
+      "word_count": 602
+    },
+    {
+      "id": "Portugal-a1-es",
+      "title": "Portugal — Perfil del país (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Portugal-a1-es.json",
+      "word_count": 590
+    },
+    {
+      "id": "United-Kingdom-a1-es",
+      "title": "United Kingdom — Perfil del país (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/United-Kingdom-a1-es.json",
+      "word_count": 576
+    },
+    {
+      "id": "Ireland-a1-es",
+      "title": "Ireland — Perfil del país (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Ireland-a1-es.json",
+      "word_count": 588
+    },
+    {
+      "id": "Netherlands-a1-es",
+      "title": "Netherlands — Perfil del país (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Netherlands-a1-es.json",
+      "word_count": 576
+    },
+    {
+      "id": "Belgium-a1-es",
+      "title": "Belgium — Perfil del país (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Belgium-a1-es.json",
+      "word_count": 571
+    },
+    {
+      "id": "Switzerland-a1-es",
+      "title": "Switzerland — Perfil del país (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Switzerland-a1-es.json",
+      "word_count": 576
+    },
+    {
+      "id": "Austria-a1-es",
+      "title": "Austria — Perfil del país (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Austria-a1-es.json",
+      "word_count": 590
+    },
+    {
+      "id": "Sweden-a1-es",
+      "title": "Sweden — Perfil del país (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Sweden-a1-es.json",
+      "word_count": 572
+    },
+    {
+      "id": "Norway-a1-es",
+      "title": "Norway — Perfil del país (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Norway-a1-es.json",
+      "word_count": 581
+    },
+    {
+      "id": "Denmark-a1-es",
+      "title": "Denmark — Perfil del país (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Denmark-a1-es.json",
+      "word_count": 604
+    },
+    {
+      "id": "Finland-a1-es",
+      "title": "Finland — Perfil del país (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Finland-a1-es.json",
+      "word_count": 560
+    },
+    {
+      "id": "Poland-a1-es",
+      "title": "Poland — Perfil del país (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Poland-a1-es.json",
+      "word_count": 598
+    },
+    {
+      "id": "Czech-Republic-a1-es",
+      "title": "Czech Republic — Perfil del país (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Czech-Republic-a1-es.json",
+      "word_count": 574
+    },
+    {
+      "id": "Greece-a1-es",
+      "title": "Greece — Perfil del país (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Greece-a1-es.json",
+      "word_count": 613
+    },
+    {
+      "id": "Turkey-a1-es",
+      "title": "Turkey — Perfil del país (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Turkey-a1-es.json",
+      "word_count": 583
+    },
+    {
+      "id": "Morocco-a1-es",
+      "title": "Morocco — Perfil del país (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Morocco-a1-es.json",
+      "word_count": 580
+    },
+    {
+      "id": "Egypt-a1-es",
+      "title": "Egypt — Perfil del país (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Egypt-a1-es.json",
+      "word_count": 552
+    },
+    {
+      "id": "United-Arab-Emirates-a1-es",
+      "title": "United Arab Emirates — Perfil del país (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/United-Arab-Emirates-a1-es.json",
+      "word_count": 570
+    },
+    {
+      "id": "South-Africa-a1-es",
+      "title": "South Africa — Perfil del país (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/South-Africa-a1-es.json",
+      "word_count": 593
+    },
+    {
+      "id": "Kenya-a1-es",
+      "title": "Kenya — Perfil del país (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Kenya-a1-es.json",
+      "word_count": 591
+    },
+    {
+      "id": "India-a1-es",
+      "title": "India — Perfil del país (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/India-a1-es.json",
+      "word_count": 594
+    },
+    {
+      "id": "China-a1-es",
+      "title": "China — Perfil del país (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/China-a1-es.json",
+      "word_count": 565
+    },
+    {
+      "id": "Japan-a1-es",
+      "title": "Japan — Perfil del país (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Japan-a1-es.json",
+      "word_count": 600
+    },
+    {
+      "id": "South-Korea-a1-es",
+      "title": "South Korea — Perfil del país (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/South-Korea-a1-es.json",
+      "word_count": 581
+    },
+    {
+      "id": "Thailand-a1-es",
+      "title": "Thailand — Perfil del país (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Thailand-a1-es.json",
+      "word_count": 583
+    },
+    {
+      "id": "Vietnam-a1-es",
+      "title": "Vietnam — Perfil del país (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Vietnam-a1-es.json",
+      "word_count": 584
+    },
+    {
+      "id": "Indonesia-a1-es",
+      "title": "Indonesia — Perfil del país (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Indonesia-a1-es.json",
+      "word_count": 587
+    },
+    {
+      "id": "Philippines-a1-es",
+      "title": "Philippines — Perfil del país (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Philippines-a1-es.json",
+      "word_count": 600
+    },
+    {
+      "id": "Singapore-a1-es",
+      "title": "Singapore — Perfil del país (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Singapore-a1-es.json",
+      "word_count": 631
+    },
+    {
+      "id": "Australia-a1-es",
+      "title": "Australia — Perfil del país (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Australia-a1-es.json",
+      "word_count": 585
+    },
+    {
+      "id": "New-Zealand-a1-es",
+      "title": "New Zealand — Perfil del país (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/New-Zealand-a1-es.json",
+      "word_count": 599
+    },
+    {
+      "id": "United-States-a1-es",
+      "title": "United States — Perfil del país (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/United-States-a1-es.json",
+      "word_count": 577
+    },
+    {
+      "id": "Canada-a1-es",
+      "title": "Canada — Perfil del país (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Canada-a1-es.json",
+      "word_count": 557
+    },
+    {
+      "id": "Mexico-a1-es",
+      "title": "Mexico — Perfil del país (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Mexico-a1-es.json",
+      "word_count": 603
+    },
+    {
+      "id": "Brazil-a1-es",
+      "title": "Brazil — Perfil del país (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Brazil-a1-es.json",
+      "word_count": 595
+    },
+    {
+      "id": "Argentina-a1-es",
+      "title": "Argentina — Perfil del país (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Argentina-a1-es.json",
+      "word_count": 604
+    },
+    {
+      "id": "Chile-a1-es",
+      "title": "Chile — Perfil del país (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Chile-a1-es.json",
+      "word_count": 584
+    },
+    {
+      "id": "Colombia-a1-es",
+      "title": "Colombia — Perfil del país (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Colombia-a1-es.json",
+      "word_count": 592
+    },
+    {
+      "id": "Peru-a1-es",
+      "title": "Peru — Perfil del país (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Peru-a1-es.json",
+      "word_count": 590
+    },
+    {
+      "id": "Costa-Rica-a1-es",
+      "title": "Costa Rica — Perfil del país (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Costa-Rica-a1-es.json",
+      "word_count": 575
+    },
+    {
+      "id": "Panama-a1-es",
+      "title": "Panama — Perfil del país (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Panama-a1-es.json",
+      "word_count": 572
+    },
+    {
+      "id": "Cuba-a1-es",
+      "title": "Cuba — Perfil del país (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Cuba-a1-es.json",
+      "word_count": 598
+    },
+    {
+      "id": "Dominican-Republic-a1-es",
+      "title": "Dominican Republic — Perfil del país (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Dominican-Republic-a1-es.json",
+      "word_count": 571
+    },
+    {
+      "id": "Iceland-a1-es",
+      "title": "Iceland — Perfil del país (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Iceland-a1-es.json",
+      "word_count": 588
+    },
+    {
+      "id": "Hungary-a1-es",
+      "title": "Hungary — Perfil del país (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Hungary-a1-es.json",
+      "word_count": 575
+    },
+    {
+      "id": "Romania-a1-es",
+      "title": "Romania — Perfil del país (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Romania-a1-es.json",
+      "word_count": 577
     }
   ]
 }
