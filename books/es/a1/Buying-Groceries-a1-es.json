@@ -1,0 +1,114 @@
+{
+  "id": "Buying-Groceries-a1-es",
+  "title": "Comprar comida — Proceso (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — La situación — Comprar comida",
+      "text": "Una persona tiene hambre y no hay comida en su casa. Quiere preparar la cena esta noche. Por eso, decide ir a la tienda que está cerca, a solo unos minutos caminando. En la tienda, hay muchas cosas para comer. La persona quiere comprar frutas frescas, verduras verdes y pan. También necesita leche para beber y huevos para cocinar. Camina con cuidado y mira los productos en la tienda. Elige lo que es bueno y fresco. Después, paga en la caja con dinero. Luego, regresa a su casa con las bolsas. Ahora puede preparar la cena con los alimentos que compró. Está feliz porque pronto comerá algo rico y saludable. La comida será buena para su cuerpo y le dará energía para mañana. Así, la persona cuida su salud y se siente bien. Además, piensa en su familia y quiere compartir la comida con ellos."
+    },
+    {
+      "title": "Sección 2 — Lo que necesita — Comprar comida",
+      "text": "La persona tiene dinero para comprar comida. Lleva su teléfono móvil. El teléfono ayuda si necesita llamar o buscar información. También lleva una bolsa para poner la comida. La persona tiene tiempo libre y va a la tienda sin prisa. No necesita documentos para comprar. Solo paga en la caja con dinero o tarjeta. Antes de salir, piensa en lo que quiere comprar. Quiere frutas, verduras y pan. Puede comprar leche o huevos si los necesita. La persona está lista para ir a la tienda. Quiere comprar todo para comer bien. Además, mira los precios para gastar poco. Camina con calma y disfruta el paseo. En la tienda, elige productos frescos y buenos. La persona sabe que comer bien es importante para la salud. Por eso, compra comida sana y variada. Después, vuelve a casa contenta y lista para cocinar."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Comprar comida",
+      "text": "La persona va a la tienda para comprar comida. En la tienda, mira las frutas y verduras frescas. Escoge las que le gustan. Luego, busca el pan y la leche. También toma los huevos y otros productos que necesita. Camina por los pasillos con cuidado y ve muchas cosas. Después, va a la caja para pagar. Da el dinero al cajero y espera. El cajero le da el cambio. La persona pone la comida en la bolsa. Revisa que tiene todo lo que compró. Finalmente, sale de la tienda con la bolsa en la mano. Camina hacia su casa con la comida. Está contenta porque tiene lo que necesita para cocinar. Comprar comida es importante para vivir bien y estar sano. La persona sabe que la comida fresca es buena para la salud. Siempre compra lo que necesita para su familia. Así, puede preparar comidas ricas y nutritivas cada día."
+    },
+    {
+      "title": "Sección 4 — El resultado — Comprar comida",
+      "text": "La persona va a la tienda para comprar comida. Compra frutas frescas, verduras verdes, pan, leche y huevos. Después, regresa a casa con las bolsas llenas. En la casa, pone la comida en la mesa. Ahora puede preparar la cena con los ingredientes que compró. Cocina con cuidado y hace platos ricos y saludables. Está contenta porque tiene todo lo que necesita para comer bien. La comida es buena para su salud. En la casa hay comida para varios días. La persona come bien y se siente satisfecha y fuerte. Comprar comida es importante para vivir bien y tener energía cada día. La persona cuida su salud comprando comida fresca. La comida ayuda a estar fuerte y feliz. Por eso, comprar comida es una parte importante de la vida diaria. Así, la persona vive mejor y se siente bien cada día."
+    }
+  ],
+  "word_count": 576,
+  "dialogue": {
+    "title": "En la tienda de comida",
+    "lines": [
+      {
+        "speaker": "A",
+        "text": "Hola, ¿tienes frutas frescas?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, aquí están las manzanas y las naranjas."
+      },
+      {
+        "speaker": "A",
+        "text": "Quiero comprar pan y leche también."
+      },
+      {
+        "speaker": "B",
+        "text": "Claro, el pan está en la mesa y la leche en el refrigerador."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Cuánto cuesta todo?"
+      },
+      {
+        "speaker": "B",
+        "text": "Son diez euros en total."
+      },
+      {
+        "speaker": "A",
+        "text": "Aquí tienes el dinero. Gracias."
+      },
+      {
+        "speaker": "B",
+        "text": "Gracias a ti. Que tengas un buen día."
+      }
+    ]
+  },
+  "say_it": {
+    "title": "Frases para repetir",
+    "items": [
+      "Quiero comprar frutas frescas.",
+      "Necesito leche para beber.",
+      "Camino con cuidado en la tienda.",
+      "Pago en la caja con dinero.",
+      "Elijo productos buenos y frescos.",
+      "Regreso a casa con las bolsas.",
+      "Preparo la cena con los alimentos.",
+      "La comida es buena para la salud."
+    ]
+  },
+  "make_it_yours": {
+    "title": "Hazlo tuyo",
+    "items": [
+      {
+        "prompt": "Quiero comprar frutas frescas.",
+        "example": "Quiero comprar verduras verdes."
+      },
+      {
+        "prompt": "Pago en la caja con dinero.",
+        "example": "Pago en la caja con tarjeta."
+      },
+      {
+        "prompt": "Camino con cuidado en la tienda.",
+        "example": "Camino con calma en la tienda."
+      },
+      {
+        "prompt": "La persona tiene hambre.",
+        "example": "La persona tiene tiempo libre."
+      },
+      {
+        "prompt": "La comida es buena para la salud.",
+        "example": "La comida es buena para la familia."
+      }
+    ]
+  },
+  "tags": [
+    "buying",
+    "process",
+    "food",
+    "health",
+    "home"
+  ]
+}

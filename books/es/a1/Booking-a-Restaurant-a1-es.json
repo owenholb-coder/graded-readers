@@ -1,0 +1,115 @@
+{
+  "id": "Booking-a-Restaurant-a1-es",
+  "title": "Reservar en un restaurante — Proceso (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — La situación — Reservar en un restaurante",
+      "text": "La persona tiene hambre y quiere comer fuera de casa. Cerca hay un restaurante bueno. El restaurante está lleno y la persona no quiere esperar mucho tiempo. Por eso, llama para reservar una mesa. Reservar es pedir un lugar para comer a una hora. Así, la persona tiene seguro su lugar y no espera. También quiere estar con sus amigos en el restaurante. Reservar ayuda a que todos estén juntos. Pueden hablar y reír sin problema. La persona está contenta porque sabe que comerá bien y disfrutará con sus amigos. Comer fuera es divertido y la persona quiere repetir esta experiencia pronto. Reservar es una buena idea para comer sin problemas y pasar un buen rato. Por eso, siempre llama antes de ir al restaurante."
+    },
+    {
+      "title": "Sección 2 — Lo que necesita — Reservar en un restaurante",
+      "text": "Para reservar en un restaurante, la persona necesita cosas básicas. Primero, tiene un teléfono para llamar y pedir la reserva. También sabe la hora para ir a comer. La persona piensa en cuántas personas van a ir con ella. No necesita un documento especial para reservar, solo hablar con alguien del restaurante por teléfono. A veces, usa internet para buscar el número del restaurante. Además, la persona tiene dinero para pagar la comida cuando llega. El tiempo es importante porque debe elegir bien la hora para la comida. Cuando tiene todo esto, está tranquila y lista para reservar. Así, puede disfrutar de una buena comida sin problemas y sin estrés. Reservar es fácil y rápido si sabe qué necesita."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Reservar en un restaurante",
+      "text": "La persona quiere reservar en un restaurante. Primero, llama por teléfono. Habla con alguien del restaurante. Dice el día y la hora para ir. También dice cuántas personas van a ir. El restaurante escucha y responde. Confirma que hay mesa para ese día y hora. La persona pregunta si la mesa está libre. El restaurante dice que sí. Después, la persona da su nombre. Así, el restaurante sabe quién hace la reserva. La persona termina la llamada. Está feliz porque tiene la mesa segura. Ahora puede ir al restaurante sin problema. La reserva es importante para no esperar. La persona espera el día de la cena con ganas. Está contenta y piensa en la comida. Quiere pasar un buen rato con sus amigos o familia. También piensa en la bebida y en la charla. La reserva ayuda a tener un buen momento. La persona está lista para disfrutar la cena."
+    },
+    {
+      "title": "Sección 4 — El resultado — Reservar en un restaurante",
+      "text": "La persona llega al restaurante en el día y la hora que reservó. No espera mucho porque la mesa está lista. Se sienta con sus amigos y todos están contentos. Comen comida rica y hablan mucho mientras disfrutan. La comida es buena y el lugar es cómodo. Al final, la persona paga la cuenta sin problemas. Está feliz con la comida y el servicio del restaurante. Reservar la mesa fue una buena idea para no esperar. La persona piensa en volver a reservar otra vez. La experiencia fue fácil y agradable. Todos disfrutan y quieren repetir la visita pronto. La reserva ayuda a tener un buen momento sin estrés. La persona recomienda reservar para comer bien y estar tranquilo. Así, la visita al restaurante es siempre buena y feliz."
+    }
+  ],
+  "word_count": 523,
+  "dialogue": {
+    "title": "Diálogo: Reservar una mesa",
+    "lines": [
+      {
+        "speaker": "A",
+        "text": "Hola, quiero reservar una mesa."
+      },
+      {
+        "speaker": "B",
+        "text": "Claro, ¿para qué día es la reserva?"
+      },
+      {
+        "speaker": "A",
+        "text": "Para el viernes a las ocho de la noche."
+      },
+      {
+        "speaker": "B",
+        "text": "¿Cuántas personas van a venir?"
+      },
+      {
+        "speaker": "A",
+        "text": "Somos cuatro personas."
+      },
+      {
+        "speaker": "B",
+        "text": "Perfecto, la mesa está libre a esa hora."
+      },
+      {
+        "speaker": "A",
+        "text": "Mi nombre es Ana. Gracias."
+      },
+      {
+        "speaker": "B",
+        "text": "De nada, Ana. Te esperamos el viernes."
+      }
+    ]
+  },
+  "say_it": {
+    "title": "Frases para repetir",
+    "items": [
+      "Quiero reservar una mesa.",
+      "¿Para qué día es la reserva?",
+      "Somos cuatro personas.",
+      "La mesa está libre.",
+      "¿A qué hora quieres la reserva?",
+      "Mi nombre es Ana.",
+      "Gracias por la reserva.",
+      "Te esperamos en el restaurante."
+    ]
+  },
+  "make_it_yours": {
+    "title": "Hazlo tuyo: Cambia una palabra",
+    "items": [
+      {
+        "prompt": "Cambia el día de la reserva.",
+        "example": "La reserva es para el sábado."
+      },
+      {
+        "prompt": "Cambia la cantidad de personas.",
+        "example": "Somos dos personas."
+      },
+      {
+        "prompt": "Cambia la hora de la reserva.",
+        "example": "La mesa es para las siete de la noche."
+      },
+      {
+        "prompt": "Cambia el nombre para la reserva.",
+        "example": "Mi nombre es Carlos."
+      },
+      {
+        "prompt": "Cambia la pregunta sobre la mesa.",
+        "example": "¿La mesa está disponible? "
+      }
+    ]
+  },
+  "tags": [
+    "needing",
+    "asking",
+    "time",
+    "process",
+    "food",
+    "social"
+  ]
+}

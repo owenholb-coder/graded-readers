@@ -1,0 +1,39 @@
+{
+  "id": "Engineer-a1-es",
+  "title": "Ingeniero — Profesión (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — El trabajo — Ingeniero",
+      "text": "Un ingeniero es una persona que trabaja con ciencia y tecnología. Su trabajo es muy importante para la sociedad. Los ingenieros crean cosas nuevas y mejoran las que ya existen. Usan su mente para resolver problemas cada día. El trabajo puede ser interesante y a veces difícil. Los ingenieros estudian mucho para aprender y ser buenos en su trabajo. Usan dibujos, números y herramientas para hacer su trabajo bien. El trabajo de un ingeniero ayuda a muchas personas en todo el mundo. Sin ingenieros, no habría muchas máquinas, edificios ni tecnología. Este trabajo es bueno para las personas que les gusta pensar, crear y ayudar a otros. Los ingenieros trabajan en oficinas, fábricas y otros lugares. Siempre buscan nuevas ideas para mejorar la vida de todos nosotros. Además, los ingenieros hablan con otras personas para compartir sus ideas y aprender más. Su trabajo es muy importante para el progreso y el bienestar de la sociedad."
+    },
+    {
+      "title": "Sección 2 — Dónde trabaja — Ingeniero",
+      "text": "Un ingeniero trabaja en muchos lugares diferentes. Algunos están en oficinas. En la oficina, usan computadoras y hablan con sus compañeros. Otros trabajan en fábricas. En la fábrica, miran las máquinas y las arreglan si están rotas. También hay ingenieros que trabajan en la calle. Por ejemplo, los ingenieros civiles trabajan en carreteras y puentes. Algunos están en laboratorios. Allí hacen pruebas y experimentos para mejorar cosas. El lugar de trabajo cambia según el tipo de ingeniería. El trabajo puede ser dentro o fuera de un edificio. Siempre es importante que el ingeniero esté atento y seguro. Además, algunos visitan obras y hablan con otras personas para hacer bien su trabajo. El trabajo de un ingeniero es muy variado y siempre interesante."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Ingeniero",
+      "text": "El ingeniero trabaja todos los días para resolver problemas. Piensa en ideas nuevas y hace dibujos para mostrar sus pensamientos. Usa números para medir y calcular cosas importantes. Diseña máquinas, edificios o sistemas que ayudan a las personas. Habla con otras personas para entender lo que necesitan y hacer un buen trabajo. Prueba sus ideas para ver si funcionan bien. Si algo no funciona, cambia el diseño y prueba otra vez. El ingeniero escribe informes para explicar su trabajo a otros. Usa computadoras para hacer dibujos y cálculos con más facilidad. Su trabajo es creativo porque inventa cosas nuevas. También es técnico porque usa ciencia y matemáticas. El ingeniero siempre trabaja con cuidado para que todo sea seguro y bueno para todos. Además, colabora con su equipo para mejorar los proyectos y busca soluciones prácticas para la vida diaria. Siempre aprende cosas nuevas para hacer mejor su trabajo."
+    },
+    {
+      "title": "Sección 4 — Un día normal — Ingeniero",
+      "text": "Un día normal para un ingeniero empieza en la oficina. Primero, revisa sus correos y habla con su equipo. Luego, trabaja en dibujos y cálculos para sus proyectos. A veces, visita la fábrica o la obra para ver cómo va el trabajo. Allí habla con los trabajadores y revisa los detalles del proyecto. Después, vuelve a la oficina para hacer informes y planear nuevas tareas. El ingeniero tiene reuniones con su equipo para organizar el trabajo del día. También responde preguntas y ayuda a resolver problemas que aparecen. Al final del día, revisa todo lo que hizo y prepara las tareas para mañana. El día es largo y a veces cansado, pero el ingeniero disfruta su trabajo. Siempre aprende cosas nuevas y ayuda a crear cosas importantes para la gente. Su trabajo es útil y le gusta mucho."
+    }
+  ],
+  "word_count": 563,
+  "tags": [
+    "work",
+    "description",
+    "process",
+    "routine",
+    "problems"
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "Buying-a-Phone-a1-es",
+  "title": "Comprar un teléfono — Proceso (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — La situación — Comprar un teléfono",
+      "text": "Ana necesita un teléfono nuevo porque su teléfono viejo no funciona bien. Ella usa el teléfono para llamar a su familia y a sus amigos. También usa el teléfono para trabajar todos los días. Ana quiere un teléfono que sea bueno y barato. Busca un teléfono fácil de usar y con una batería que dure mucho tiempo. Ana tiene poco tiempo para comprar el teléfono. Quiere hacer una buena compra y no gastar mucho dinero. Por eso, Ana decide ir a la tienda hoy para ver los teléfonos. En la tienda, Ana mira varios teléfonos y habla con el vendedor. Ella quiere elegir un teléfono que le guste y que sea útil para su trabajo y su vida diaria. Ana está contenta porque pronto tendrá un teléfono nuevo y bueno. Ella sabe que este teléfono la ayudará mucho cada día."
+    },
+    {
+      "title": "Sección 2 — Lo que necesita — Comprar un teléfono",
+      "text": "Ana quiere comprar un teléfono nuevo. Ella tiene dinero en su cartera. En la cartera hay billetes y monedas. Ana también lleva su documento de identidad. Este documento es muy importante para comprar el teléfono. Ana lleva su teléfono viejo para comparar con los nuevos. Ella va a la tienda para ver los modelos. Ana tiene tiempo libre esta tarde y puede ir a la tienda. Allí habla con el vendedor. Ella sabe que necesita paciencia para elegir el mejor teléfono. Ana quiere un teléfono que le guste y que funcione bien. Piensa en el precio y en las funciones del teléfono. Ana quiere hacer una buena compra. Por eso, mira con cuidado y pregunta al vendedor. Al final, Ana compra un teléfono nuevo y está feliz con su elección. Ella sabe que usará su teléfono todos los días para hablar y enviar mensajes."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Comprar un teléfono",
+      "text": "Ana va a la tienda para comprar un teléfono nuevo. Ella mira muchos teléfonos en la vitrina. Los teléfonos tienen colores y tamaños diferentes. Ana quiere un teléfono fácil de usar. Ella habla con el vendedor para saber los precios y las funciones. El vendedor explica cómo usar cada teléfono. Ana prueba algunos teléfonos. Ella toca la pantalla y usa la cámara para tomar fotos. Ana piensa cuál teléfono es mejor para ella. Después de probar, Ana elige un teléfono que le gusta mucho. Ella paga con dinero en la caja. El vendedor le da la factura y la caja con el teléfono. Ana guarda el teléfono nuevo en su bolso con cuidado. Ella está feliz porque ahora tiene un teléfono para usar todos los días y hablar con sus amigos. Ana sabe que con su nuevo teléfono puede llamar, enviar mensajes y usar aplicaciones fáciles. Ella quiere aprender más para usarlo bien."
+    },
+    {
+      "title": "Sección 4 — El resultado — Comprar un teléfono",
+      "text": "Ana tiene un teléfono nuevo y está muy feliz. El teléfono funciona bien y es fácil de usar. Ella llama a su familia para contarles la noticia. También usa el teléfono para trabajar mejor cada día. Ana aprende a usar las funciones nuevas poco a poco. Ella sabe que hizo una buena elección al comprar este teléfono. Ahora tiene un teléfono moderno y muy útil para su vida diaria. Ana piensa que la compra fue rápida y sencilla. Ella está contenta porque el teléfono le ayuda mucho. Ana usa el teléfono para hablar, enviar mensajes y buscar información. Cada día, Ana descubre más cosas que puede hacer con su teléfono. Ella está satisfecha con su compra y recomienda el teléfono a sus amigos y compañeros de trabajo. Ana siente que este teléfono mejora su vida y la hace más fácil y divertida."
+    }
+  ],
+  "word_count": 579,
+  "dialogue": {
+    "title": "Diálogo en la tienda de teléfonos",
+    "lines": [
+      {
+        "speaker": "A",
+        "text": "Hola, quiero comprar un teléfono nuevo."
+      },
+      {
+        "speaker": "B",
+        "text": "Claro, ¿qué busca en un teléfono?"
+      },
+      {
+        "speaker": "A",
+        "text": "Un teléfono fácil y con buena batería."
+      },
+      {
+        "speaker": "B",
+        "text": "Tenemos varios modelos que son buenos y baratos."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Puedo probar este teléfono?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, toca la pantalla y usa la cámara."
+      },
+      {
+        "speaker": "A",
+        "text": "Me gusta este teléfono. ¿Cuál es el precio?"
+      },
+      {
+        "speaker": "B",
+        "text": "Cuesta cien euros y tiene garantía."
+      }
+    ]
+  },
+  "say_it": {
+    "title": "Frases para repetir",
+    "items": [
+      "Quiero un teléfono nuevo.",
+      "El teléfono es fácil de usar.",
+      "La batería dura mucho tiempo.",
+      "¿Cuánto cuesta el teléfono?",
+      "Puedo probar el teléfono.",
+      "El teléfono funciona bien.",
+      "Hablo con el vendedor.",
+      "Estoy contenta con mi compra."
+    ]
+  },
+  "make_it_yours": {
+    "title": "Hazlo tuyo: cambia una palabra",
+    "items": [
+      {
+        "prompt": "Quiero un teléfono nuevo.",
+        "example": "Quiero un teléfono barato."
+      },
+      {
+        "prompt": "La batería dura mucho tiempo.",
+        "example": "La batería dura poco tiempo."
+      },
+      {
+        "prompt": "Hablo con el vendedor.",
+        "example": "Hablo con la vendedora."
+      },
+      {
+        "prompt": "Estoy contenta con mi compra.",
+        "example": "Estoy feliz con mi compra."
+      },
+      {
+        "prompt": "El teléfono funciona bien.",
+        "example": "El teléfono funciona mal."
+      }
+    ]
+  },
+  "tags": [
+    "buying",
+    "needing",
+    "process",
+    "time",
+    "work",
+    "social"
+  ]
+}

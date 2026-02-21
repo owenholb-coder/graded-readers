@@ -1,0 +1,114 @@
+{
+  "id": "Buying-Clothes-a1-es",
+  "title": "Comprar ropa — Proceso (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — La situación — Comprar ropa",
+      "text": "María quiere ropa nueva porque su ropa vieja es pequeña y vieja. Ella va a la tienda para comprar ropa. María necesita ropa para el trabajo y para salir con sus amigos. Ella está feliz cuando compra ropa nueva. Comprar ropa es normal para muchas personas. Algunas compran ropa cada mes y otras cada año. María piensa en su estilo y en el clima. Hoy hace frío, por eso quiere ropa de invierno. Ella quiere estar cómoda y elegante. Comprar ropa es parte de su vida diaria. María siempre busca ropa bonita y cómoda para sentirse bien. Ella mira los colores y las telas. María prueba la ropa para ver si le queda bien. Después, paga y lleva la ropa a casa. María está contenta con su compra y piensa en usarla pronto."
+    },
+    {
+      "title": "Sección 2 — Lo que necesita — Comprar ropa",
+      "text": "María quiere comprar ropa nueva. Ella tiene dinero en su cartera, con billetes y monedas. También lleva su documento de identidad porque es importante para pagar con tarjeta. María tiene tiempo libre en la tarde, una hora para ir a la tienda. Usa su teléfono móvil para buscar tiendas o llamar a su amiga y preguntar dónde comprar. María lleva una bolsa para poner la ropa que compra. Está lista para salir de su casa. María sabe que tiene todo lo que necesita para comprar ropa. Quiere elegir ropa bonita y cómoda. Comprar ropa es importante para ella porque quiere verse bien. María camina hacia la tienda con alegría. Piensa en las prendas que necesita y en su presupuesto. Está contenta porque puede comprar ropa nueva hoy. María disfruta su tiempo y sabe que la ropa nueva la hace feliz."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Comprar ropa",
+      "text": "María va a la tienda de ropa. Ella mira la ropa en las perchas y en las mesas. María prueba la ropa en el probador. Ella ve si la ropa es cómoda y si le gusta el color. Después, María decide qué ropa quiere comprar. Ella paga en la caja con dinero o tarjeta. Luego, pone la ropa en su bolsa. María sale de la tienda contenta. Ella tiene ropa nueva para usar. Comprar ropa es fácil para María. Ella disfruta comprar ropa. María vuelve a casa con ropa bonita. Ella está feliz con su compra. Comprar ropa es una actividad que le gusta mucho. Ella siempre busca ropa que le queda bien y que es bonita. María piensa en su estilo y elige ropa que le gusta. Comprar ropa es parte de su rutina diaria. Cada vez que compra, María se siente bien y segura."
+    },
+    {
+      "title": "Sección 4 — El resultado — Comprar ropa",
+      "text": "María vuelve a casa con ropa nueva. Ella está feliz porque la ropa es bonita y le queda bien. Usa la ropa en el trabajo y con sus amigos. Se siente cómoda y segura con su ropa nueva. La ropa mejora su día y le da confianza. María guarda la ropa en su armario con cuidado. Piensa en comprar más ropa pronto porque le gusta. Comprar ropa es bueno para su vida y su ánimo. María está lista para el próximo día con ropa nueva y feliz. La ropa nueva le ayuda a sentirse mejor cada día. Ella sonríe y disfruta su ropa en cada momento. María sabe que la ropa cambia su estado de ánimo y su forma de ver el mundo. Cada prenda le da energía y alegría. Se siente más fuerte y positiva con su ropa nueva. Comprar ropa es una forma de cuidarse y de mostrar quién es. María está contenta y quiere comprar más ropa para sentirse bien."
+    }
+  ],
+  "word_count": 582,
+  "dialogue": {
+    "title": "En la tienda de ropa",
+    "lines": [
+      {
+        "speaker": "A",
+        "text": "Hola, ¿quieres comprar ropa hoy?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, necesito ropa nueva para el trabajo."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Qué tipo de ropa buscas?"
+      },
+      {
+        "speaker": "B",
+        "text": "Quiero ropa cómoda y bonita."
+      },
+      {
+        "speaker": "A",
+        "text": "Hace frío, ¿quieres ropa de invierno?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, eso es perfecto para hoy."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Vas a probar la ropa en el probador?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, siempre pruebo la ropa antes de comprar."
+      }
+    ]
+  },
+  "say_it": {
+    "title": "Frases para repetir",
+    "items": [
+      "Quiero ropa nueva.",
+      "La ropa es cómoda.",
+      "Hoy hace frío.",
+      "Voy a la tienda.",
+      "Uso mi tarjeta para pagar.",
+      "La ropa me queda bien.",
+      "Estoy contenta con mi compra.",
+      "Me gusta mi estilo."
+    ]
+  },
+  "make_it_yours": {
+    "title": "Cambia una palabra",
+    "items": [
+      {
+        "prompt": "Quiero ropa nueva.",
+        "example": "Quiero ropa bonita."
+      },
+      {
+        "prompt": "Voy a la tienda.",
+        "example": "Voy a la casa."
+      },
+      {
+        "prompt": "La ropa es cómoda.",
+        "example": "La ropa es bonita."
+      },
+      {
+        "prompt": "Estoy contenta con mi compra.",
+        "example": "Estoy feliz con mi compra."
+      },
+      {
+        "prompt": "Uso mi tarjeta para pagar.",
+        "example": "Uso mi dinero para pagar."
+      }
+    ]
+  },
+  "tags": [
+    "buying",
+    "needing",
+    "process",
+    "routine",
+    "social"
+  ]
+}

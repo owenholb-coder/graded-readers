@@ -1,0 +1,39 @@
+{
+  "id": "Doctor-a1-es",
+  "title": "Doctor — Profesión (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — El trabajo — Doctor",
+      "text": "El doctor trabaja en un hospital o en una clínica. Cada día, atiende a muchas personas que necesitan ayuda. El doctor escucha con atención a los pacientes. Cuando alguien está enfermo, busca la mejor solución para mejorar su salud. Usa instrumentos para examinar el cuerpo y toma notas para recordar todo. Habla claro para que los pacientes entiendan bien. A veces, da medicinas para ayudar a sanar. El doctor siempre quiere que las personas se sientan mejor y vivan bien. Es un trabajo importante para la sociedad. El doctor estudia mucho en la universidad para aprender sobre el cuerpo y las enfermedades. Ayuda a niños, adultos y personas mayores. Su trabajo es cuidar y proteger la salud de todos. Por eso, el doctor es una persona muy valiosa y respetada. Además, trabaja con otros profesionales para dar la mejor atención. Siempre está listo para ayudar en cualquier momento."
+    },
+    {
+      "title": "Sección 2 — Dónde trabaja — Doctor",
+      "text": "El doctor trabaja en un hospital, una clínica o un consultorio. El hospital es un lugar grande con muchas personas. Allí, el doctor ayuda a muchos pacientes cada día. La clínica es más pequeña que el hospital, pero también atiende a personas que necesitan ayuda. El consultorio es un lugar pequeño y tranquilo donde el doctor recibe a sus pacientes. El doctor usa una bata blanca y tiene herramientas para revisar a los pacientes. El lugar donde trabaja es limpio y ordenado para cuidar bien a las personas. El doctor trabaja con enfermeros y otros profesionales de la salud. El ambiente es tranquilo para que el doctor pueda escuchar y ayudar bien a las personas. El doctor siempre da consejos para mejorar la salud de sus pacientes. Trabajar en un lugar limpio y ordenado es muy importante para cuidar bien a todos."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Doctor",
+      "text": "El doctor trabaja en un hospital o en una clínica. Ve a muchas personas que están enfermas o que quieren estar sanas. El doctor mira el cuerpo de los pacientes con cuidado. Escucha el corazón y los pulmones para saber si todo está bien. Pregunta qué siente la persona y dónde le duele. El doctor da medicinas para que el paciente mejore rápido. También explica cómo vivir bien y cuidar el cuerpo cada día. A veces, hace pruebas para entender mejor la enfermedad. El doctor ayuda a evitar que las personas se enfermen. Su trabajo es muy importante porque cuida la salud de todos. El doctor ayuda y protege a las personas para que vivan mejor y más felices."
+    },
+    {
+      "title": "Sección 4 — Un día normal — Doctor",
+      "text": "El doctor llega temprano al hospital. Comienza su día con energía y ganas de ayudar. Recibe a muchos pacientes durante la mañana. Habla con cada persona con cuidado y atención. Escucha sus problemas y revisa su salud con calma. Usa un estetoscopio para escuchar el corazón y los pulmones. Escribe notas en el expediente de cada paciente para recordar todo. Da medicinas y consejos para mejorar la salud. Trabaja junto a enfermeras y otros doctores en el hospital. Responde preguntas de los pacientes con paciencia y amabilidad. A veces, el doctor ayuda en emergencias que llegan rápido. También descansa un poco durante el día para recuperar fuerzas. El doctor siempre está atento y amable con todos. Al final del día, se siente feliz y satisfecho. Ayudar a las personas es su pasión y su trabajo importante. Cada día aprende algo nuevo y mejora. Así termina un día normal para el doctor."
+    }
+  ],
+  "word_count": 560,
+  "tags": [
+    "work",
+    "health",
+    "routine",
+    "process",
+    "description"
+  ]
+}

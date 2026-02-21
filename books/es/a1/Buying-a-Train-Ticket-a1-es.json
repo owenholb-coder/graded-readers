@@ -1,0 +1,115 @@
+{
+  "id": "Buying-a-Train-Ticket-a1-es",
+  "title": "Comprar un billete de tren — Proceso (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — La situación — Comprar un billete de tren",
+      "text": "Una persona quiere viajar en tren. Ella necesita un billete para ir a otra ciudad. El tren es rápido y cómodo. Viajar en tren es una buena opción para conocer lugares nuevos. La persona tiene tiempo libre y decide hacer un viaje. Ella piensa en la estación de tren y en la hora de salida. El viaje es importante para ella. Quiere descansar y disfrutar del camino. Por eso, compra un billete para el tren. Ella va a la estación con tiempo. Mira los horarios en la pantalla. Habla con el vendedor y pregunta por el precio. Compra el billete y guarda el papel con cuidado. Luego, espera en el andén. Cuando llega el tren, sube y busca su asiento. El viaje comienza y ella está feliz. Mira por la ventana y ve el paisaje. El tren avanza y ella piensa en su destino. El viaje es tranquilo y agradable."
+    },
+    {
+      "title": "Sección 2 — Lo que necesita — Comprar un billete de tren",
+      "text": "Para comprar un billete de tren, la persona necesita algunas cosas. Tiene dinero para pagar el billete. También lleva su documento de identidad para mostrar quién es. A veces usa un teléfono para buscar información sobre el tren. La persona sabe la hora en que sale el tren y a dónde va. Piensa en el día y la hora para viajar. Además, sabe cuántos billetes necesita para su viaje. Con toda esta información, la persona está lista para comprar el billete. El proceso es fácil y claro para ella. Comprar un billete es rápido cuando tiene todo lo necesario. Así puede viajar sin problemas y disfrutar su viaje en tren con tranquilidad."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Comprar un billete de tren",
+      "text": "La persona llega a la estación de tren. Busca la taquilla o la máquina para comprar un billete. Ella dice o escribe el destino y la hora del tren que quiere tomar. Después, paga el billete con dinero o con tarjeta. Recibe el billete y lo guarda en su bolso o bolsillo. Mira el billete para ver la hora de salida y el número del tren. También revisa el andén donde debe esperar. Así, está lista para viajar en tren. El proceso es fácil y rápido. La persona se siente tranquila y feliz porque tiene su billete. Ahora puede esperar el tren con calma. Piensa en el viaje que viene y disfruta el momento. Está contenta y preparada para su viaje."
+    },
+    {
+      "title": "Sección 4 — El resultado — Comprar un billete de tren",
+      "text": "La persona tiene el billete en la mano. Ella sabe la hora y el tren para viajar. Está contenta y tranquila. El billete es su permiso para subir al tren. La persona espera la hora de salida con calma. Cuando llega el tren, muestra el billete al revisor. Luego, se sienta en su asiento y disfruta del viaje. Durante el viaje, mira por la ventana y piensa en su destino. El billete es muy importante para viajar sin problemas. Al final, la persona llega a su destino feliz y satisfecha. El billete le ayuda a tener un buen viaje y a llegar sin dificultades. Está lista para comenzar su nueva experiencia y vivir momentos especiales en su viaje. El viaje es tranquilo y seguro gracias al billete. Ella sabe que todo está bien y puede relajarse. El billete es la llave para su aventura."
+    }
+  ],
+  "word_count": 527,
+  "dialogue": {
+    "title": "Comprar un billete de tren",
+    "lines": [
+      {
+        "speaker": "A",
+        "text": "Hola, quiero un billete para Madrid."
+      },
+      {
+        "speaker": "B",
+        "text": "¿Para qué día y a qué hora?"
+      },
+      {
+        "speaker": "A",
+        "text": "Para mañana a las ocho de la mañana."
+      },
+      {
+        "speaker": "B",
+        "text": "¿Solo un billete?"
+      },
+      {
+        "speaker": "A",
+        "text": "Sí, solo uno."
+      },
+      {
+        "speaker": "B",
+        "text": "El precio es veinte euros."
+      },
+      {
+        "speaker": "A",
+        "text": "Aquí tiene el dinero."
+      },
+      {
+        "speaker": "B",
+        "text": "Gracias, aquí está su billete."
+      }
+    ]
+  },
+  "say_it": {
+    "title": "Frases para repetir",
+    "items": [
+      "Quiero un billete para el tren.",
+      "¿A qué hora sale el tren?",
+      "¿Cuánto cuesta el billete?",
+      "Solo necesito un billete.",
+      "¿Dónde está la taquilla?",
+      "Pago con dinero.",
+      "¿Dónde espero el tren?",
+      "El viaje es tranquilo y agradable."
+    ]
+  },
+  "make_it_yours": {
+    "title": "Hazlo tuyo",
+    "items": [
+      {
+        "prompt": "Quiero un billete para _____.",
+        "example": "Quiero un billete para Barcelona."
+      },
+      {
+        "prompt": "El tren sale a las _____.",
+        "example": "El tren sale a las nueve."
+      },
+      {
+        "prompt": "Pago con _____.",
+        "example": "Pago con tarjeta."
+      },
+      {
+        "prompt": "Espero el tren en el _____.",
+        "example": "Espero el tren en el andén tres."
+      },
+      {
+        "prompt": "El viaje es _____.",
+        "example": "El viaje es rápido y cómodo."
+      }
+    ]
+  },
+  "tags": [
+    "buying",
+    "needing",
+    "process",
+    "time",
+    "transport",
+    "travel"
+  ]
+}

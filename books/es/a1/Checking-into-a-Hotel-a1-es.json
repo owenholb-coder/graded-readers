@@ -1,0 +1,114 @@
+{
+  "id": "Checking-into-a-Hotel-a1-es",
+  "title": "Registrarse en un hotel — Proceso (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — La situación — Registrarse en un hotel",
+      "text": "Una persona viaja a otra ciudad y busca un lugar para dormir. Encuentra un hotel porque es un buen lugar para descansar. Quiere estar cómoda y segura durante la noche. El hotel está cerca de la estación, por eso es fácil llegar. La persona llega cansada después del viaje y quiere entrar rápido al hotel. Por eso, hace el proceso de registrarse en la recepción. Así puede usar la habitación y descansar bien. El hotel tiene muchas habitaciones y la persona no conoce el lugar. El recepcionista ayuda a los clientes con el registro y responde preguntas. Este proceso es importante para todos los huéspedes. Después de registrarse, la persona puede disfrutar de su estancia en el hotel con tranquilidad y comodidad. Está lista para descansar y sentirse bien durante su viaje. También puede pedir información sobre la ciudad y los servicios del hotel. La persona se siente feliz y tranquila en su nuevo lugar."
+    },
+    {
+      "title": "Sección 2 — Lo que necesita — Registrarse en un hotel",
+      "text": "La persona quiere registrarse en un hotel. Tiene dinero para pagar la habitación. Lleva su documento de identidad, como el DNI o pasaporte. El hotel necesita esta información para saber quién es. También tiene un teléfono móvil. El teléfono es importante para llamar si hay un problema. La persona tiene tiempo para hacer el registro y no tiene prisa. El hotel pide información personal y la persona responde con verdad. A veces, el hotel pide una tarjeta de crédito para asegurar el pago. La persona muestra su documento y paga con dinero. El proceso es fácil y rápido. Después de registrarse, la persona puede descansar en su habitación. Puede disfrutar de su estancia en el hotel. El personal es amable y ayuda si la persona necesita algo. El hotel es un lugar cómodo para estar."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Registrarse en un hotel",
+      "text": "La persona llega al hotel y va a la recepción. Habla con el recepcionista y dice su nombre. Muestra su documento para identificarse. El recepcionista pregunta si tiene una reserva. La persona responde sí o no. Luego, paga la habitación con dinero o tarjeta. El recepcionista entrega la llave de la habitación. Explica las reglas del hotel para que la persona las entienda. La persona escucha y hace preguntas si no entiende. Después, la persona sube a su habitación. Abre la puerta y entra. Cierra la puerta y se siente contenta. El proceso para registrarse en un hotel es fácil. No toma mucho tiempo y es bueno para todos."
+    },
+    {
+      "title": "Sección 4 — El resultado — Registrarse en un hotel",
+      "text": "Cuando una persona se registra en el hotel, recibe la llave de su habitación. Con esta llave, puede entrar y salir cuando quiera. La habitación es cómoda y limpia. Tiene todo lo necesario para estar bien. La persona descansa bien cada noche en la cama. También puede usar otros servicios del hotel, como comer en el restaurante o nadar en la piscina. El proceso para registrarse es rápido y fácil. El personal del hotel es amable y siempre ayuda a la persona. El hotel es seguro y tranquilo. Durante su estancia, la persona se siente feliz y relajada. Al final del viaje, disfruta mucho su tiempo en el hotel. Registrarse en el hotel hace que la experiencia sea buena y sin problemas. La persona quiere volver a este hotel en el futuro."
+    }
+  ],
+  "word_count": 531,
+  "dialogue": {
+    "title": "Diálogo en la recepción del hotel",
+    "lines": [
+      {
+        "speaker": "A",
+        "text": "Hola, quiero registrarme."
+      },
+      {
+        "speaker": "B",
+        "text": "Claro, ¿tiene una reserva?"
+      },
+      {
+        "speaker": "A",
+        "text": "No, no tengo reserva."
+      },
+      {
+        "speaker": "B",
+        "text": "Por favor, muestre su documento."
+      },
+      {
+        "speaker": "A",
+        "text": "Aquí está mi pasaporte."
+      },
+      {
+        "speaker": "B",
+        "text": "¿Paga con dinero o tarjeta?"
+      },
+      {
+        "speaker": "A",
+        "text": "Pago con tarjeta, gracias."
+      },
+      {
+        "speaker": "B",
+        "text": "Aquí tiene la llave. Disfrute su estancia."
+      }
+    ]
+  },
+  "say_it": {
+    "title": "Frases para repetir en el hotel",
+    "items": [
+      "Quiero registrarme.",
+      "¿Tiene una reserva?",
+      "Muéstreme su documento.",
+      "Pago con dinero.",
+      "Pago con tarjeta.",
+      "¿Tiene preguntas?",
+      "Aquí está la llave.",
+      "Disfrute su estancia."
+    ]
+  },
+  "make_it_yours": {
+    "title": "Cambia una palabra para practicar",
+    "items": [
+      {
+        "prompt": "Quiero registrarme en el hotel.",
+        "example": "Quiero descansar en el hotel."
+      },
+      {
+        "prompt": "¿Tiene una reserva?",
+        "example": "¿Tiene una habitación?"
+      },
+      {
+        "prompt": "Pago con dinero.",
+        "example": "Pago con tarjeta."
+      },
+      {
+        "prompt": "Aquí está mi pasaporte.",
+        "example": "Aquí está mi DNI."
+      },
+      {
+        "prompt": "Disfrute su estancia.",
+        "example": "Disfrute su viaje."
+      }
+    ]
+  },
+  "tags": [
+    "needing",
+    "buying",
+    "process",
+    "travel",
+    "services"
+  ]
+}

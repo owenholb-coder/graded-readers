@@ -1,0 +1,114 @@
+{
+  "id": "Buying-a-Gift-a1-es",
+  "title": "Comprar un regalo — Proceso (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — La situación — Comprar un regalo",
+      "text": "Una persona quiere comprar un regalo. Hoy es un día especial. Puede ser un cumpleaños o una fiesta. La persona quiere dar algo bonito y especial. Quiere hacer feliz a alguien que quiere mucho. Por eso decide comprar un regalo con cuidado. Es muy importante para ella elegir algo bueno y bonito. La persona piensa en el regalo con calma y cariño. Quiere que la otra persona esté contenta y sonría mucho. Comprar un regalo es una forma de mostrar amor y amistad. La persona siente alegría al preparar el regalo. Quiere que el momento sea feliz para todos. Por eso hace todo con mucho cuidado y amor. Así, el regalo es un símbolo de cariño y amistad verdadera. La persona espera que el regalo sea un recuerdo feliz para siempre. Comprar un regalo es un acto de amor y alegría."
+    },
+    {
+      "title": "Sección 2 — Lo que necesita — Comprar un regalo",
+      "text": "Para comprar un regalo, una persona necesita dinero. El dinero sirve para pagar el regalo. También necesita tiempo para buscar y elegir bien. La persona puede usar su teléfono para buscar ideas. El teléfono ayuda mucho para encontrar regalos. A veces, la persona usa una tarjeta para pagar. Además, debe saber dónde comprar el regalo. Puede ir a una tienda o comprar en internet. Comprar un regalo es un proceso simple pero importante. Se necesita tiempo, dinero y un lugar para comprar. También es importante pensar en la persona que recibe el regalo. Así, el regalo será bueno y especial. Estas cosas son básicas para comprar un regalo. Comprar un regalo es una acción que necesita cuidado y atención."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Comprar un regalo",
+      "text": "Primero, la persona piensa en un regalo para alguien especial. Busca el regalo en la tienda o en internet. Mira muchas opciones para encontrar algo bonito. Luego, decide cuál regalo le gusta más. Después, paga el regalo con dinero o tarjeta. La persona recibe el regalo en una bolsa o caja. Guarda el regalo en un lugar seguro. Quiere que el regalo esté listo para dar. Comprar un regalo es un proceso fácil. La persona hace todo con cuidado y alegría. Así, compra un regalo perfecto para la persona que quiere mucho."
+    },
+    {
+      "title": "Sección 4 — El resultado — Comprar un regalo",
+      "text": "Al final, la persona tiene un regalo listo para dar. Está feliz porque compró algo bonito y especial. El regalo puede hacer feliz a otra persona. La persona siente que hizo algo bueno y importante. Comprar el regalo termina con éxito y alegría. La persona espera el momento para dar el regalo con emoción. El regalo muestra cariño, amor y amistad. La persona piensa en la otra persona y quiere verla contenta. El regalo es un símbolo de afecto y cuidado. La persona se siente satisfecha y feliz. Dar un regalo une a las personas y crea alegría. Es un momento bonito para todos. La persona sabe que el regalo es importante y especial. Está contenta de compartir algo bueno con alguien más. El regalo es una forma de mostrar amor y amistad. Dar un regalo es un acto simple que llena el corazón de todos."
+    }
+  ],
+  "word_count": 498,
+  "dialogue": {
+    "title": "Comprar un regalo - diálogo",
+    "lines": [
+      {
+        "speaker": "A",
+        "text": "Quiero comprar un regalo para mi amiga."
+      },
+      {
+        "speaker": "B",
+        "text": "¿Qué regalo buscas?"
+      },
+      {
+        "speaker": "A",
+        "text": "Busco algo bonito y especial."
+      },
+      {
+        "speaker": "B",
+        "text": "¿Tienes dinero para pagar?"
+      },
+      {
+        "speaker": "A",
+        "text": "Sí, tengo dinero y tiempo para buscar."
+      },
+      {
+        "speaker": "B",
+        "text": "¿Vas a comprar en la tienda o en internet?"
+      },
+      {
+        "speaker": "A",
+        "text": "Voy a buscar en internet con mi teléfono."
+      },
+      {
+        "speaker": "B",
+        "text": "Muy bien, así eliges con calma y cariño."
+      }
+    ]
+  },
+  "say_it": {
+    "title": "Frases para repetir",
+    "items": [
+      "Quiero comprar un regalo.",
+      "Busco un regalo bonito.",
+      "Tengo dinero para pagar.",
+      "Uso mi teléfono para buscar.",
+      "El regalo es para alguien especial.",
+      "El regalo muestra amor y amistad.",
+      "Guardo el regalo en un lugar seguro.",
+      "Estoy feliz con el regalo."
+    ]
+  },
+  "make_it_yours": {
+    "title": "Cambia una palabra y practica",
+    "items": [
+      {
+        "prompt": "Quiero comprar un regalo para mi amiga.",
+        "example": "Quiero comprar un regalo para mi hermano."
+      },
+      {
+        "prompt": "Busco algo bonito y especial.",
+        "example": "Busco algo simple y especial."
+      },
+      {
+        "prompt": "Tengo dinero y tiempo para buscar.",
+        "example": "Tengo dinero y tiempo para elegir."
+      },
+      {
+        "prompt": "Voy a buscar en internet con mi teléfono.",
+        "example": "Voy a buscar en la tienda con mi teléfono."
+      },
+      {
+        "prompt": "El regalo es un símbolo de cariño y amistad.",
+        "example": "El regalo es un símbolo de amor y alegría."
+      }
+    ]
+  },
+  "tags": [
+    "buying",
+    "needing",
+    "process",
+    "time",
+    "social"
+  ]
+}

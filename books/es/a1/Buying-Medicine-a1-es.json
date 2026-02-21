@@ -1,0 +1,114 @@
+{
+  "id": "Buying-Medicine-a1-es",
+  "title": "Comprar medicina — Proceso (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — La situación — Comprar medicina",
+      "text": "Una persona está enferma y no se siente bien. Tiene dolor de cabeza y fiebre. En su casa, quiere mejorar rápido. Por eso, decide comprar medicina. La medicina ayuda a sentirse mejor y tener más fuerza. A veces, la persona no puede ir al doctor por falta de tiempo o dinero. Comprar medicina es una solución rápida y fácil. La persona quiere cuidar su salud para descansar bien. También quiere trabajar sin problemas y hacer sus tareas diarias. En la farmacia, busca la medicina correcta para su enfermedad. El farmacéutico ayuda a elegir la medicina adecuada y explica cómo usarla. Después de comprar, la persona toma la medicina en casa. Poco a poco, se siente mejor y más fuerte. Así, puede volver a su vida normal y feliz. La salud es importante para vivir bien cada día."
+    },
+    {
+      "title": "Sección 2 — Lo que necesita — Comprar medicina",
+      "text": "Para comprar medicina, la persona necesita algunas cosas importantes. Primero, tiene que tener dinero para pagar la medicina en la farmacia. También necesita tiempo para ir a la farmacia y comprar la medicina. Muchas veces, la persona lleva su documento de identidad. Este documento es importante si la medicina es especial o si la farmacia lo pide. Además, la persona puede usar el teléfono para llamar a la farmacia antes de ir. Con una llamada, puede preguntar si tienen la medicina que necesita. Así, no pierde tiempo ni esfuerzo. Cuando tiene dinero, tiempo y, a veces, el documento, la persona está lista para comprar la medicina. La medicina ayuda a cuidar la salud y a sentirse mejor cada día. Comprar medicina es un paso para estar sano y vivir bien."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Comprar medicina",
+      "text": "La persona quiere comprar medicina para mejorar su salud. Primero, busca una farmacia cerca de su casa. Puede caminar o tomar un bus para llegar a la farmacia. Cuando llega, habla con el farmacéutico. Explica qué medicina necesita o dice sus síntomas. El farmacéutico escucha con atención y ayuda a elegir la medicina correcta. Después, la persona paga la medicina con dinero o tarjeta. Luego, guarda la medicina en su bolsa o mochila para llevarla a casa. En casa, lee las instrucciones con cuidado. Toma la medicina según las indicaciones del farmacéutico o del envase. Así, la persona cuida su salud y se siente mejor cada día. Comprar medicina es importante para estar sano y recuperar la salud. La medicina ayuda a curar enfermedades y a sentirse bien pronto. Por eso, siempre es bueno seguir las indicaciones y cuidar el cuerpo."
+    },
+    {
+      "title": "Sección 4 — El resultado — Comprar medicina",
+      "text": "La persona llega a casa con la medicina en la mano. Está contenta porque sabe que la medicina la ayuda. Primero, lee las instrucciones con cuidado. Quiere usar la medicina bien. Luego, toma la medicina según las indicaciones. Poco a poco, siente cambios en su cuerpo. La fiebre baja y el dolor se va. Se siente más fuerte y con más energía. La persona está feliz y tranquila porque la medicina funciona. Gracias a la medicina, puede descansar y mejorar. También puede hacer sus actividades diarias sin problemas. Comprar medicina es importante para cuidar la salud. Así, la persona puede trabajar y vivir bien otra vez. La salud mejora cada día. La vida es mejor con la medicina y el cuidado correcto."
+    }
+  ],
+  "word_count": 530,
+  "dialogue": {
+    "title": "En la farmacia",
+    "lines": [
+      {
+        "speaker": "A",
+        "text": "Hola, necesito medicina para la fiebre."
+      },
+      {
+        "speaker": "B",
+        "text": "Claro, ¿tiene dolor de cabeza también?"
+      },
+      {
+        "speaker": "A",
+        "text": "Sí, mucho dolor de cabeza."
+      },
+      {
+        "speaker": "B",
+        "text": "Le recomiendo esta medicina. Es buena para la fiebre y el dolor."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Cuándo debo tomarla?"
+      },
+      {
+        "speaker": "B",
+        "text": "Tres veces al día, después de comer."
+      },
+      {
+        "speaker": "A",
+        "text": "Gracias. ¿Cuánto cuesta?"
+      },
+      {
+        "speaker": "B",
+        "text": "Cuesta diez euros."
+      }
+    ]
+  },
+  "say_it": {
+    "title": "Frases para repetir",
+    "items": [
+      "Tengo dolor de cabeza.",
+      "Quiero comprar medicina.",
+      "¿Cuánto cuesta?",
+      "¿Cuándo debo tomarla?",
+      "La medicina ayuda a sentirme mejor.",
+      "Necesito tiempo para ir a la farmacia.",
+      "El farmacéutico me ayuda.",
+      "Sigo las instrucciones."
+    ]
+  },
+  "make_it_yours": {
+    "title": "Cambia una palabra y practica",
+    "items": [
+      {
+        "prompt": "Tengo dolor de cabeza.",
+        "example": "Tengo dolor de estómago."
+      },
+      {
+        "prompt": "Quiero comprar medicina.",
+        "example": "Quiero comprar agua."
+      },
+      {
+        "prompt": "¿Cuánto cuesta?",
+        "example": "¿Cuánto tiempo?"
+      },
+      {
+        "prompt": "Necesito tiempo para ir a la farmacia.",
+        "example": "Necesito dinero para ir a la farmacia."
+      },
+      {
+        "prompt": "Sigo las instrucciones.",
+        "example": "Sigo las indicaciones."
+      }
+    ]
+  },
+  "tags": [
+    "needing",
+    "buying",
+    "time",
+    "process",
+    "health"
+  ]
+}

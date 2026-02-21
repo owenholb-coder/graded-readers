@@ -1,0 +1,114 @@
+{
+  "id": "Checking-out-of-a-Hotel-a1-es",
+  "title": "Salida del hotel — Proceso (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — La situación — Salida del hotel",
+      "text": "Una persona está en un hotel. Ella vive en otra ciudad. Hoy es su último día en el hotel. Mañana quiere ir a su casa. Por eso, necesita salir del hotel. La persona quiere hacer todo bien. Ella paga la cuenta y limpia la habitación. Está lista para salir. Tiene una maleta con ropa y cosas personales. El hotel es cómodo y limpio. La persona está contenta con su estancia. Ahora, sale del hotel con calma. Recuerda los buenos momentos y piensa en su casa. Agradece al personal del hotel por su ayuda y amabilidad. Luego, cierra la puerta con cuidado y baja por las escaleras. Está lista para su viaje de regreso a casa. Se siente feliz y tranquila. Camina hacia la puerta principal y mira una última vez el hotel. Está lista para volver a su ciudad y a su vida diaria."
+    },
+    {
+      "title": "Sección 2 — Lo que necesita — Salida del hotel",
+      "text": "La persona necesita varias cosas para salir del hotel. Tiene que llevar su documento de identidad. También necesita dinero o una tarjeta para pagar la cuenta. Es importante que tenga la llave o la tarjeta de la habitación. La persona prepara todo con tiempo para no tener prisa. A veces usa el teléfono para llamar un taxi o pedir ayuda. Es bueno revisar que no olvide nada en la habitación. La persona cierra bien la puerta antes de salir. Así, la salida es tranquila y sin problemas. Tener todo listo es muy importante para salir bien del hotel. Esto ayuda a que el viaje siga sin dificultades y sin estrés. La persona se siente segura y lista para continuar su camino. Además, mira una vez más su equipaje para estar seguro. También agradece al personal del hotel antes de irse. Todo esto hace que la salida sea buena y fácil."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Salida del hotel",
+      "text": "La persona termina su estancia en el hotel. Primero, recoge todas sus cosas de la habitación con cuidado. Luego, cierra la puerta y camina hacia la recepción. Allí, muestra su documento y la llave o tarjeta. Paga la cuenta con dinero o tarjeta. Si tiene preguntas, habla con la recepcionista. Después, entrega la llave o tarjeta al personal. La persona dice gracias y se despide con una sonrisa. Toma su maleta y sale del hotel. Camina hacia la salida con calma. En la puerta, mira una última vez el hotel. Está contenta por su estancia y piensa en su próximo viaje. Así termina el proceso de salida del hotel. La persona se siente feliz y lista para continuar su camino."
+    },
+    {
+      "title": "Sección 4 — El resultado — Salida del hotel",
+      "text": "La persona ya salió del hotel. Tiene su documento y su dinero. La cuenta está pagada. La habitación está limpia y lista para otro huésped. La persona puede ir a su casa o a otro lugar. Está contenta porque todo fue fácil y rápido. La salida del hotel es un proceso simple y sin problemas. La persona sabe que puede volver al hotel otra vez. Ahora termina su estancia y comienza un nuevo viaje o regresa a casa. Todo está bien y tranquilo. La persona se siente feliz y segura. La experiencia en el hotel fue buena. La persona recuerda el hotel con gusto. Está lista para lo que viene después. Sabe que el hotel es un buen lugar para descansar. La persona piensa en volver pronto. La salida fue rápida y sin estrés. Está satisfecha con el servicio y la atención. Todo fue claro y sencillo. La persona está lista para su próximo destino."
+    }
+  ],
+  "word_count": 569,
+  "dialogue": {
+    "title": "Diálogo en la salida del hotel",
+    "lines": [
+      {
+        "speaker": "A",
+        "text": "Hola, quiero pagar la cuenta."
+      },
+      {
+        "speaker": "B",
+        "text": "Claro, ¿tiene la llave de la habitación?"
+      },
+      {
+        "speaker": "A",
+        "text": "Sí, aquí está la llave."
+      },
+      {
+        "speaker": "B",
+        "text": "Perfecto. La cuenta es de cincuenta euros."
+      },
+      {
+        "speaker": "A",
+        "text": "Pago con tarjeta, por favor."
+      },
+      {
+        "speaker": "B",
+        "text": "Gracias. ¿Necesita ayuda con su maleta?"
+      },
+      {
+        "speaker": "A",
+        "text": "No, gracias. Estoy lista para salir."
+      },
+      {
+        "speaker": "B",
+        "text": "Que tenga un buen viaje y vuelva pronto."
+      }
+    ]
+  },
+  "say_it": {
+    "title": "Frases para repetir",
+    "items": [
+      "Quiero pagar la cuenta.",
+      "¿Tiene la llave de la habitación?",
+      "Pago con tarjeta.",
+      "Estoy lista para salir.",
+      "Gracias por su ayuda.",
+      "La habitación está limpia.",
+      "Cierro la puerta con cuidado.",
+      "Estoy contenta con mi estancia."
+    ]
+  },
+  "make_it_yours": {
+    "title": "Hazlo tuyo",
+    "items": [
+      {
+        "prompt": "Quiero pagar la cuenta.",
+        "example": "Quiero pagar la cuenta ahora."
+      },
+      {
+        "prompt": "Estoy lista para salir.",
+        "example": "Estoy lista para salir del hotel."
+      },
+      {
+        "prompt": "Pago con tarjeta.",
+        "example": "Pago con dinero."
+      },
+      {
+        "prompt": "La habitación está limpia.",
+        "example": "La habitación está cómoda."
+      },
+      {
+        "prompt": "Gracias por su ayuda.",
+        "example": "Gracias por su amabilidad."
+      }
+    ]
+  },
+  "tags": [
+    "needing",
+    "buying",
+    "process",
+    "travel",
+    "services"
+  ]
+}

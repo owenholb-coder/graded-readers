@@ -1,0 +1,114 @@
+{
+  "id": "Getting-a-Taxi-a1-es",
+  "title": "Tomar un taxi — Proceso (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — La situación — Tomar un taxi",
+      "text": "La persona está en la calle. Tiene prisa y no quiere caminar mucho. Hace frío o llueve, y el lugar está lejos. No hay bus cerca. Por eso, la persona quiere tomar un taxi. El taxi es rápido y cómodo. La persona quiere llegar rápido a su casa o al trabajo. A veces, también necesita ir al hospital o a la estación. La persona busca un taxi para viajar sin problemas. El taxi ayuda a la persona a llegar rápido y sin cansarse. Es una buena opción cuando el tiempo no es bueno o cuando el lugar está lejos. La persona espera que el taxi llegue pronto. Quiere un viaje seguro y cómodo. El taxi es una buena solución para viajar en la ciudad. La persona paga al conductor y disfruta del viaje. El taxi es útil para todos en la ciudad."
+    },
+    {
+      "title": "Sección 2 — Lo que necesita — Tomar un taxi",
+      "text": "La persona quiere tomar un taxi para ir a un lugar. Tiene dinero para pagar el viaje. También tiene un teléfono para llamar al taxi. Sabe la dirección donde está y a dónde quiere ir. Ella espera un poco para que llegue el taxi. No necesita documentos especiales para viajar. Solo quiere ir rápido y seguro. Cuando llega el taxi, la persona habla con el conductor y dice la dirección. El taxi es cómodo y fácil para viajar. Durante el viaje, la persona está tranquila y mira por la ventana. Al final, paga al conductor y baja en el lugar correcto. Usar un taxi es una forma buena para moverse en la ciudad. La persona está contenta con el viaje y piensa usar un taxi otra vez cuando necesite ir a otro lugar."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Tomar un taxi",
+      "text": "La persona quiere ir a un lugar. Primero, busca un taxi en la calle o llama por teléfono para pedir uno. El taxi llega rápido. La persona abre la puerta y entra. Luego, dice al conductor a dónde va. El conductor maneja el taxi por la ciudad. La persona mira por la ventana y espera. Cuando llegan, la persona paga al conductor. Después, baja del taxi. Tomar un taxi es fácil y rápido. Así, la persona llega al lugar que quiere sin problemas. El taxi es cómodo y seguro. La persona puede descansar mientras el conductor maneja. También puede hablar con el conductor si quiere. En la ciudad, hay muchos taxis. Por eso, siempre es fácil encontrar uno. Tomar un taxi ayuda a llegar rápido cuando hay prisa. La persona está contenta porque el viaje es bueno y tranquilo."
+    },
+    {
+      "title": "Sección 4 — El resultado — Tomar un taxi",
+      "text": "La persona toma un taxi para ir a un lugar. El taxi llega rápido y la persona sube. El conductor maneja con cuidado. El viaje es cómodo y seguro. La persona mira por la ventana y está tranquila. El taxi llega al destino. La persona baja del taxi y está contenta. No está cansada ni preocupada. Paga al conductor con dinero o tarjeta. El conductor recibe el pago con una sonrisa. La persona agradece y se despide. Ahora puede hacer lo que quiere en su destino. El taxi ayuda a viajar sin problemas y rápido. La persona piensa en usar taxi otra vez. El viaje fue fácil y bueno para ella. Está feliz porque todo salió bien y llegó a tiempo."
+    }
+  ],
+  "word_count": 535,
+  "dialogue": {
+    "title": "Diálogo: Tomar un taxi en la ciudad",
+    "lines": [
+      {
+        "speaker": "A",
+        "text": "Hola, quiero tomar un taxi."
+      },
+      {
+        "speaker": "B",
+        "text": "Claro, ¿a dónde vas?"
+      },
+      {
+        "speaker": "A",
+        "text": "Voy al trabajo, por favor."
+      },
+      {
+        "speaker": "B",
+        "text": "El taxi llega rápido."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Cuánto cuesta el viaje?"
+      },
+      {
+        "speaker": "B",
+        "text": "Cuesta diez euros."
+      },
+      {
+        "speaker": "A",
+        "text": "Perfecto, subo ahora."
+      },
+      {
+        "speaker": "B",
+        "text": "Muy bien, vamos."
+      }
+    ]
+  },
+  "say_it": {
+    "title": "Frases para repetir",
+    "items": [
+      "Quiero tomar un taxi.",
+      "El taxi es rápido y cómodo.",
+      "¿Dónde está el taxi?",
+      "Voy al trabajo.",
+      "El taxi llega pronto.",
+      "Pago al conductor.",
+      "El viaje es seguro.",
+      "Estoy contento con el taxi."
+    ]
+  },
+  "make_it_yours": {
+    "title": "Hazlo tuyo: cambia una palabra",
+    "items": [
+      {
+        "prompt": "Quiero tomar un taxi.",
+        "example": "Quiero tomar un bus."
+      },
+      {
+        "prompt": "Voy al trabajo.",
+        "example": "Voy a la casa."
+      },
+      {
+        "prompt": "Pago al conductor.",
+        "example": "Pago al conductor con tarjeta."
+      },
+      {
+        "prompt": "El taxi llega rápido.",
+        "example": "El taxi llega tarde."
+      },
+      {
+        "prompt": "Estoy contento con el taxi.",
+        "example": "Estoy contento con el viaje."
+      }
+    ]
+  },
+  "tags": [
+    "needing",
+    "process",
+    "transport",
+    "time",
+    "services"
+  ]
+}

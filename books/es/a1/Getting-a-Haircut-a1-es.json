@@ -1,0 +1,114 @@
+{
+  "id": "Getting-a-Haircut-a1-es",
+  "title": "Cortarse el pelo — Proceso (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — La situación — Cortarse el pelo",
+      "text": "Muchas personas van a cortarse el pelo cuando su cabello está largo o desordenado. El pelo largo puede molestar y no es cómodo. Algunas personas quieren cambiar su estilo. Quieren verse diferentes y más bonitas o guapos. Otras personas se cortan el pelo para estar bien en el trabajo o en una fiesta. Por eso, van a la peluquería. En la peluquería, un profesional corta y arregla el pelo con cuidado. Es importante que el pelo esté limpio antes de cortarlo. Cuando el pelo está limpio y bien cortado, la persona se siente mejor. Se siente más segura y feliz con su apariencia. Cortarse el pelo es una forma de cuidar el cuerpo y la imagen. Muchas personas disfrutan este momento porque es un cambio positivo. Este cambio les da confianza y alegría. También es un momento para relajarse y pensar en cosas buenas."
+    },
+    {
+      "title": "Sección 2 — Lo que necesita — Cortarse el pelo",
+      "text": "Para cortarse el pelo, la persona necesita dinero para pagar. También necesita tiempo, porque el corte dura un poco. Es bueno tener un teléfono para llamar y pedir una cita antes. En algunos lugares, piden un documento, pero no siempre. La persona debe ir a la peluquería con ropa cómoda y limpia. Así, el corte es más fácil y rápido. Es importante llegar a tiempo para no esperar mucho. La peluquería es un lugar donde el peluquero corta el pelo con tijeras o máquina. La persona puede decir cómo quiere el corte y puede mirar fotos para elegir un estilo. Después del corte, la persona se siente bien y tiene el pelo limpio y bonito. También puede usar un espejo para ver el corte desde todos lados."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Cortarse el pelo",
+      "text": "La persona llega a la peluquería y entra con calma. Habla con el peluquero para decir cómo quiere su corte de pelo. El peluquero escucha con atención y hace preguntas si es necesario. Luego, la persona se sienta en la silla. El peluquero empieza a cortar el pelo con tijeras o máquina. La persona mira en el espejo y puede decir si quiere otro estilo. El peluquero cambia el corte si la persona quiere. Cuando termina, limpia el cuello y quita el pelo de la ropa. La persona se siente bien con su nuevo corte de pelo. Después, paga y sale de la peluquería feliz. El corte de pelo es rápido y sencillo. La persona vuelve a casa con un nuevo estilo y se siente contenta."
+    },
+    {
+      "title": "Sección 4 — El resultado — Cortarse el pelo",
+      "text": "Después del corte, la persona tiene el pelo más corto y limpio. El cabello está ordenado y se ve bonito. La persona se siente bien y con más confianza. El corte de pelo mejora la imagen y la autoestima. Además, el pelo es más fácil de cuidar y peinar. La persona vuelve a su rutina diaria con un buen look. Muchas veces, recibe comentarios positivos de amigos y familia. Esto hace que la persona esté contenta y feliz con su nuevo estilo. En general, cortarse el pelo es una experiencia positiva y agradable. La persona disfruta el cambio y se siente mejor con su apariencia. También nota que su pelo está más suave y con brillo. El nuevo corte le da energía para el día. Por eso, cortarse el pelo es bueno para sentirse bien y verse bien."
+    }
+  ],
+  "word_count": 535,
+  "dialogue": {
+    "title": "En la peluquería",
+    "lines": [
+      {
+        "speaker": "A",
+        "text": "Hola, quiero un corte de pelo corto."
+      },
+      {
+        "speaker": "B",
+        "text": "Claro, ¿quieres tijeras o máquina?"
+      },
+      {
+        "speaker": "A",
+        "text": "Prefiero tijeras, por favor."
+      },
+      {
+        "speaker": "B",
+        "text": "Muy bien, siéntate aquí."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Puede cortar un poco más?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, corto un poco más."
+      },
+      {
+        "speaker": "A",
+        "text": "Gracias, me gusta el corte."
+      },
+      {
+        "speaker": "B",
+        "text": "Perfecto, ahora limpio el cuello."
+      }
+    ]
+  },
+  "say_it": {
+    "title": "Frases para usar en la peluquería",
+    "items": [
+      "Quiero un corte de pelo.",
+      "¿Puede cortar un poco más?",
+      "Prefiero tijeras, por favor.",
+      "¿Cuánto cuesta el corte?",
+      "¿Tiene cita para hoy?",
+      "Llego a tiempo para mi corte.",
+      "Me gusta mi nuevo estilo.",
+      "Gracias por el corte."
+    ]
+  },
+  "make_it_yours": {
+    "title": "Cambia una palabra y practica",
+    "items": [
+      {
+        "prompt": "Quiero un corte de pelo corto.",
+        "example": "Quiero un corte de pelo largo."
+      },
+      {
+        "prompt": "Prefiero tijeras, por favor.",
+        "example": "Prefiero máquina, por favor."
+      },
+      {
+        "prompt": "Llego a tiempo para mi corte.",
+        "example": "Llego tarde para mi corte."
+      },
+      {
+        "prompt": "Me gusta mi nuevo estilo.",
+        "example": "No me gusta mi nuevo estilo."
+      },
+      {
+        "prompt": "Gracias por el corte.",
+        "example": "Gracias por la atención."
+      }
+    ]
+  },
+  "tags": [
+    "needing",
+    "time",
+    "process",
+    "services",
+    "description"
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "Finding-an-Apartment-a1-es",
+  "title": "Buscar apartamento — Proceso (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — La situación — Buscar apartamento",
+      "text": "Una persona necesita un lugar para vivir. No tiene casa propia y quiere un apartamento en la ciudad. Busca un lugar cerca del trabajo y de la familia. El apartamento debe ser cómodo y seguro. La persona quiere vivir sola o con alguien. Es importante encontrar un buen lugar pronto. Por eso, empieza a buscar un apartamento. Mira anuncios en el periódico y en internet. Visita varios apartamentos para verlos. Habla con los dueños y pregunta el precio. También piensa en el transporte y los servicios cerca. Quiere un lugar tranquilo para descansar. La búsqueda puede ser difícil, pero no se rinde. Cada día busca más opciones y compara. Quiere un apartamento que le guste y que pueda pagar. La persona sabe que pronto encontrará un buen lugar para vivir y ser feliz. Busca con paciencia y esperanza todos los días."
+    },
+    {
+      "title": "Sección 2 — Lo que necesita — Buscar apartamento",
+      "text": "Para buscar un apartamento, la persona necesita cosas importantes. Primero, tiene dinero para pagar la renta cada mes. También tiene tiempo para visitar los apartamentos y ver si le gustan. La persona lleva un documento de identidad para mostrar quién es. El teléfono es útil para llamar a los dueños o agentes y hacer preguntas. Además, la persona tiene información sobre su trabajo y sus ingresos. Esto ayuda a demostrar que puede pagar el apartamento. Es bueno preparar esta información antes de empezar la búsqueda. También es importante ser paciente y buscar con calma. Así, la persona puede encontrar un apartamento que le guste y que pueda pagar. Buscar un apartamento es un proceso que necesita cuidado y tiempo para tener éxito."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Buscar apartamento",
+      "text": "La persona quiere buscar un apartamento para vivir. Primero, busca anuncios en internet o en el periódico. Luego, llama a los dueños o agentes para preguntar sobre los apartamentos. Después, visita los apartamentos que le gustan. Mira las habitaciones, la cocina y el baño. También pregunta sobre el precio y las condiciones del alquiler. La persona piensa en cuál apartamento es mejor para ella. Habla con su familia o amigos para decidir. Al final, elige un apartamento. Firma un contrato con el dueño o agente. Paga la renta para vivir en el apartamento nuevo. Así, la persona encuentra un lugar para vivir. Comienza una nueva vida en su nuevo hogar. Está feliz con su decisión y su casa nueva."
+    },
+    {
+      "title": "Sección 4 — El resultado — Buscar apartamento",
+      "text": "La persona tiene un apartamento nuevo. Está muy feliz porque ahora tiene un lugar para vivir. El apartamento es cómodo y está cerca de su trabajo. Cada día puede descansar bien y hacer su vida tranquila allí. Tiene sus cosas organizadas y se siente seguro en su nuevo hogar. Buscar apartamento fue un proceso largo y importante para ella. Miró muchos lugares antes de elegir este. Ahora la persona tiene un hogar bonito y cómodo. Está contenta porque puede vivir bien y en paz. El apartamento es un lugar especial para ella. Le gusta estar allí y pasar tiempo con su familia. Ahora su vida es mejor porque tiene un lugar propio. El apartamento es perfecto para sus necesidades. Está cerca de todo lo que necesita para su día a día. La persona está feliz y satisfecha con su nuevo hogar."
+    }
+  ],
+  "word_count": 523,
+  "dialogue": {
+    "title": "Diálogo: Buscar apartamento",
+    "lines": [
+      {
+        "speaker": "A",
+        "text": "Hola, ¿buscas un apartamento?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, necesito un lugar cerca del trabajo."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Quieres vivir solo o con alguien?"
+      },
+      {
+        "speaker": "B",
+        "text": "Prefiero vivir solo para descansar."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Ya viste anuncios en internet?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, y también llamé a algunos dueños."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Visitas los apartamentos esta semana?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, quiero encontrar un lugar cómodo y seguro."
+      }
+    ]
+  },
+  "say_it": {
+    "title": "Frases para repetir",
+    "items": [
+      "Busco un apartamento cerca del trabajo.",
+      "Quiero vivir solo o con alguien.",
+      "Miro anuncios en el periódico y en internet.",
+      "Visito varios apartamentos para verlos.",
+      "Hablo con los dueños y pregunto el precio.",
+      "Pienso en el transporte y los servicios cerca.",
+      "Busco un lugar tranquilo para descansar.",
+      "Quiero un apartamento que pueda pagar."
+    ]
+  },
+  "make_it_yours": {
+    "title": "Hazlo tuyo: Cambia una palabra",
+    "items": [
+      {
+        "prompt": "Busco un apartamento cerca del trabajo.",
+        "example": "Busco un apartamento cerca de la familia."
+      },
+      {
+        "prompt": "Quiero vivir solo o con alguien.",
+        "example": "Quiero vivir solo o con mi amigo."
+      },
+      {
+        "prompt": "Hablo con los dueños y pregunto el precio.",
+        "example": "Hablo con los agentes y pregunto el precio."
+      },
+      {
+        "prompt": "Visito varios apartamentos para verlos.",
+        "example": "Visito varios apartamentos para elegir."
+      },
+      {
+        "prompt": "Busco un lugar tranquilo para descansar.",
+        "example": "Busco un lugar cómodo para descansar."
+      }
+    ]
+  },
+  "tags": [
+    "needing",
+    "buying",
+    "process",
+    "time",
+    "home",
+    "services"
+  ]
+}

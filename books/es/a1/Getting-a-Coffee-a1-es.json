@@ -1,0 +1,115 @@
+{
+  "id": "Getting-a-Coffee-a1-es",
+  "title": "Comprar un café — Proceso (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — La situación — Comprar un café",
+      "text": "Muchas personas quieren un café por la mañana. El café da energía y ayuda a despertar. La persona está cansada y quiere estar activa. También, el café es una bebida rica y caliente. En la ciudad, hay muchas cafeterías. La persona sale de su casa para comprar un café. Hace frío y el café es bueno para el día. La persona piensa en su trabajo y quiere tener fuerza. Por eso, va a la cafetería cerca de su casa. El café es parte de su rutina diaria. La persona está feliz porque sabe que el café le ayuda mucho. Comprar café es un momento especial para empezar bien el día. El aroma del café es muy agradable. La persona espera en la fila con calma. Cuando recibe el café, sonríe y siente alegría. Este momento le da energía para todo el día."
+    },
+    {
+      "title": "Sección 2 — Lo que necesita — Comprar un café",
+      "text": "Para comprar un café, una persona necesita dinero. Puede pagar con efectivo o con tarjeta. También necesita tiempo para ir a la cafetería. No es mucho tiempo, solo unos minutos. La persona puede llevar su teléfono para escuchar música o hablar con alguien mientras espera. No necesita documento para comprar el café. A veces lleva una bolsa o mochila para sus cosas. La cafetería está cerca, por eso es fácil llegar. La persona está lista para salir y comprar su café. Comprar un café es rápido y sencillo. La persona disfruta su bebida después de comprarla. Cada día puede tomar un café cuando quiere y se siente bien. Comprar café es una rutina que da alegría y energía. Es un momento especial para descansar y disfrutar."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Comprar un café",
+      "text": "La persona sale de su casa y camina hasta la cafetería. Entra y mira el menú con cuidado. Decide qué café quiere tomar. Puede elegir un café con leche o un café solo. Luego, habla con la persona que vende el café. Pide su bebida y paga con dinero o tarjeta. Después, espera un poco mientras preparan su café. Observa cómo hacen la bebida con atención. Al final, recibe su café caliente y sonríe. La persona toma su café con cuidado. Sale de la cafetería con su bebida en la mano. Camina de regreso a su casa o va al trabajo. Comprar un café es un proceso fácil y rápido. La persona disfruta su café en poco tiempo y se siente feliz."
+    },
+    {
+      "title": "Sección 4 — El resultado — Comprar un café",
+      "text": "La persona tiene un café caliente en la mano. El café huele muy bien y está listo para beber. La persona se siente contenta y con energía. El café ayuda a despertar y a estar activo todo el día. La persona bebe el café despacio. Disfruta el sabor y el calor del café. Después de beberlo, la persona puede trabajar o estudiar mejor. El café es una bebida que da placer y calma. La persona piensa en comprar otro café otro día. El café hace que el día sea mejor y más feliz. La persona sonríe y está muy contenta. El proceso termina bien y la persona está satisfecha con su café. El café es parte importante de su rutina diaria y le gusta mucho."
+    }
+  ],
+  "word_count": 515,
+  "dialogue": {
+    "title": "Comprar un café en la cafetería",
+    "lines": [
+      {
+        "speaker": "A",
+        "text": "Hola, quiero un café con leche, por favor."
+      },
+      {
+        "speaker": "B",
+        "text": "Claro, ¿quieres un café caliente?"
+      },
+      {
+        "speaker": "A",
+        "text": "Sí, hace frío hoy."
+      },
+      {
+        "speaker": "B",
+        "text": "¿Vas a pagar con tarjeta o efectivo?"
+      },
+      {
+        "speaker": "A",
+        "text": "Pago con tarjeta, gracias."
+      },
+      {
+        "speaker": "B",
+        "text": "Perfecto, espera un momento."
+      },
+      {
+        "speaker": "A",
+        "text": "Gracias, espero con calma."
+      },
+      {
+        "speaker": "B",
+        "text": "Aquí tienes tu café. Que tengas un buen día."
+      }
+    ]
+  },
+  "say_it": {
+    "title": "Frases para comprar café",
+    "items": [
+      "Quiero un café, por favor.",
+      "¿Tiene café con leche?",
+      "Pago con tarjeta.",
+      "Pago con efectivo.",
+      "Hace frío hoy.",
+      "Espero en la fila.",
+      "El café está caliente.",
+      "Gracias, buen día."
+    ]
+  },
+  "make_it_yours": {
+    "title": "Cambia una palabra en cada frase",
+    "items": [
+      {
+        "prompt": "Quiero un café con leche.",
+        "example": "Quiero un café solo."
+      },
+      {
+        "prompt": "Pago con tarjeta.",
+        "example": "Pago con efectivo."
+      },
+      {
+        "prompt": "Hace frío hoy.",
+        "example": "Hace calor hoy."
+      },
+      {
+        "prompt": "Espero en la fila.",
+        "example": "Espero en la puerta."
+      },
+      {
+        "prompt": "El café está caliente.",
+        "example": "El café está frío."
+      }
+    ]
+  },
+  "tags": [
+    "buying",
+    "process",
+    "routine",
+    "time",
+    "food",
+    "services"
+  ]
+}

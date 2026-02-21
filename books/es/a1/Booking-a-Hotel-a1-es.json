@@ -1,0 +1,115 @@
+{
+  "id": "Booking-a-Hotel-a1-es",
+  "title": "Reservar un hotel — Proceso (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — La situación — Reservar un hotel",
+      "text": "La persona quiere viajar a otra ciudad para descansar. Busca un hotel para quedarse durante su viaje. El hotel está en un lugar seguro y tranquilo. Quiere un lugar cómodo y limpio para dormir bien. El viaje es corto, solo por unos días. La persona quiere estar cerca de su trabajo o de un lugar turístico para visitar. Busca un lugar para relajarse y descansar. Reserva el hotel por internet o por teléfono. Quiere un hotel con buen precio y buena atención. El hotel tiene todo lo que necesita para estar cómodo. La persona está feliz porque encuentra un buen hotel para su viaje. Ahora puede disfrutar su viaje sin problemas y descansar bien. Está listo para su viaje y espera pasar un buen tiempo en la ciudad."
+    },
+    {
+      "title": "Sección 2 — Lo que necesita — Reservar un hotel",
+      "text": "La persona quiere reservar un hotel para su viaje. Tiene dinero para pagar la habitación. También tiene tiempo para buscar un buen hotel. Usa un teléfono o una computadora para buscar información. Tiene un documento de identidad para hacer la reserva. Sabe las fechas del viaje y cuántas personas van. Busca un hotel con habitaciones libres en esas fechas. Encuentra la dirección o el número de teléfono del hotel. Llama o escribe para reservar la habitación. Es importante tener toda esta información para hacer la reserva sin problemas. Así, la persona puede estar segura de que tiene un lugar para dormir durante su viaje. La reserva es fácil si la persona está preparada y sabe qué necesita. Además, la persona puede pedir ayuda si no entiende algo. Puede leer opiniones de otros clientes para elegir bien. También puede comparar precios para encontrar una buena oferta. Todo esto ayuda a tener un viaje tranquilo y feliz."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Reservar un hotel",
+      "text": "La persona quiere reservar un hotel para su viaje. Primero, busca hoteles en la ciudad donde va a ir. Mira fotos y lee información sobre los hoteles. Luego, llama al hotel o escribe un mensaje. Pregunta por el precio y si hay habitaciones libres para las fechas que quiere. Dice los días que va a estar en el hotel y cuántas personas van con ella. Después, da su nombre y muestra su documento. El hotel escucha y guarda la información. Al final, la persona confirma que quiere la habitación. El hotel envía una confirmación con los detalles. Así, la persona sabe que su reserva está lista. Puede viajar tranquila y disfrutar su viaje sin problemas. Reservar un hotel es fácil y rápido."
+    },
+    {
+      "title": "Sección 4 — El resultado — Reservar un hotel",
+      "text": "La persona hace una reserva en el hotel. Ella sabe el precio y la fecha de su estancia. El hotel espera su llegada con una habitación lista y limpia. Cuando la persona llega, el hotel la recibe con amabilidad y una sonrisa. Ella tiene un lugar para dormir y descansar bien. La persona está tranquila porque todo está preparado para ella. Puede viajar sin problemas y sin preocupaciones. La reserva es segura y confirmada por el hotel. El proceso de reservar termina bien y sin errores. La persona está contenta y satisfecha con su reserva. Ella sabe que el hotel la espera y que todo está en orden para su llegada. La persona se siente feliz porque tiene un lugar cómodo para su viaje. El hotel ofrece un buen servicio y un espacio para descansar tranquilo. La persona puede disfrutar de su viaje sin estrés ni preocupaciones. La reserva en el hotel es fácil, rápida y segura."
+    }
+  ],
+  "word_count": 562,
+  "dialogue": {
+    "title": "Diálogo: Reservar un hotel por teléfono",
+    "lines": [
+      {
+        "speaker": "A",
+        "text": "Hola, quiero reservar una habitación."
+      },
+      {
+        "speaker": "B",
+        "text": "Claro, ¿para qué fechas es la reserva?"
+      },
+      {
+        "speaker": "A",
+        "text": "Del 10 al 12 de mayo."
+      },
+      {
+        "speaker": "B",
+        "text": "¿Cuántas personas van a quedarse?"
+      },
+      {
+        "speaker": "A",
+        "text": "Solo una persona."
+      },
+      {
+        "speaker": "B",
+        "text": "Tenemos habitaciones libres y el precio es bueno."
+      },
+      {
+        "speaker": "A",
+        "text": "Perfecto, aquí está mi documento."
+      },
+      {
+        "speaker": "B",
+        "text": "Gracias, su reserva está confirmada."
+      }
+    ]
+  },
+  "say_it": {
+    "title": "Frases para reservar un hotel",
+    "items": [
+      "Quiero reservar una habitación.",
+      "¿Hay habitaciones libres?",
+      "¿Cuál es el precio?",
+      "Las fechas son del 10 al 12.",
+      "Somos dos personas.",
+      "Aquí está mi documento.",
+      "¿Puedo pagar por internet?",
+      "Gracias por la información."
+    ]
+  },
+  "make_it_yours": {
+    "title": "Cambia una palabra para practicar",
+    "items": [
+      {
+        "prompt": "Quiero reservar una habitación.",
+        "example": "Quiero reservar un hotel."
+      },
+      {
+        "prompt": "¿Hay habitaciones libres?",
+        "example": "¿Hay habitaciones limpias?"
+      },
+      {
+        "prompt": "¿Cuál es el precio?",
+        "example": "¿Cuál es la dirección?"
+      },
+      {
+        "prompt": "Las fechas son del 10 al 12.",
+        "example": "Las fechas son del 5 al 7."
+      },
+      {
+        "prompt": "Somos dos personas.",
+        "example": "Somos tres personas."
+      }
+    ]
+  },
+  "tags": [
+    "needing",
+    "asking",
+    "buying",
+    "process",
+    "travel",
+    "services"
+  ]
+}
