@@ -1,0 +1,115 @@
+{
+  "id": "Using-an-ATM-a1-es",
+  "title": "Usar un cajero automático — Proceso (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — La situación — Usar un cajero automático",
+      "text": "Una persona necesita dinero. No tiene efectivo en su cartera. Quiere sacar dinero para comprar comida. Es un día normal y la persona está en la calle. Busca un cajero automático cerca. El cajero está en un banco o en una tienda. La persona quiere sacar dinero rápido y fácil. No quiere entrar en el banco. El cajero automático funciona todo el día y la noche. Por eso, la persona usa el cajero para sacar dinero cuando lo necesita. El cajero ayuda a muchas personas en su vida diaria. Es muy útil y cómodo para sacar dinero en cualquier momento. La persona pone su tarjeta en el cajero. Luego, escribe su clave secreta. El cajero muestra opciones en la pantalla. La persona elige cuánto dinero quiere sacar. El cajero da el dinero y la tarjeta. La persona toma el dinero y la tarjeta. Después, puede comprar comida o pagar cosas. El cajero automático es fácil y rápido para todos."
+    },
+    {
+      "title": "Sección 2 — Lo que necesita — Usar un cajero automático",
+      "text": "Para usar un cajero automático, la persona necesita su tarjeta del banco. La tarjeta tiene un número y un chip. También necesita su clave secreta, que es un número de cuatro dígitos. La persona debe recordar bien su clave para usar el cajero. Además, necesita un poco de tiempo para hacer todo el proceso. Usar el cajero no es difícil, pero toma unos minutos. A veces, la persona quiere un recibo. El recibo muestra cuánto dinero sacó. No es necesario tener mucho dinero para usar el cajero. Solo se necesita la tarjeta y la clave para sacar dinero o hacer otras operaciones. El cajero está en muchos lugares, como bancos o tiendas. La persona puede usarlo en cualquier momento, de día o de noche. Siempre debe cuidar su tarjeta y su clave para estar seguro y evitar problemas. También es importante no contar el dinero frente a otras personas para proteger su privacidad."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Usar un cajero automático",
+      "text": "Una persona usa un cajero automático para sacar dinero. Primero, pone la tarjeta en el cajero. El cajero pide la clave. La persona escribe la clave con cuidado. Luego, elige la opción para sacar dinero. El cajero pregunta cuánto dinero quiere. La persona escribe la cantidad. El cajero da el dinero y la tarjeta. La persona toma el dinero y la tarjeta. También puede pedir un recibo. El cajero funciona rápido y es fácil de usar. Muchas personas usan el cajero para sacar dinero cuando lo necesitan. El cajero está en muchos lugares, como bancos y tiendas. Usar un cajero ayuda a tener dinero sin ir al banco. La persona puede usar el cajero en cualquier momento del día o la noche. El proceso es seguro si la persona cuida su clave y tarjeta. Así, el cajero automático es útil y práctico para todos."
+    },
+    {
+      "title": "Sección 4 — El resultado — Usar un cajero automático",
+      "text": "La persona usa el cajero automático para sacar dinero. Primero, pone la tarjeta en la máquina. Luego, escribe su clave con cuidado. El cajero busca el dinero en la cuenta. Después, da el dinero en efectivo a la persona. La tarjeta vuelve a la mano de la persona. Ahora, la persona tiene dinero para comprar lo que necesita. Se siente feliz y tranquila porque todo salió bien. No tiene que ir al banco ni hacer filas largas. El cajero automático es rápido y fácil de usar. La persona puede usar el dinero para pagar comida, ropa o transporte. Este proceso ayuda mucho en el día a día. La persona sigue con su vida normal sin problemas. Usar el cajero automático es seguro y cómodo. La persona sabe que puede confiar en la máquina para sacar dinero cuando quiera. Así, tiene más tiempo para hacer otras cosas importantes."
+    }
+  ],
+  "word_count": 603,
+  "dialogue": {
+    "title": "En el cajero automático",
+    "lines": [
+      {
+        "speaker": "A",
+        "text": "Hola, necesito sacar dinero."
+      },
+      {
+        "speaker": "B",
+        "text": "Claro, primero pon tu tarjeta en el cajero."
+      },
+      {
+        "speaker": "A",
+        "text": "Ya puse la tarjeta."
+      },
+      {
+        "speaker": "B",
+        "text": "Ahora escribe tu clave secreta."
+      },
+      {
+        "speaker": "A",
+        "text": "Listo, escribí la clave."
+      },
+      {
+        "speaker": "B",
+        "text": "Elige cuánto dinero quieres sacar."
+      },
+      {
+        "speaker": "A",
+        "text": "Quiero sacar cien pesos."
+      },
+      {
+        "speaker": "B",
+        "text": "Aquí tienes el dinero y la tarjeta."
+      }
+    ]
+  },
+  "say_it": {
+    "title": "Frases para usar en el cajero",
+    "items": [
+      "Necesito sacar dinero.",
+      "Pongo la tarjeta en el cajero.",
+      "Escribo mi clave secreta.",
+      "Elijo la opción para sacar dinero.",
+      "Escribo la cantidad de dinero.",
+      "Tomo el dinero y la tarjeta.",
+      "Quiero un recibo, por favor.",
+      "El cajero funciona todo el día."
+    ]
+  },
+  "make_it_yours": {
+    "title": "Cambia una palabra y practica",
+    "items": [
+      {
+        "prompt": "Necesito sacar dinero.",
+        "example": "Necesito sacar efectivo."
+      },
+      {
+        "prompt": "Pongo la tarjeta en el cajero.",
+        "example": "Pongo la tarjeta en la máquina."
+      },
+      {
+        "prompt": "Escribo mi clave secreta.",
+        "example": "Escribo mi número secreto."
+      },
+      {
+        "prompt": "Quiero un recibo, por favor.",
+        "example": "Quiero un papel, por favor."
+      },
+      {
+        "prompt": "El cajero funciona todo el día.",
+        "example": "El cajero funciona toda la noche."
+      }
+    ]
+  },
+  "tags": [
+    "needing",
+    "process",
+    "routine",
+    "services",
+    "buying",
+    "time"
+  ]
+}

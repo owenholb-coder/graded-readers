@@ -1,0 +1,39 @@
+{
+  "id": "Software-Developer-a1-es",
+  "title": "Desarrollador de software — Profesión (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — El trabajo — Desarrollador de software",
+      "text": "El desarrollador de software crea programas para computadoras. Usa un lenguaje especial para escribir código. Este código dice a la computadora qué hacer. El trabajo es muy importante porque muchas personas usan programas todos los días. El desarrollador trabaja con cuidado y piensa mucho. Es un trabajo que necesita concentración y paciencia. Muchas empresas necesitan desarrolladores para mejorar sus programas. El desarrollador siempre aprende cosas nuevas. También habla con otras personas para entender lo que necesitan. A veces prueba los programas para encontrar errores. Es un trabajo moderno, útil y divertido. El desarrollador ayuda a crear cosas nuevas con la tecnología. Cada día es diferente y hay nuevos retos. Este trabajo es bueno para personas que les gusta la tecnología y aprender siempre. Además, el desarrollador usa su creatividad para solucionar problemas y hacer la vida más fácil. Trabaja en equipo y comparte ideas para mejorar los programas."
+    },
+    {
+      "title": "Sección 2 — Dónde trabaja — Desarrollador de software",
+      "text": "El desarrollador de software trabaja en una oficina o en casa. Usa una computadora para hacer su trabajo cada día. A veces trabaja con otras personas en la misma empresa. Puede estar en una empresa grande o pequeña. También puede trabajar en una empresa de tecnología. El lugar de trabajo es tranquilo y tiene buena luz para ver bien. El desarrollador usa una silla cómoda y una mesa para trabajar. Muchas veces, el lugar tiene internet rápido para usar la computadora sin problemas. El ambiente es profesional y tranquilo para poder concentrarse. El desarrollador se concentra en su trabajo y habla con sus compañeros cuando es necesario. A veces tiene reuniones para hablar de los proyectos y compartir ideas. El trabajo es importante porque crea programas y aplicaciones que muchas personas usan. Le gusta trabajar en un lugar cómodo y con buena luz para estar contento y hacer bien su trabajo."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Desarrollador de software",
+      "text": "El desarrollador de software escribe código para crear programas que las personas usan en computadoras y teléfonos. Cada día, prueba los programas para encontrar errores y problemas. Cuando encuentra un problema, lo arregla para que todo funcione bien. También habla con otras personas, como clientes y compañeros, para entender qué necesitan y cómo mejorar el programa. Usa herramientas especiales en su computadora para hacer su trabajo. A veces, diseña nuevas funciones para que el programa sea más útil y fácil de usar. El trabajo es creativo porque necesita ideas nuevas, y técnico porque usa conocimientos de computadoras. El desarrollador siempre busca mejorar el programa y aprender cosas nuevas. Es un trabajo para personas que les gusta la tecnología y resolver problemas. Trabaja en equipo y también puede trabajar solo. Este trabajo es importante porque ayuda a crear programas que muchas personas usan cada día."
+    },
+    {
+      "title": "Sección 4 — Un día normal — Desarrollador de software",
+      "text": "El desarrollador de software empieza su día en la oficina o en casa. Enciende la computadora y revisa los mensajes. Luego, mira las tareas que debe hacer. Escribe código para crear funciones nuevas en el programa. Después, prueba el programa para ver si todo funciona bien. Habla con sus compañeros para entender mejor el trabajo y compartir ideas. Si encuentra errores, los corrige con cuidado. También aprende cosas nuevas para mejorar sus habilidades. Durante el día, trabaja con concentración y paciencia. A veces, tiene reuniones para hablar del proyecto. Al final, guarda su trabajo y apaga la computadora. Así termina un día normal para un desarrollador de software. El trabajo es interesante y le gusta mucho. Siempre está listo para un nuevo reto."
+    }
+  ],
+  "word_count": 566,
+  "tags": [
+    "work",
+    "process",
+    "routine",
+    "problems",
+    "description"
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "Taking-the-Bus-a1-es",
+  "title": "Tomar el autobús — Proceso (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — La situación — Tomar el autobús",
+      "text": "Muchas personas usan el autobús para ir al trabajo o a la escuela. El autobús es un transporte público que muchas personas prefieren porque es barato y fácil de usar. En la ciudad, hay mucho tráfico y manejar es difícil. El autobús ayuda a evitar el tráfico porque tiene su propio camino. También es bueno para el medio ambiente porque no contamina mucho. La persona quiere llegar a su destino sin problemas y sin estrés. Por eso, decide tomar el autobús. Es una opción práctica y común en la ciudad. El autobús pasa por muchas calles y llega a muchos lugares. La gente espera en la parada y sube cuando llega el autobús. Viajar en autobús es cómodo, seguro y rápido para muchas personas. Además, el autobús es una forma buena para cuidar el planeta y vivir mejor."
+    },
+    {
+      "title": "Sección 2 — Lo que necesita — Tomar el autobús",
+      "text": "Para tomar el autobús, la persona necesita algunas cosas importantes. Primero, debe tener dinero para pagar el boleto. Puede usar efectivo o tarjeta. También es bueno saber el horario del autobús. Muchas personas usan el teléfono para ver la hora y el lugar donde pasa el bus. Además, es necesario llevar un documento de identidad. El conductor puede pedirlo para saber quién viaja. La persona lleva una mochila o bolso con sus cosas personales. Todo esto ayuda a que el viaje sea tranquilo y sin problemas. Así, la persona puede usar el autobús todos los días para ir al trabajo o a otros lugares. Tomar el autobús es fácil si se prepara bien y tiene todo lo que necesita para el viaje. También es importante llegar a la parada a tiempo. Si llega tarde, puede perder el autobús. Por eso, es bueno salir con tiempo y estar atento al autobús que llega."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Tomar el autobús",
+      "text": "La persona va a la parada de autobús. Espera el autobús que necesita. Cuando llega, sube por la puerta. Paga el boleto o muestra su tarjeta. Busca un asiento para sentarse o se queda de pie. El autobús empieza a moverse por la calle. La persona mira por la ventana y ve casas, árboles y personas. También escucha música con sus auriculares. El viaje es tranquilo y la persona piensa en su día. A veces habla con alguien o mira su teléfono. El autobús pasa por calles y lugares diferentes. La persona observa todo con calma. Cuando el autobús llega a su parada, se prepara para bajar. Baja del autobús con cuidado. Luego, camina hacia su destino. Así termina su viaje en autobús y sigue con su día."
+    },
+    {
+      "title": "Sección 4 — El resultado — Tomar el autobús",
+      "text": "La persona llega a su destino y está muy contenta. El viaje es fácil y tranquilo. No tiene problemas para pagar el boleto. Encuentra el autobús sin dificultad. Ahora puede ir a su trabajo o a la escuela sin estrés. El autobús ayuda a ahorrar dinero porque es más barato que el taxi. También ahorra tiempo porque no hay que buscar parqueo. La persona se siente bien porque usar el autobús ayuda al medio ambiente. Menos carros en la calle significa menos contaminación. Tomar el autobús es una buena opción para muchas personas todos los días. La persona sabe que puede usar el autobús otra vez cuando quiera. Es un transporte cómodo, barato y bueno para la ciudad. Por eso, siempre elige el autobús para sus viajes. Además, el autobús es seguro y llega a muchos lugares. La persona recomienda el autobús a sus amigos y familia porque es práctico y fácil."
+    }
+  ],
+  "word_count": 570,
+  "dialogue": {
+    "title": "En la parada del autobús",
+    "lines": [
+      {
+        "speaker": "A",
+        "text": "¿Tienes dinero para el boleto?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, tengo efectivo y tarjeta."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Sabes a qué hora llega el autobús?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, veo el horario en mi teléfono."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Llevas tu documento de identidad?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, siempre lo llevo en mi bolso."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Vamos a la parada juntos?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, vamos ahora para no llegar tarde."
+      }
+    ]
+  },
+  "say_it": {
+    "title": "Frases para usar en el autobús",
+    "items": [
+      "¿Cuándo llega el autobús?",
+      "¿Dónde está la parada?",
+      "¿Cuánto cuesta el boleto?",
+      "Tengo mi tarjeta para pagar.",
+      "Espero el autobús aquí.",
+      "Subo por la puerta delantera.",
+      "Busco un asiento para sentarme.",
+      "Bajo en la próxima parada."
+    ]
+  },
+  "make_it_yours": {
+    "title": "Cambia una palabra en cada frase",
+    "items": [
+      {
+        "prompt": "La persona usa el autobús para ir al trabajo.",
+        "example": "La persona usa el autobús para ir a la escuela."
+      },
+      {
+        "prompt": "El autobús es barato y fácil de usar.",
+        "example": "El autobús es cómodo y fácil de usar."
+      },
+      {
+        "prompt": "La persona paga el boleto con efectivo.",
+        "example": "La persona paga el boleto con tarjeta."
+      },
+      {
+        "prompt": "El autobús pasa por muchas calles.",
+        "example": "El autobús pasa por muchas plazas."
+      },
+      {
+        "prompt": "La persona baja del autobús con cuidado.",
+        "example": "La persona sube al autobús con cuidado."
+      }
+    ]
+  },
+  "tags": [
+    "process",
+    "needing",
+    "time",
+    "transport",
+    "routine",
+    "description"
+  ]
+}

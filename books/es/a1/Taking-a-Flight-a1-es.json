@@ -1,0 +1,115 @@
+{
+  "id": "Taking-a-Flight-a1-es",
+  "title": "Tomar un vuelo — Proceso (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — La situación — Tomar un vuelo",
+      "text": "María vive en una ciudad pequeña. Ella quiere visitar a su familia en otra ciudad que está lejos. Viajar en coche es largo y cansado para ella. Por eso, decide tomar un vuelo en avión. El avión es rápido y cómodo. María compra su boleto y va al aeropuerto. Ella llega temprano para hacer el check-in y pasar por seguridad. María espera en la sala de embarque con paciencia. Cuando el avión llega, María sube y se sienta en su asiento. El vuelo dura poco tiempo. María está feliz porque pronto verá a su familia. Para ella, tomar el avión es una buena opción. El viaje es más fácil y rápido que en coche. María disfruta el vuelo y piensa en su familia con alegría."
+    },
+    {
+      "title": "Sección 2 — Lo que necesita — Tomar un vuelo",
+      "text": "María quiere tomar un vuelo. Para eso, necesita cosas importantes. Tiene dinero para comprar el boleto. El boleto es necesario para viajar en avión. También lleva su pasaporte. El pasaporte muestra quién es ella. Sin pasaporte, no puede viajar a otro país. María tiene su teléfono móvil. Usa el teléfono para buscar información sobre el vuelo. También llama a su familia para contarles del viaje. María sabe que debe llegar temprano al aeropuerto. En el aeropuerto, hace el check-in y entrega su equipaje. Luego, espera en la sala para subir al avión. María está feliz porque va a viajar y conocer un lugar nuevo. El viaje es una experiencia buena y emocionante para ella. Ella piensa en las cosas que verá y las personas que conocerá. María siente alegría y un poco de nervios. Viajar es algo que le gusta mucho."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Tomar un vuelo",
+      "text": "María quiere viajar en avión. Primero, compra el boleto por internet. Ella elige el día y la hora del vuelo. Después, prepara su maleta con ropa y cosas importantes. Luego, toma un taxi para ir al aeropuerto. Cuando llega, muestra su pasaporte y boleto en la entrada. En el aeropuerto, espera en la sala de embarque. Mira el reloj y escucha los anuncios. Cuando llaman a su grupo, sube al avión. Busca su asiento y se sienta. El avión despega y comienza el viaje. María está feliz y mira por la ventana. El vuelo es tranquilo. Ella piensa en su destino y en lo que hará allí. María está lista para su aventura y disfruta cada momento del viaje. Está emocionada por conocer lugares nuevos y personas diferentes. María sabe que viajar es una experiencia especial y quiere aprovecharla mucho."
+    },
+    {
+      "title": "Sección 4 — El resultado — Tomar un vuelo",
+      "text": "Después de un tiempo, el avión llega a la ciudad donde vive la familia de María. María baja del avión con mucha alegría. Ella recoge su maleta con cuidado y sale del aeropuerto. Afuera, su familia está esperando en la puerta. Todos están felices de verla. María sonríe y se siente contenta. El viaje fue rápido y cómodo para ella. Ahora, María puede pasar tiempo con su familia. Ella quiere disfrutar de su visita y compartir momentos bonitos. La familia habla y ríe juntos. María está feliz de estar con ellos otra vez. El viaje terminó bien y ella está tranquila. Pasar tiempo con la familia es muy importante para María. Ella sabe que estos momentos son especiales y los valora mucho. María piensa en sus recuerdos y sonríe. Ella sabe que la familia es su apoyo y su amor."
+    }
+  ],
+  "word_count": 548,
+  "dialogue": {
+    "title": "En el aeropuerto",
+    "lines": [
+      {
+        "speaker": "A",
+        "text": "¿Tienes el boleto y el pasaporte?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, los tengo en mi bolso."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Llegaste temprano para el check-in?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, llegué una hora antes."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Ya pasaste por seguridad?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, ahora espero en la sala de embarque."
+      },
+      {
+        "speaker": "A",
+        "text": "El vuelo es rápido y cómodo."
+      },
+      {
+        "speaker": "B",
+        "text": "Estoy feliz de viajar y ver a mi familia."
+      }
+    ]
+  },
+  "say_it": {
+    "title": "Frases para repetir",
+    "items": [
+      "Quiero tomar un vuelo.",
+      "Necesito comprar un boleto.",
+      "Llego temprano al aeropuerto.",
+      "Hago el check-in.",
+      "Paso por seguridad.",
+      "Espero en la sala de embarque.",
+      "Subo al avión.",
+      "Estoy feliz de viajar."
+    ]
+  },
+  "make_it_yours": {
+    "title": "Cambia una palabra",
+    "items": [
+      {
+        "prompt": "Yo compro el boleto por internet.",
+        "example": "Yo compro el boleto en la taquilla."
+      },
+      {
+        "prompt": "Ella llega temprano al aeropuerto.",
+        "example": "Ella llega tarde al aeropuerto."
+      },
+      {
+        "prompt": "María espera en la sala de embarque.",
+        "example": "María espera en la fila."
+      },
+      {
+        "prompt": "El avión es rápido y cómodo.",
+        "example": "El avión es lento y cómodo."
+      },
+      {
+        "prompt": "María está feliz de viajar.",
+        "example": "María está nerviosa de viajar."
+      }
+    ]
+  },
+  "tags": [
+    "needing",
+    "buying",
+    "process",
+    "time",
+    "travel",
+    "social"
+  ]
+}

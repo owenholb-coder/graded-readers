@@ -1,0 +1,115 @@
+{
+  "id": "Starting-a-New-Class-a1-es",
+  "title": "Empezar una clase nueva — Proceso (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — La situación — Empezar una clase nueva",
+      "text": "Una persona quiere aprender algo nuevo. Ella busca una clase para mejorar. La clase puede ser de idioma, arte o deporte. Ella quiere conocer gente nueva y tener una actividad. La clase es una oportunidad para crecer y aprender. Ella está motivada y feliz. La persona tiene tiempo libre y quiere usarlo bien. La clase es una buena opción para su vida. Ella piensa que la clase es importante para su futuro. Además, la clase le ayuda a sentirse bien. Ella llega a la clase con ganas. En la clase, escucha y practica. La persona habla con otros estudiantes. Ella aprende cosas nuevas cada día. La clase es un lugar para compartir y crecer. La persona está contenta con su decisión. Cada día, ella se siente más segura y feliz. La clase le da energía y nuevas ideas. Ella sabe que esta experiencia es buena para ella."
+    },
+    {
+      "title": "Sección 2 — Lo que necesita — Empezar una clase nueva",
+      "text": "Para empezar una clase nueva, la persona necesita algunas cosas importantes. Primero, debe tener dinero para pagar la clase. También necesita tiempo para ir a las sesiones y aprender bien. Es muy importante tener un documento de identidad para registrarse. A veces, la persona usa un teléfono para llamar y hacer preguntas sobre la clase. Además, es bueno tener ropa cómoda para estar tranquilo durante la clase. La persona debe estar lista y organizada para no tener problemas. También es útil llevar una libreta y un lápiz para tomar notas. Cuando tiene todo esto, puede comenzar la clase sin dificultades. Preparar estas cosas es fácil y rápido. Así, la persona puede aprender bien y disfrutar la clase nueva."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Empezar una clase nueva",
+      "text": "Primero, la persona busca información sobre la clase. Quiere saber qué es, dónde está y cuándo es. Luego, llama o va al lugar para inscribirse. Es importante hacer esto para reservar un lugar. Después, paga el dinero para la clase. El pago confirma la inscripción. Más tarde, prepara las cosas que necesita para la clase. Puede ser un cuaderno, un lápiz o ropa especial. El día de la clase, la persona va al lugar a la hora indicada. Asiste con ganas de aprender y participar. Durante la clase, escucha con atención y hace preguntas. Al final, se siente contenta por aprender cosas nuevas. Así, empieza bien la clase y disfruta la experiencia."
+    },
+    {
+      "title": "Sección 4 — El resultado — Empezar una clase nueva",
+      "text": "La persona termina la clase con nuevos conocimientos. Ella aprende cosas útiles para su vida diaria. También conoce a otras personas y hace amigos. La experiencia es buena y agradable. La persona se siente feliz y satisfecha con lo que aprendió. Ahora tiene más confianza para hacer cosas nuevas. La clase nueva abre puertas para el futuro y da muchas oportunidades. Ella quiere seguir aprendiendo y creciendo cada día. La clase le ayuda a mejorar en su trabajo y en su vida. El proceso termina con éxito y alegría. La persona está lista para usar lo que aprendió. Ella enfrenta nuevos retos con seguridad. Está contenta y motivada para continuar su camino y lograr sus metas."
+    }
+  ],
+  "word_count": 493,
+  "dialogue": {
+    "title": "Empezar una clase nueva - diálogo",
+    "lines": [
+      {
+        "speaker": "A",
+        "text": "Hola, quiero empezar una clase nueva."
+      },
+      {
+        "speaker": "B",
+        "text": "¿Qué clase quieres hacer?"
+      },
+      {
+        "speaker": "A",
+        "text": "Quiero aprender un idioma."
+      },
+      {
+        "speaker": "B",
+        "text": "Muy bien. ¿Tienes tiempo para la clase?"
+      },
+      {
+        "speaker": "A",
+        "text": "Sí, tengo tiempo libre."
+      },
+      {
+        "speaker": "B",
+        "text": "¿Tienes el dinero para pagar la clase?"
+      },
+      {
+        "speaker": "A",
+        "text": "Sí, ya tengo el dinero."
+      },
+      {
+        "speaker": "B",
+        "text": "Perfecto. Entonces, vamos a inscribirte."
+      }
+    ]
+  },
+  "say_it": {
+    "title": "Frases para repetir",
+    "items": [
+      "Quiero empezar una clase nueva.",
+      "Tengo tiempo libre para la clase.",
+      "Necesito pagar la clase.",
+      "Uso un cuaderno y un lápiz.",
+      "La clase es una buena opción.",
+      "Escucho y practico en la clase.",
+      "Hago preguntas durante la clase.",
+      "Estoy contenta con la clase."
+    ]
+  },
+  "make_it_yours": {
+    "title": "Cambia una palabra en cada frase",
+    "items": [
+      {
+        "prompt": "Cambia el tipo de clase.",
+        "example": "Quiero empezar una clase de arte."
+      },
+      {
+        "prompt": "Cambia la actividad que hace la persona.",
+        "example": "Ella habla con otros estudiantes."
+      },
+      {
+        "prompt": "Cambia el objeto que usa para tomar notas.",
+        "example": "Llevo una libreta y un bolígrafo."
+      },
+      {
+        "prompt": "Cambia el sentimiento de la persona.",
+        "example": "Ella está motivada y tranquila."
+      },
+      {
+        "prompt": "Cambia la razón para empezar la clase.",
+        "example": "Ella quiere conocer gente nueva."
+      }
+    ]
+  },
+  "tags": [
+    "needing",
+    "buying",
+    "process",
+    "time",
+    "social",
+    "work"
+  ]
+}

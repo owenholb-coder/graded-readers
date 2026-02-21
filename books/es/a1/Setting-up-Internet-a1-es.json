@@ -1,0 +1,115 @@
+{
+  "id": "Setting-up-Internet-a1-es",
+  "title": "Configurar Internet — Proceso (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — La situación — Configurar Internet",
+      "text": "La persona quiere usar Internet en su casa. Hoy, tener Internet es muy importante para todos. Con Internet, puede hablar con sus amigos y su familia. También busca información para aprender cosas nuevas cada día. Además, usa Internet para trabajar desde casa y hacer sus tareas. Sin Internet, muchas cosas son difíciles y lentas. Por eso, la persona decide poner Internet en su casa para estar siempre conectado. Usa su teléfono y su computadora con Internet para comunicarse y trabajar. Internet ayuda mucho en la vida diaria y en el trabajo. La persona quiere que el Internet sea rápido y bueno para no tener problemas. Busca una solución para tener Internet estable y seguro. Así, puede hacer todo sin dificultad. Tener Internet es necesario para vivir bien hoy en día. Por eso, la persona está feliz cuando tiene buena conexión y puede usar Internet sin problemas."
+    },
+    {
+      "title": "Sección 2 — Lo que necesita — Configurar Internet",
+      "text": "Para tener Internet en casa, la persona necesita algunas cosas importantes. Primero, debe tener dinero para pagar el servicio cada mes. También necesita tiempo para hacer los pasos y hablar con la empresa que da Internet. Es importante tener un documento, como el DNI, para hacer el contrato y confirmar su identidad. Además, la persona debe tener un teléfono para llamar a la empresa y pedir ayuda si es necesario. A veces, es necesario tener un lugar en la casa para poner el aparato que da Internet. También es bueno tener una computadora o un teléfono para usar Internet. Con estas cosas, la persona puede empezar el proceso para tener Internet y usarlo todos los días en su casa con facilidad. Así, puede navegar, aprender y comunicarse con otras personas sin problemas."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Configurar Internet",
+      "text": "Primero, la persona busca una empresa para tener Internet en su casa. Luego, llama a la empresa para pedir información sobre el servicio. Después, da sus datos y muestra su documento para hacer el contrato. La empresa envía un técnico a la casa. El técnico llega y instala el aparato para conectar el Internet. La persona espera mientras el técnico trabaja. Cuando termina, la persona prueba la conexión para ver si funciona bien. Si todo está bien, la persona paga el servicio. Ahora, la persona puede usar Internet en su casa para navegar, ver videos, leer noticias y hablar con amigos. Internet ayuda en el trabajo y en la escuela. También es útil para buscar información y aprender cosas nuevas. Así, la persona está contenta con su conexión y usa Internet todos los días."
+    },
+    {
+      "title": "Sección 4 — El resultado — Configurar Internet",
+      "text": "La persona tiene Internet en su casa. Ahora usa el teléfono y la computadora para navegar por la red. Puede hablar con amigos y familia por video y enviar mensajes. También busca información para aprender cosas nuevas cada día. El Internet funciona bien y es rápido, sin problemas. La persona está contenta porque puede hacer muchas cosas con Internet. La vida es más fácil y divertida. Tener Internet ayuda en el trabajo, para estudiar y para hacer tareas en la casa. Además, puede ver videos, escuchar música y jugar juegos en línea. Internet conecta a la persona con el mundo. Esto la hace sentir feliz y más cerca de los demás. La persona usa Internet todos los días para muchas actividades y disfruta mucho. Internet es parte importante de su vida y le da muchas oportunidades nuevas."
+    }
+  ],
+  "word_count": 549,
+  "dialogue": {
+    "title": "Hablar sobre Internet en casa",
+    "lines": [
+      {
+        "speaker": "A",
+        "text": "¿Tienes Internet en tu casa?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, uso Internet todos los días."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Para qué usas Internet?"
+      },
+      {
+        "speaker": "B",
+        "text": "Para hablar con mi familia y buscar información."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Es rápido tu Internet?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, es rápido y funciona bien."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Pagas por el servicio cada mes?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, pago para tener buena conexión."
+      }
+    ]
+  },
+  "say_it": {
+    "title": "Frases para repetir",
+    "items": [
+      "Quiero usar Internet en casa.",
+      "Necesito llamar a la empresa.",
+      "Tengo un documento para el contrato.",
+      "El técnico instala el aparato.",
+      "La conexión es rápida y buena.",
+      "Uso el teléfono y la computadora.",
+      "Pago el servicio cada mes.",
+      "Internet ayuda en el trabajo."
+    ]
+  },
+  "make_it_yours": {
+    "title": "Hazlo tuyo",
+    "items": [
+      {
+        "prompt": "Quiero usar Internet en casa.",
+        "example": "Quiero usar Internet en la oficina."
+      },
+      {
+        "prompt": "Necesito llamar a la empresa.",
+        "example": "Necesito llamar al técnico."
+      },
+      {
+        "prompt": "Tengo un documento para el contrato.",
+        "example": "Tengo un documento para la identidad."
+      },
+      {
+        "prompt": "El técnico instala el aparato.",
+        "example": "El técnico revisa el aparato."
+      },
+      {
+        "prompt": "Pago el servicio cada mes.",
+        "example": "Pago el servicio cada semana."
+      }
+    ]
+  },
+  "tags": [
+    "needing",
+    "buying",
+    "process",
+    "services",
+    "home",
+    "work"
+  ]
+}

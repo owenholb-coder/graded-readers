@@ -1,0 +1,40 @@
+{
+  "id": "Teacher-a1-es",
+  "title": "Profesor — Profesión (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — El trabajo — Profesor",
+      "text": "Un profesor trabaja con estudiantes en la escuela todos los días. El profesor enseña y ayuda a los estudiantes a aprender cosas nuevas. Habla, explica y escucha con atención para que todos entiendan bien. Usa libros y materiales para enseñar mejor. Este trabajo es muy bueno para la sociedad porque ayuda a formar personas. El profesor tiene paciencia y siempre quiere que sus estudiantes mejoren. Trabajar como profesor es divertido y también serio. El profesor trabaja con amigos y estudiantes en un ambiente agradable. A veces, el trabajo es un reto, pero también es una oportunidad para crecer y aprender. El profesor disfruta su trabajo porque es importante para todos y para el futuro. Además, el profesor prepara clases y corrige tareas. Cada día es diferente y el profesor aprende con sus estudiantes. Este trabajo da mucha satisfacción y alegría."
+    },
+    {
+      "title": "Sección 2 — Dónde trabaja — Profesor",
+      "text": "El profesor trabaja en la escuela todos los días. La escuela es un lugar grande y bonito. Tiene muchas aulas donde los estudiantes aprenden. En cada aula hay mesas y sillas para los niños. El profesor está en el aula con los estudiantes y les enseña cosas nuevas. La escuela tiene un patio grande y bonito. Los estudiantes juegan y hablan en el patio durante el recreo. El profesor también va al patio para cuidar a los niños y hablar con ellos. En la escuela hay una biblioteca con muchos libros. El profesor y los estudiantes usan la biblioteca para leer y estudiar juntos. La escuela puede estar en la ciudad o en un pueblo pequeño. El profesor llega temprano a la escuela para preparar sus clases con cuidado. La escuela es un lugar importante para aprender y enseñar con alegría cada día."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Profesor",
+      "text": "El profesor trabaja en la escuela todos los días. Enseña a los estudiantes cosas nuevas. Usa la pizarra para escribir y mostrar ideas. Habla con ellos y lee libros para que aprendan mejor. Hace preguntas para saber si entienden bien. Los estudiantes responden y el profesor escucha con atención. Si alguien tiene dudas, el profesor ayuda y explica otra vez. También prepara las clases antes de llegar a la escuela. Corrige los ejercicios que hacen los estudiantes para ver su progreso. Usa ejemplos fáciles para que todos comprendan. El profesor trabaja con otros profesores para mejorar la enseñanza. Siempre cuida que todos los estudiantes aprendan bien. También motiva a los estudiantes a participar y a ser buenos compañeros en clase."
+    },
+    {
+      "title": "Sección 4 — Un día normal — Profesor",
+      "text": "El profesor llega a la escuela por la mañana temprano. Él prepara la clase con mucho cuidado. Los estudiantes llegan y entran al aula con alegría. El profesor saluda a todos con una sonrisa amable. La clase empieza a tiempo y todos están atentos. El profesor habla y explica el tema con claridad. Los estudiantes escuchan con atención y escriben en sus cuadernos. El profesor hace preguntas para ayudar a entender mejor. Los estudiantes responden con ganas y participan en la clase. El profesor ayuda a los estudiantes que tienen dudas y les explica otra vez. En el recreo, el profesor descansa un poco y habla con sus compañeros. Después, hay otra clase con más estudiantes que llegan contentos. Al final del día, el profesor recoge los materiales y ordena el aula con cuidado. Él piensa en la clase del día siguiente para mejorar su trabajo. El profesor se va a casa contento y listo para descansar bien."
+    }
+  ],
+  "word_count": 561,
+  "tags": [
+    "work",
+    "places",
+    "routine",
+    "process",
+    "description",
+    "social"
+  ]
+}

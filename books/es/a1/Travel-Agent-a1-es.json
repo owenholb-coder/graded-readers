@@ -1,0 +1,40 @@
+{
+  "id": "Travel-Agent-a1-es",
+  "title": "Agente de viajes — Profesión (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — El trabajo — Agente de viajes",
+      "text": "Un agente de viajes ayuda a las personas a planear sus vacaciones. Habla con los clientes y escucha sus ideas para encontrar el viaje perfecto. Busca lugares bonitos para visitar y también encuentra hoteles y transporte. Usa la computadora para buscar información y hacer reservas. El trabajo es importante porque ayuda a la gente a disfrutar sus vacaciones. El agente de viajes trabaja en una oficina o en una agencia. Es amable y paciente con los clientes. Le gusta ayudar y siempre aprende cosas nuevas sobre los viajes. A veces el trabajo tiene retos, pero es divertido. El agente trabaja con muchas personas diferentes y quiere que todos estén contentos con su viaje. Cada día es diferente y el agente siempre está listo para ayudar a más personas. Además, el agente da consejos para que los viajes sean seguros y felices."
+    },
+    {
+      "title": "Sección 2 — Dónde trabaja — Agente de viajes",
+      "text": "El agente de viajes trabaja en una oficina. Esta oficina puede estar en una ciudad grande o en un pueblo pequeño. Muchas veces, trabaja en una agencia de viajes. En la oficina hay computadoras y teléfonos. El agente usa la computadora para buscar vuelos y hoteles para sus clientes. También usa el teléfono para hablar con personas y empresas. La oficina es un lugar tranquilo y ordenado. A veces, el agente de viajes viaja para conocer nuevos lugares y aprender más. Pero la mayoría del tiempo, trabaja en la oficina. El lugar de trabajo es cómodo y tiene todo lo que necesita. El agente tiene una mesa, una silla y un ambiente profesional. Su trabajo es amable y ayuda a muchas personas cada día. El agente siempre está listo para ayudar y dar consejos a sus clientes. Trabaja con paciencia y siempre escucha bien. Así, puede encontrar lo mejor para cada persona."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Agente de viajes",
+      "text": "El agente de viajes trabaja con clientes cada día. Habla con ellos para saber a dónde quieren ir y cuándo. Busca vuelos, hoteles y tours para el viaje. Compara precios para encontrar buenas ofertas y ahorrar dinero. El agente reserva los billetes de avión y las habitaciones en hoteles. También explica las reglas del viaje y ayuda con documentos como el pasaporte. Da consejos útiles, por ejemplo, qué ropa llevar o qué lugares visitar. Si hay problemas durante el viaje, el agente ayuda a solucionarlos rápido. Usa la computadora y el teléfono para hacer su trabajo. El trabajo es variado y activo. Siempre piensa en la mejor opción para cada cliente. El agente de viajes quiere que el viaje sea bueno y fácil para todos. Además, escucha con atención y responde a las preguntas de las personas. Trabaja para que cada viaje sea especial y feliz."
+    },
+    {
+      "title": "Sección 4 — Un día normal — Agente de viajes",
+      "text": "El agente de viajes llega a la oficina por la mañana. Enciende la computadora y lee los mensajes. Habla con clientes por teléfono y en persona. Escucha sus ideas y responde preguntas. Busca información sobre vuelos, hoteles y lugares para visitar. Hace reservas y envía correos electrónicos. También habla con proveedores para confirmar detalles. Organiza documentos para los clientes y actualiza la información en la computadora. Durante el día, atiende a muchas personas y ayuda con sus planes de viaje. Revisa todo para que sea correcto y claro. Al final del día, revisa su trabajo y prepara todo para mañana. El día es ocupado y muy interesante. El agente disfruta mucho su trabajo y ayuda a las personas a viajar."
+    }
+  ],
+  "word_count": 559,
+  "tags": [
+    "asking",
+    "planning",
+    "problems",
+    "time",
+    "work",
+    "travel"
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "Sending-a-Package-a1-es",
+  "title": "Enviar un paquete — Proceso (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — La situación — Enviar un paquete",
+      "text": "Ana quiere enviar un paquete a su amiga. Su amiga vive en otra ciudad lejos de Ana. Ana tiene un regalo para su amiga. Es un libro que a su amiga le gusta mucho. Ana piensa que el libro es muy especial. Ella quiere que el paquete llegue rápido y sin problemas. Por eso, Ana va a la oficina de correos cerca de su casa. En la oficina, Ana habla con la persona que trabaja allí. Ella pregunta cuánto cuesta enviar el paquete. También pregunta cuánto tiempo tarda en llegar. La persona le explica todo con paciencia. Ana paga el envío y da el paquete. Ella está contenta y feliz. Ana sabe que su amiga va a recibir el regalo pronto. Ana espera que a su amiga le guste mucho el libro. Después, Ana regresa a su casa con una sonrisa."
+    },
+    {
+      "title": "Sección 2 — Lo que necesita — Enviar un paquete",
+      "text": "Ana quiere enviar un paquete. Ella tiene una caja pequeña para poner las cosas dentro. Ana sabe que necesita dinero para pagar el envío. También lleva su documento de identidad porque es importante mostrarlo en la oficina. Ana tiene su teléfono móvil. Usa el teléfono para llamar si hay algún problema con el envío. Ella va a la oficina de correos. La oficina está abierta ahora, así que Ana tiene tiempo para hacer todo con calma. Ana revisa que el paquete esté bien cerrado. Quiere que el paquete llegue seguro a su destino. Ana está lista para enviar el paquete. Ella sabe que es importante tener todo lo necesario antes de ir a la oficina. Ana está tranquila y feliz porque todo está listo para enviar el paquete hoy. Ana piensa en la persona que recibirá el paquete y espera que le guste."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Enviar un paquete",
+      "text": "Ana va a la oficina de correos para enviar un paquete. Ella habla con el trabajador y dice que quiere mandar un paquete a su amiga. El trabajador pesa el paquete para saber cuánto cuesta el envío. Ana paga el dinero necesario para enviar el paquete. Luego, ella escribe la dirección de su amiga en el paquete. El trabajador pone una etiqueta con la dirección en el paquete. Ana recibe un recibo que muestra que el paquete está en camino. Ella está contenta porque sabe que su amiga recibirá el paquete pronto. Ana sale de la oficina de correos con tranquilidad. El proceso para enviar un paquete es fácil y rápido. Ana recomienda enviar paquetes aquí porque todo es sencillo y seguro. Ella piensa que todos pueden enviar paquetes sin problemas y sin miedo."
+    },
+    {
+      "title": "Sección 4 — El resultado — Enviar un paquete",
+      "text": "Ana prepara un paquete con mucho cuidado. Ella pone un regalo dentro. El paquete está listo para viajar. Ana está feliz porque sabe que su amiga recibirá el regalo. El paquete viaja en un camión y llega en pocos días. Ana espera con paciencia. Ella puede llamar para preguntar si su amiga recibió el paquete. La amiga recibe el paquete y se siente contenta. Ella llama a Ana para dar las gracias. Ana escucha la voz de su amiga y siente alegría. El regalo llegó bien y todos están felices. Ana piensa en enviar otro paquete pronto. El proceso es fácil y rápido. Ana sabe que su amiga está feliz con el regalo. El paquete une a las dos amigas. Ana sonríe y espera el próximo envío. Ella sabe que un paquete puede traer mucha alegría y amor. Por eso, siempre quiere compartir momentos especiales con su amiga."
+    }
+  ],
+  "word_count": 566,
+  "dialogue": {
+    "title": "Diálogo en la oficina de correos",
+    "lines": [
+      {
+        "speaker": "A",
+        "text": "Quiero enviar un paquete a mi amiga."
+      },
+      {
+        "speaker": "B",
+        "text": "¿Cuánto pesa el paquete?"
+      },
+      {
+        "speaker": "A",
+        "text": "Pesa dos kilos."
+      },
+      {
+        "speaker": "B",
+        "text": "Cuesta cinco euros enviar el paquete."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Cuánto tiempo tarda en llegar?"
+      },
+      {
+        "speaker": "B",
+        "text": "Llega en dos días."
+      },
+      {
+        "speaker": "A",
+        "text": "Perfecto, aquí tiene el dinero."
+      },
+      {
+        "speaker": "B",
+        "text": "Gracias, su paquete está listo."
+      }
+    ]
+  },
+  "say_it": {
+    "title": "Frases para practicar",
+    "items": [
+      "Quiero enviar un paquete.",
+      "¿Cuánto cuesta el envío?",
+      "¿Cuánto tiempo tarda?",
+      "El paquete está listo.",
+      "Pago el envío.",
+      "La oficina está cerca.",
+      "El paquete llega rápido.",
+      "Estoy contenta y feliz."
+    ]
+  },
+  "make_it_yours": {
+    "title": "Cambia una palabra",
+    "items": [
+      {
+        "prompt": "Quiero enviar un paquete a mi amiga.",
+        "example": "Quiero enviar un regalo a mi amiga."
+      },
+      {
+        "prompt": "El paquete pesa dos kilos.",
+        "example": "El paquete pesa tres kilos."
+      },
+      {
+        "prompt": "La oficina de correos está cerca.",
+        "example": "La oficina de correos está lejos."
+      },
+      {
+        "prompt": "Pago el dinero para enviar el paquete.",
+        "example": "Pago el dinero para enviar la carta."
+      },
+      {
+        "prompt": "El paquete llega en dos días.",
+        "example": "El paquete llega en tres días."
+      }
+    ]
+  },
+  "tags": [
+    "needing",
+    "asking",
+    "buying",
+    "process",
+    "services",
+    "social"
+  ]
+}

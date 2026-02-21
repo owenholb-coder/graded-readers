@@ -1,0 +1,114 @@
+{
+  "id": "Taking-the-Metro-a1-es",
+  "title": "Usar el metro — Proceso (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — La situación — Usar el metro",
+      "text": "Una persona vive en una ciudad grande. Cada día, quiere ir al trabajo. En la ciudad, hay mucho tráfico. Los coches son lentos y caros. La persona no quiere gastar mucho dinero ni tiempo. Por eso, decide usar el metro para ir al trabajo. El metro es rápido y barato. Muchas personas usan el metro para ir a sus trabajos. El metro ayuda a llegar a tiempo y sin problemas. En el metro, la persona puede leer o descansar. El viaje es cómodo y seguro. La persona se siente tranquila y sin estrés. Usar el metro es una buena opción en la ciudad grande. Así, la persona llega feliz al trabajo cada día. El metro es una forma fácil y rápida para viajar. La persona está contenta con esta decisión."
+    },
+    {
+      "title": "Sección 2 — Lo que necesita — Usar el metro",
+      "text": "Para usar el metro, la persona necesita algunas cosas importantes. Primero, necesita dinero para comprar el billete. Sin billete, no puede entrar al metro. También lleva su teléfono para ver la hora y saber cuándo llega el tren. Es bueno tener el documento de identidad. A veces, el personal del metro pide ver el documento. No necesita coche ni gasolina para viajar en metro. El metro abre temprano en la mañana y cierra tarde en la noche. Por eso, la persona puede viajar a muchas horas. El metro es un transporte rápido y fácil. No es complicado usarlo. La persona compra el billete, espera el tren y viaja. Todo es simple y cómodo para viajar en la ciudad con el metro. Además, el metro tiene muchas estaciones. La persona puede bajar en la estación que quiere. El metro ayuda a llegar rápido al trabajo o a la casa. Viajar en metro es bueno para la ciudad y para las personas."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Usar el metro",
+      "text": "La persona va a la estación de metro. Compra un billete en la máquina. Espera el tren en el andén. El tren llega y la persona sube. El tren se mueve por debajo de la ciudad. La persona mira por la ventana o escucha música. El viaje es rápido y cómodo. Cuando el tren llega a la estación correcta, la persona baja. Sale de la estación y camina a su destino. Usar el metro es fácil y útil. Muchas personas usan el metro cada día. El metro ayuda a llegar rápido al trabajo o a la escuela. También es bueno para no usar el coche. El metro es limpio y seguro. La persona puede descansar o leer durante el viaje. El metro tiene muchas estaciones en la ciudad. Siempre hay trenes cada pocos minutos. Por eso, el metro es una buena opción para viajar."
+    },
+    {
+      "title": "Sección 4 — El resultado — Usar el metro",
+      "text": "La persona usa el metro para ir al trabajo. Cada día, toma el metro por la mañana. El viaje es rápido y cómodo. No hay mucho tráfico en el metro. La persona no se cansa ni se estresa. El billete para el metro cuesta poco dinero. Por eso, es una buena opción para viajar. La persona llega al trabajo a tiempo todos los días. Está contenta porque el viaje es fácil y tranquilo. En el metro, puede leer o escuchar música. Esto hace que el viaje sea agradable. Usar el metro ayuda a la persona a ahorrar dinero y tiempo. También es bueno para el medio ambiente. La persona piensa que viajar en metro es mejor que en coche. Así, su vida es más simple y feliz. Por eso, usa el metro siempre que puede y recomienda a otros hacer lo mismo."
+    }
+  ],
+  "word_count": 576,
+  "dialogue": {
+    "title": "En la estación de metro",
+    "lines": [
+      {
+        "speaker": "A",
+        "text": "¿Tienes el billete para el metro?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, lo compré en la máquina."
+      },
+      {
+        "speaker": "A",
+        "text": "¿El tren llega pronto?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, llega en cinco minutos."
+      },
+      {
+        "speaker": "A",
+        "text": "Me gusta viajar en metro. Es rápido."
+      },
+      {
+        "speaker": "B",
+        "text": "A mí también. Es cómodo y barato."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Lees o escuchas música en el viaje?"
+      },
+      {
+        "speaker": "B",
+        "text": "Prefiero escuchar música para descansar."
+      }
+    ]
+  },
+  "say_it": {
+    "title": "Frases para repetir",
+    "items": [
+      "Uso el metro para ir al trabajo.",
+      "El metro es rápido y barato.",
+      "Necesito un billete para viajar.",
+      "Espero el tren en la estación.",
+      "El viaje es cómodo y seguro.",
+      "La persona compra el billete.",
+      "El tren llega a la estación.",
+      "Viajar en metro es fácil."
+    ]
+  },
+  "make_it_yours": {
+    "title": "Cambia una palabra y practica",
+    "items": [
+      {
+        "prompt": "Yo uso el metro para ir al trabajo.",
+        "example": "Yo uso el metro para ir a la escuela."
+      },
+      {
+        "prompt": "El metro es rápido y barato.",
+        "example": "El metro es rápido y cómodo."
+      },
+      {
+        "prompt": "La persona compra el billete.",
+        "example": "La persona compra el billete en la máquina."
+      },
+      {
+        "prompt": "Espero el tren en la estación.",
+        "example": "Espero el tren en el andén."
+      },
+      {
+        "prompt": "Viajar en metro es fácil.",
+        "example": "Viajar en metro es cómodo."
+      }
+    ]
+  },
+  "tags": [
+    "needing",
+    "buying",
+    "process",
+    "transport",
+    "routine"
+  ]
+}

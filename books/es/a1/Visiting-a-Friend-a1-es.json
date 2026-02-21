@@ -1,0 +1,113 @@
+{
+  "id": "Visiting-a-Friend-a1-es",
+  "title": "Visitar a un amigo — Proceso (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — La situación — Visitar a un amigo",
+      "text": "Una persona quiere visitar a su amigo. El amigo vive en otra ciudad. La persona siente muchas ganas de ver a su amigo. Quiere hablar con él y pasar tiempo juntos. La visita es muy importante para mantener la amistad. También quiere conocer la casa del amigo y ver cómo vive. La persona está feliz porque va a ver a alguien que le gusta mucho. Está emocionada por el viaje y por compartir momentos buenos con su amigo. La persona piensa en la visita todos los días. Quiere que la visita sea especial y divertida. Está lista para salir y viajar a la ciudad del amigo. La amistad es muy importante para los dos. La persona espera que la visita sea larga y llena de alegría. Quiere recordar este día por mucho tiempo. Está contenta y espera que todo salga bien."
+    },
+    {
+      "title": "Sección 2 — Lo que necesita — Visitar a un amigo",
+      "text": "Para visitar a un amigo, la persona necesita algunas cosas importantes. Primero, debe tener dinero para el viaje. También necesita tiempo libre en el trabajo o en la escuela para poder ir. La persona lleva un documento de identidad para mostrar si es necesario. Es bueno tener un teléfono para hablar con el amigo. Con el teléfono, puede preguntar la dirección y la hora para llegar bien. La persona piensa en todo antes de salir. Prepara su mochila y revisa que tiene todo lo que necesita. Así, el viaje es tranquilo y sin problemas. Visitar a un amigo es una experiencia bonita. Por eso, es importante estar listo y organizado. La persona se siente feliz porque va a ver a alguien especial y pasar un buen momento juntos. También lleva algo para regalar y ropa cómoda para estar bien."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Visitar a un amigo",
+      "text": "Primero, la persona llama a su amigo para decir que va a visitarlo. Luego, busca cómo ir a la ciudad. Puede ir en bus o en tren. Compra el boleto y prepara una mochila con agua y comida. Después, sale de su casa y toma el bus o el tren. Durante el viaje, mira por la ventana y piensa en su amigo. Cuando llega a la ciudad, baja del bus o tren y camina hasta la casa de su amigo. Toca la puerta y espera que su amigo abra. Los dos están felices de verse. Pasan un buen rato juntos, hablan mucho y ríen. La visita es muy agradable para los dos. Al final, la persona regresa a su casa contenta y piensa en la próxima visita. Está feliz porque pasó un día bonito con su amigo y quiere volver pronto."
+    },
+    {
+      "title": "Sección 4 — El resultado — Visitar a un amigo",
+      "text": "La persona está muy contenta porque visita a su amigo. Cuando llegan, hablan mucho y se ríen juntos. La visita es buena para su amistad. La persona conoce la casa del amigo y la ciudad donde vive. Caminan por las calles y ven lugares nuevos. El amigo muestra su lugar favorito. La persona aprende cosas nuevas y se siente bien. Pasan un buen tiempo juntos. Al final, la persona está feliz y tranquila. Se despiden con un abrazo fuerte. También hacen una promesa para volver a verse pronto. La visita es un momento especial para los dos. La amistad es más fuerte después de este día. La persona piensa en la visita con alegría. Está contenta de tener un amigo así. La visita les da energía y ganas de compartir más momentos juntos. Ambos esperan que la próxima vez sea igual de buena."
+    }
+  ],
+  "word_count": 564,
+  "dialogue": {
+    "title": "Visitar a un amigo - diálogo",
+    "lines": [
+      {
+        "speaker": "A",
+        "text": "Hola, ¿puedo visitarte este fin de semana?"
+      },
+      {
+        "speaker": "B",
+        "text": "¡Claro! Me gusta cuando vienes."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Dónde vives ahora?"
+      },
+      {
+        "speaker": "B",
+        "text": "Vivo en la ciudad, cerca del parque."
+      },
+      {
+        "speaker": "A",
+        "text": "Perfecto, ¿a qué hora te llamo?"
+      },
+      {
+        "speaker": "B",
+        "text": "Llama a las tres de la tarde."
+      },
+      {
+        "speaker": "A",
+        "text": "Voy a preparar mi mochila y el regalo."
+      },
+      {
+        "speaker": "B",
+        "text": "¡Qué bien! Te espero con alegría."
+      }
+    ]
+  },
+  "say_it": {
+    "title": "Frases para repetir",
+    "items": [
+      "Quiero visitar a mi amigo.",
+      "Necesito dinero para el viaje.",
+      "Llevo un documento de identidad.",
+      "Preparo mi mochila para el viaje.",
+      "Llamo a mi amigo por teléfono.",
+      "Compro el boleto para el bus.",
+      "Camino hasta la casa de mi amigo.",
+      "Estoy feliz de ver a mi amigo."
+    ]
+  },
+  "make_it_yours": {
+    "title": "Hazlo tuyo",
+    "items": [
+      {
+        "prompt": "Quiero visitar a mi amigo.",
+        "example": "Quiero visitar a mi familia."
+      },
+      {
+        "prompt": "Llevo un documento de identidad.",
+        "example": "Llevo un pasaporte."
+      },
+      {
+        "prompt": "Compro el boleto para el bus.",
+        "example": "Compro el boleto para el tren."
+      },
+      {
+        "prompt": "Estoy feliz de ver a mi amigo.",
+        "example": "Estoy feliz de ver a mi hermana."
+      },
+      {
+        "prompt": "Preparo mi mochila para el viaje.",
+        "example": "Preparo mi mochila para la escuela."
+      }
+    ]
+  },
+  "tags": [
+    "needing",
+    "process",
+    "travel",
+    "social"
+  ]
+}

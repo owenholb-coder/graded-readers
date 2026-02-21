@@ -1,0 +1,114 @@
+{
+  "id": "Starting-a-New-Job-a1-es",
+  "title": "Empezar un nuevo trabajo — Proceso (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — La situación — Empezar un nuevo trabajo",
+      "text": "María quiere un trabajo nuevo. Ella busca un empleo para ganar dinero y vivir bien. Su trabajo anterior termina y ahora necesita un trabajo pronto. María quiere un trabajo cerca de su casa para no viajar mucho. También busca un trabajo con buenas horas para descansar. Ella habla con sus amigos y su familia. Ellos la ayudan a buscar un trabajo. María está feliz porque tiene una oportunidad. Ella quiere aprender cosas nuevas en su trabajo y conocer a nuevas personas. María piensa que un buen trabajo es importante para su vida. Ella está lista para empezar y trabajar mucho. María tiene esperanza y está motivada para su nuevo trabajo. Ella sabe que un buen empleo cambia su vida. María quiere crecer y ser mejor cada día. Está emocionada por su futuro y quiere hacer un buen trabajo siempre. María sabe que con esfuerzo puede lograr sus metas y vivir feliz."
+    },
+    {
+      "title": "Sección 2 — Lo que necesita — Empezar un nuevo trabajo",
+      "text": "María empieza un nuevo trabajo. Ella necesita cosas para estar lista. Tiene un documento de identidad para mostrar. También tiene un teléfono para llamar si es necesario. María necesita tiempo para llegar a la empresa. Busca ropa limpia y cómoda para trabajar bien. Además, necesita dinero para pagar el transporte. María lleva su currículum para mostrar su experiencia. Quiere hablar con el jefe y ser amable. Sabe que es importante ser puntual y responsable. María se prepara con cuidado para su primer día. Está feliz y un poco nerviosa. Quiere hacer un buen trabajo y aprender mucho. Piensa en todo lo que necesita para empezar bien. María quiere tener éxito en su nuevo trabajo. Está lista para comenzar y enfrentar nuevos retos con entusiasmo."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Empezar un nuevo trabajo",
+      "text": "María quiere un trabajo nuevo. Busca ofertas en internet y llama a la empresa para preguntar. Luego, va a la entrevista con el jefe. Habla con calma y responde preguntas. María espera la respuesta con paciencia. Más tarde, recibe una llamada. Le dicen que tiene el trabajo. María está muy feliz. Firma el contrato y empieza a trabajar. El primer día llega a la empresa con ganas. Conoce a sus compañeros y aprende su trabajo. María trabaja todos los días y hace bien su tarea. Ella está contenta en su nuevo trabajo. Cada día aprende más y se siente mejor. María quiere seguir trabajando y crecer en su empleo. Está lista para nuevos retos y para ayudar a su equipo."
+    },
+    {
+      "title": "Sección 4 — El resultado — Empezar un nuevo trabajo",
+      "text": "María trabaja todos los días en su nuevo empleo. Ella gana dinero para su casa y su familia. Cada día, María aprende cosas nuevas en el trabajo. Está feliz porque tiene más confianza en sí misma. María también hace nuevos amigos en su lugar de trabajo. Con el dinero que gana, puede comprar comida, ropa y otras cosas para su casa. María siente que su vida mejora poco a poco. Quiere seguir trabajando mucho y crecer en su trabajo. Está contenta porque su esfuerzo es bueno para su futuro. Sabe que este trabajo es importante para ella y para su familia. María está orgullosa de lo que hace cada día. Su trabajo le da seguridad y alegría. Ella espera tener un buen futuro gracias a su trabajo y a su dedicación. María sabe que con paciencia y trabajo, su vida será mejor."
+    }
+  ],
+  "word_count": 537,
+  "dialogue": {
+    "title": "Diálogo: Empezar un nuevo trabajo",
+    "lines": [
+      {
+        "speaker": "A",
+        "text": "Hola, María. ¿Ya tienes un trabajo nuevo?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, empecé esta semana en una empresa cerca de mi casa."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Te gusta tu trabajo?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, aprendo cosas nuevas y conozco a mis compañeros."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Es difícil el trabajo?"
+      },
+      {
+        "speaker": "B",
+        "text": "No, pero necesito ser puntual y responsable."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Y estás feliz con tu empleo?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, estoy contenta y quiero crecer en mi trabajo."
+      }
+    ]
+  },
+  "say_it": {
+    "title": "Frases para repetir",
+    "items": [
+      "Quiero un trabajo nuevo.",
+      "Busco un empleo cerca de mi casa.",
+      "Necesito tiempo para llegar a la empresa.",
+      "Llevo mi currículum para mostrar mi experiencia.",
+      "Estoy lista para empezar y trabajar mucho.",
+      "Quiero aprender cosas nuevas en mi trabajo.",
+      "Estoy feliz y un poco nerviosa.",
+      "Con esfuerzo puedo lograr mis metas."
+    ]
+  },
+  "make_it_yours": {
+    "title": "Hazlo tuyo: Cambia una palabra",
+    "items": [
+      {
+        "prompt": "Cambia el lugar del trabajo.",
+        "example": "Busco un empleo cerca de mi casa."
+      },
+      {
+        "prompt": "Cambia el objeto que lleva María.",
+        "example": "Llevo mi documento de identidad para mostrar."
+      },
+      {
+        "prompt": "Cambia el sentimiento de María.",
+        "example": "Estoy feliz y un poco nerviosa."
+      },
+      {
+        "prompt": "Cambia la acción que hace María.",
+        "example": "María habla con sus amigos y su familia."
+      },
+      {
+        "prompt": "Cambia la meta de María.",
+        "example": "Quiero crecer y ser mejor cada día."
+      }
+    ]
+  },
+  "tags": [
+    "needing",
+    "process",
+    "work",
+    "time",
+    "social"
+  ]
+}

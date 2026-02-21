@@ -1,0 +1,114 @@
+{
+  "id": "Taking-a-Tour-a1-es",
+  "title": "Hacer un tour — Proceso (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — La situación — Hacer un tour",
+      "text": "Una persona quiere conocer una ciudad nueva. No sabe dónde están los lugares importantes. Quiere aprender y ver cosas bonitas. Por eso, decide hacer un tour. El tour es una forma fácil para conocer la ciudad. Muchas personas hacen tours cuando viajan. Así, la persona puede ver museos, parques y edificios famosos. También escucha información sobre la historia y la cultura. Durante el tour, camina y mira con atención. Toma fotos para recordar el viaje. La persona está feliz porque quiere aprender y disfrutar el viaje. Al final del día, se siente contenta y sabe más de la ciudad. El tour le ayuda a conocer mejor y a tener un buen tiempo. Además, habla con otras personas y comparte sus ideas. El tour es una experiencia buena para todos. Es una forma divertida y sencilla de descubrir lugares nuevos y hacer amigos."
+    },
+    {
+      "title": "Sección 2 — Lo que necesita — Hacer un tour",
+      "text": "Para hacer un tour, la persona necesita algunas cosas importantes. Primero, debe tener dinero para pagar el tour. También necesita tiempo libre para ir con el grupo. Es muy importante llevar un documento de identidad, como el DNI o el pasaporte. Esto sirve para identificarse. Además, es bueno tener un teléfono. El teléfono ayuda a hablar con la agencia o usar mapas durante el tour. También es recomendable llevar agua para beber y algo para comer. La ropa debe ser cómoda para caminar y estar bien. La persona puede llevar una mochila pequeña para guardar estas cosas. Con todo esto, la persona está lista para hacer el tour. El tour es una buena forma de conocer lugares nuevos y aprender cosas. También es una oportunidad para pasar un buen rato con otras personas y disfrutar del día."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Hacer un tour",
+      "text": "La persona quiere hacer un tour en la ciudad. Primero, busca información sobre los tours que hay. Luego, llama o escribe para reservar un lugar. El día del tour, llega al punto de encuentro a tiempo. El guía explica el plan del día y el grupo empieza a caminar. Visitan lugares importantes y el guía habla sobre ellos. El grupo camina y aprende cosas nuevas sobre la ciudad. Después, hacen una pausa para descansar y comer algo. El tour sigue y la persona ve más sitios bonitos e interesantes. Al final, el tour termina en un lugar especial. La persona agradece al guía y se despide del grupo con una sonrisa. Es una experiencia que le gusta mucho. Quiere hacer otro tour pronto porque disfruta mucho conocer la ciudad y aprender cosas nuevas."
+    },
+    {
+      "title": "Sección 4 — El resultado — Hacer un tour",
+      "text": "Al final del tour, la persona conoce muchos lugares nuevos y bonitos. Ella aprende sobre la historia y la cultura de la ciudad. Se siente feliz y satisfecha con todo lo que vio. Durante el tour, toma fotos y guarda recuerdos del viaje. La persona cuenta a sus amigos lo que vio y aprendió. Gracias a esta experiencia, conoce mejor la ciudad y sus secretos. También quiere volver otro día para ver más lugares. El tour es una experiencia buena, divertida y fácil para ella. Ella disfruta mucho el tiempo y aprende cosas nuevas. El tour le da alegría y ganas de viajar más. Además, conoce gente nueva y hace amigos. Cada momento es especial y le gusta mucho. Al final, se siente contenta y llena de energía para seguir viajando. Ella piensa que el tour es una forma muy buena de conocer la ciudad y pasar un buen día."
+    }
+  ],
+  "word_count": 562,
+  "dialogue": {
+    "title": "En el tour",
+    "lines": [
+      {
+        "speaker": "A",
+        "text": "¿Quieres hacer un tour en la ciudad?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, quiero conocer lugares nuevos."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Tienes tiempo libre hoy?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, tengo tiempo y dinero."
+      },
+      {
+        "speaker": "A",
+        "text": "Perfecto, vamos al punto de encuentro."
+      },
+      {
+        "speaker": "B",
+        "text": "¿Llevas agua y comida?"
+      },
+      {
+        "speaker": "A",
+        "text": "Sí, y también mi teléfono y documento."
+      },
+      {
+        "speaker": "B",
+        "text": "Muy bien, así estamos listos para el tour."
+      }
+    ]
+  },
+  "say_it": {
+    "title": "Frases para repetir",
+    "items": [
+      "Quiero hacer un tour.",
+      "El tour es una forma fácil.",
+      "Necesito tiempo libre.",
+      "Llevo un documento de identidad.",
+      "El guía explica el plan.",
+      "El grupo camina y aprende.",
+      "Tomo fotos para recordar.",
+      "El tour termina en un lugar especial."
+    ]
+  },
+  "make_it_yours": {
+    "title": "Hazlo tuyo",
+    "items": [
+      {
+        "prompt": "Quiero hacer un tour en la ciudad.",
+        "example": "Quiero hacer un tour en el parque."
+      },
+      {
+        "prompt": "Llevo un documento de identidad.",
+        "example": "Llevo un teléfono para hablar."
+      },
+      {
+        "prompt": "El grupo camina y aprende.",
+        "example": "El grupo camina y mira."
+      },
+      {
+        "prompt": "Tomo fotos para recordar.",
+        "example": "Tomo fotos para compartir."
+      },
+      {
+        "prompt": "El tour termina en un lugar especial.",
+        "example": "El tour termina en un museo."
+      }
+    ]
+  },
+  "tags": [
+    "planning",
+    "needing",
+    "process",
+    "travel",
+    "social"
+  ]
+}

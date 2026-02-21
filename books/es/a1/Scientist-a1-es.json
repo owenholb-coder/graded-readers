@@ -1,0 +1,38 @@
+{
+  "id": "Scientist-a1-es",
+  "title": "Científico — Profesión (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — El trabajo — Científico",
+      "text": "El científico trabaja cada día para aprender cosas nuevas. Él estudia la naturaleza y el mundo que nos rodea. Usa su mente y observa con cuidado. Su trabajo es muy importante para la sociedad. Siempre busca respuestas a muchas preguntas. Piensa mucho y hace experimentos para entender mejor. A veces, el trabajo es difícil, pero también es muy interesante. El científico necesita paciencia y ser cuidadoso. Su trabajo ayuda a mejorar la vida de muchas personas. Además, comparte sus ideas y descubrimientos con otros para que todos puedan aprender. El trabajo del científico es valioso para el mundo y para el futuro. Él trabaja con pasión y siempre quiere descubrir cosas nuevas para ayudar a todos."
+    },
+    {
+      "title": "Sección 2 — Dónde trabaja — Científico",
+      "text": "El científico trabaja en un laboratorio. El laboratorio tiene mesas, herramientas y equipos. Hay tubos, microscopios y computadoras. El lugar es limpio y ordenado. A veces, el científico trabaja fuera del laboratorio. Va a un bosque, un río o una montaña para estudiar la naturaleza. El lugar cambia según la ciencia que estudia. El científico usa ropa especial para protegerse. Su trabajo puede ser en la ciudad o en el campo. Trabaja con otros colegas en un lugar seguro y tranquilo. Siempre observa, piensa y escribe sus resultados. Su trabajo es importante para entender el mundo. El científico aprende cosas nuevas cada día. También ayuda a mejorar la vida de las personas con su trabajo. El científico estudia plantas, animales y el clima. A veces usa máquinas para hacer experimentos. Su trabajo es difícil pero muy interesante. Cada día descubre algo nuevo y útil para todos."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Científico",
+      "text": "El científico trabaja para entender el mundo. Observa con atención y estudia muchas cosas. Mira con cuidado y toma notas importantes. Hace preguntas para saber más. Busca respuestas con paciencia y cuidado. Usa instrumentos para medir y analizar datos. Hace experimentos para probar ideas nuevas. Cambia cosas y observa qué pasa. Escribe los resultados para recordar y compartir. Habla con otros científicos para aprender juntos. Aprende de los errores y vuelve a intentar. Su trabajo es pensar mucho y hacer pruebas. Usa la lógica para entender y la creatividad para imaginar. Siempre quiere descubrir algo nuevo y útil. El científico trabaja todos los días con interés y pasión. Su trabajo ayuda a mejorar la vida de las personas y el mundo. Además, el científico explica sus ideas a otras personas. Enseña y muestra lo que aprende. Así, muchas personas pueden usar sus descubrimientos para vivir mejor. El científico es curioso y nunca deja de aprender."
+    },
+    {
+      "title": "Sección 4 — Un día normal — Científico",
+      "text": "El científico llega al laboratorio por la mañana. Prepara todo para empezar su trabajo. Lee libros y artículos para aprender más. Planea sus experimentos con cuidado. Hace pruebas y observa lo que pasa. Toma notas para recordar los resultados. Escribe informes para compartir su trabajo. Habla con otros científicos sobre ideas nuevas. Usa la computadora para buscar información. A veces va a reuniones o conferencias para aprender cosas nuevas. Al final del día, limpia y organiza su lugar de trabajo. El trabajo es importante y necesita mucha concentración. El científico está feliz porque aprende cosas nuevas cada día. Él disfruta su trabajo y siempre quiere descubrir más. Cada día es diferente y eso le gusta mucho. Siempre está curioso y busca respuestas. Su trabajo ayuda a muchas personas. Por eso, el científico trabaja con pasión y dedicación."
+    }
+  ],
+  "word_count": 554,
+  "tags": [
+    "work",
+    "description",
+    "process",
+    "routine"
+  ]
+}

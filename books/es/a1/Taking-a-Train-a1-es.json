@@ -1,0 +1,115 @@
+{
+  "id": "Taking-a-Train-a1-es",
+  "title": "Tomar un tren — Proceso (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — La situación — Tomar un tren",
+      "text": "Una persona quiere viajar a otra ciudad. No tiene coche y busca una forma fácil para ir. El tren es rápido y cómodo. Ella prefiere el tren porque es barato y puede descansar durante el viaje. El tren sale de la estación que está cerca de su casa. El viaje dura dos horas. La persona está contenta porque va a ver a su familia. Ella compra el billete en la estación. Espera el tren en el andén. Cuando llega el tren, sube y busca un asiento. Durante el viaje, mira por la ventana y piensa en su familia. El tren es una buena opción para viajar en esta situación. Ella llega feliz y lista para pasar tiempo con sus seres queridos. El viaje en tren es tranquilo y seguro. Ella disfruta del paisaje mientras viaja. Al final, está muy contenta de haber elegido el tren para su viaje."
+    },
+    {
+      "title": "Sección 2 — Lo que necesita — Tomar un tren",
+      "text": "Para tomar un tren, una persona necesita algunas cosas importantes. Primero, debe tener dinero para comprar el boleto. El boleto es necesario para subir al tren y viajar. También necesita su documento de identidad para mostrar cuando compre el boleto o cuando viaje. Es importante saber la hora de salida del tren. La persona puede usar su teléfono para buscar esta información. Debe llegar a la estación a tiempo para no perder el tren. Además, puede llevar una mochila con cosas para el viaje, como comida, ropa y agua. Sin el boleto y sin el documento, no puede viajar en el tren. También es bueno llevar algo para leer durante el viaje. Estas cosas son básicas para tomar el tren y tener un buen viaje. Es importante estar tranquilo y seguir las reglas en la estación y en el tren. Así, el viaje será seguro y cómodo para todos."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Tomar un tren",
+      "text": "La persona quiere tomar un tren. Primero, mira el horario del tren en su teléfono. Luego, va a la estación de tren. En la estación, compra un boleto en la taquilla. Después, espera en el andén. Cuando el tren llega, sube al vagón. Busca un asiento libre y se sienta. El tren empieza a moverse. Durante el viaje, la persona mira por la ventana. Ve árboles, casas y personas. También escucha el sonido del tren. A veces, habla con otros pasajeros o lee un libro. El viaje es tranquilo y cómodo. Cuando el tren llega a la estación final, la persona se levanta. Baja del tren y sigue su camino. Así es el proceso para tomar un tren. Es fácil y rápido. La persona está contenta porque el tren es puntual y seguro. Viajar en tren es una buena opción para ir a muchos lugares."
+    },
+    {
+      "title": "Sección 4 — El resultado — Tomar un tren",
+      "text": "El tren llega a la ciudad destino. La persona baja del tren con su mochila. Está feliz porque el viaje fue cómodo y tranquilo. Durante el viaje, puede descansar y mirar por la ventana. Ahora tiene tiempo para ver a su familia y descansar un poco. El boleto ya no sirve porque el viaje terminó. La persona piensa en qué hacer después. Puede caminar por la ciudad o tomar un taxi para llegar a su casa. El viaje en tren es bueno y fácil. La persona recuerda los momentos del viaje con alegría. También piensa en su próximo viaje en tren. Quiere viajar otra vez porque le gusta el tren y la comodidad. El viaje es una buena experiencia para ella. Está contenta y lista para nuevas aventuras."
+    }
+  ],
+  "word_count": 570,
+  "dialogue": {
+    "title": "En la estación de tren",
+    "lines": [
+      {
+        "speaker": "A",
+        "text": "¿Tienes el boleto para el tren?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, lo compré en la taquilla."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Sabes a qué hora sale el tren?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, sale a las cinco de la tarde."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Dónde esperamos el tren?"
+      },
+      {
+        "speaker": "B",
+        "text": "En el andén cerca de la entrada."
+      },
+      {
+        "speaker": "A",
+        "text": "Perfecto, quiero un asiento cómodo."
+      },
+      {
+        "speaker": "B",
+        "text": "Yo también. El viaje será tranquilo."
+      }
+    ]
+  },
+  "say_it": {
+    "title": "Frases para repetir",
+    "items": [
+      "Quiero comprar un boleto.",
+      "El tren sale a las cinco.",
+      "Espero el tren en el andén.",
+      "Busco un asiento libre.",
+      "Miro por la ventana.",
+      "El viaje es cómodo.",
+      "Bajo del tren en la estación.",
+      "Estoy contento con el viaje."
+    ]
+  },
+  "make_it_yours": {
+    "title": "Hazlo tuyo: cambia una palabra",
+    "items": [
+      {
+        "prompt": "Quiero comprar un boleto.",
+        "example": "Quiero comprar un billete."
+      },
+      {
+        "prompt": "El tren sale a las cinco.",
+        "example": "El tren sale a las seis."
+      },
+      {
+        "prompt": "Espero el tren en el andén.",
+        "example": "Espero el tren en la estación."
+      },
+      {
+        "prompt": "Busco un asiento libre.",
+        "example": "Busco un asiento cómodo."
+      },
+      {
+        "prompt": "Miro por la ventana.",
+        "example": "Miro por la puerta."
+      }
+    ]
+  },
+  "tags": [
+    "needing",
+    "buying",
+    "time",
+    "process",
+    "transport",
+    "travel"
+  ]
+}
