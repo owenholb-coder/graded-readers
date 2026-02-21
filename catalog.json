@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_utc": "2026-02-19T18:34:47Z",
+  "updated_utc": "2026-02-20T19:26:41Z",
   "books": [
     {
       "id": "Afganistan-a2-es",
@@ -2152,6 +2152,2619 @@
       "enjoyment": 3,
       "path": "books/es/a1/Romania-a1-es.json",
       "word_count": 577
+    },
+    {
+      "id": "Here-are-50-interesting-animals-you-can-copy-straight-into-your-animalstxt-one-per-line-a1-es",
+      "title": "elefante — Perfil del animal (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Here-are-50-interesting-animals-you-can-copy-straight-into-your-animalstxt-one-per-line-a1-es.json",
+      "word_count": 535
+    },
+    {
+      "id": "African-Elephant-a1-es",
+      "title": "Elefante africano — Perfil del animal (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/African-Elephant-a1-es.json",
+      "word_count": 564
+    },
+    {
+      "id": "Bengal-Tiger-a1-es",
+      "title": "Tigre de Bengala — Perfil del animal (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Bengal-Tiger-a1-es.json",
+      "word_count": 547
+    },
+    {
+      "id": "Giant-Panda-a1-es",
+      "title": "Panda gigante — Perfil del animal (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Giant-Panda-a1-es.json",
+      "word_count": 519
+    },
+    {
+      "id": "Red-Fox-a1-es",
+      "title": "Zorro rojo — Perfil del animal (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Red-Fox-a1-es.json",
+      "word_count": 552
+    },
+    {
+      "id": "Bottlenose-Dolphin-a1-es",
+      "title": "Delfín nariz de botella — Perfil del animal (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Bottlenose-Dolphin-a1-es.json",
+      "word_count": 550
+    },
+    {
+      "id": "Blue-Whale-a1-es",
+      "title": "Ballena azul — Perfil del animal (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Blue-Whale-a1-es.json",
+      "word_count": 525
+    },
+    {
+      "id": "Polar-Bear-a1-es",
+      "title": "Oso polar — Perfil del animal (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Polar-Bear-a1-es.json",
+      "word_count": 585
+    },
+    {
+      "id": "Emperor-Penguin-a1-es",
+      "title": "Pingüino emperador — Perfil del animal (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Emperor-Penguin-a1-es.json",
+      "word_count": 573
+    },
+    {
+      "id": "Golden-Eagle-a1-es",
+      "title": "Águila real — Perfil del animal (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Golden-Eagle-a1-es.json",
+      "word_count": 578
+    },
+    {
+      "id": "Snow-Leopard-a1-es",
+      "title": "Leopardo de las nieves — Perfil del animal (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Snow-Leopard-a1-es.json",
+      "word_count": 538
+    },
+    {
+      "id": "Koala-a1-es",
+      "title": "koala — Perfil del animal (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Koala-a1-es.json",
+      "word_count": 615
+    },
+    {
+      "id": "Kangaroo-a1-es",
+      "title": "canguro — Perfil del animal (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Kangaroo-a1-es.json",
+      "word_count": 502
+    },
+    {
+      "id": "Cheetah-a1-es",
+      "title": "guepardo — Perfil del animal (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Cheetah-a1-es.json",
+      "word_count": 569
+    },
+    {
+      "id": "Giraffe-a1-es",
+      "title": "jirafa — Perfil del animal (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Giraffe-a1-es.json",
+      "word_count": 591
+    },
+    {
+      "id": "Hippopotamus-a1-es",
+      "title": "hipopótamo — Perfil del animal (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Hippopotamus-a1-es.json",
+      "word_count": 548
+    },
+    {
+      "id": "Rhinoceros-a1-es",
+      "title": "rinoceronte — Perfil del animal (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Rhinoceros-a1-es.json",
+      "word_count": 522
+    },
+    {
+      "id": "Grizzly-Bear-a1-es",
+      "title": "oso pardo — Perfil del animal (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Grizzly-Bear-a1-es.json",
+      "word_count": 582
+    },
+    {
+      "id": "Sea-Turtle-a1-es",
+      "title": "tortuga marina — Perfil del animal (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Sea-Turtle-a1-es.json",
+      "word_count": 591
+    },
+    {
+      "id": "Great-White-Shark-a1-es",
+      "title": "Tiburón blanco — Perfil del animal (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Great-White-Shark-a1-es.json",
+      "word_count": 586
+    },
+    {
+      "id": "Octopus-a1-es",
+      "title": "pulpo — Perfil del animal (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Octopus-a1-es.json",
+      "word_count": 502
+    },
+    {
+      "id": "Chimpanzee-a1-es",
+      "title": "chimpancé — Perfil del animal (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Chimpanzee-a1-es.json",
+      "word_count": 551
+    },
+    {
+      "id": "Orangutan-a1-es",
+      "title": "orangután — Perfil del animal (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Orangutan-a1-es.json",
+      "word_count": 555
+    },
+    {
+      "id": "Sloth-a1-es",
+      "title": "perezoso — Perfil del animal (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Sloth-a1-es.json",
+      "word_count": 568
+    },
+    {
+      "id": "Meerkat-a1-es",
+      "title": "suricato — Perfil del animal (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Meerkat-a1-es.json",
+      "word_count": 564
+    },
+    {
+      "id": "Wombat-a1-es",
+      "title": "wombat — Perfil del animal (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Wombat-a1-es.json",
+      "word_count": 582
+    },
+    {
+      "id": "Platypus-a1-es",
+      "title": "ornitorrinco — Perfil del animal (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Platypus-a1-es.json",
+      "word_count": 573
+    },
+    {
+      "id": "Arctic-Fox-a1-es",
+      "title": "Zorro Ártico — Perfil del animal (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Arctic-Fox-a1-es.json",
+      "word_count": 516
+    },
+    {
+      "id": "Reindeer-a1-es",
+      "title": "reno — Perfil del animal (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Reindeer-a1-es.json",
+      "word_count": 530
+    },
+    {
+      "id": "Moose-a1-es",
+      "title": "alce — Perfil del animal (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Moose-a1-es.json",
+      "word_count": 589
+    },
+    {
+      "id": "Bison-a1-es",
+      "title": "bisonte — Perfil del animal (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Bison-a1-es.json",
+      "word_count": 560
+    },
+    {
+      "id": "Llama-a1-es",
+      "title": "llama — Perfil del animal (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Llama-a1-es.json",
+      "word_count": 555
+    },
+    {
+      "id": "Alpaca-a1-es",
+      "title": "alpaca — Perfil del animal (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Alpaca-a1-es.json",
+      "word_count": 576
+    },
+    {
+      "id": "Camel-a1-es",
+      "title": "camello — Perfil del animal (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Camel-a1-es.json",
+      "word_count": 543
+    },
+    {
+      "id": "Zebra-a1-es",
+      "title": "cebra — Perfil del animal (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Zebra-a1-es.json",
+      "word_count": 539
+    },
+    {
+      "id": "Flamingo-a1-es",
+      "title": "flamenco — Perfil del animal (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Flamingo-a1-es.json",
+      "word_count": 534
+    },
+    {
+      "id": "Peacock-a1-es",
+      "title": "pavo real — Perfil del animal (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Peacock-a1-es.json",
+      "word_count": 526
+    },
+    {
+      "id": "Owl-a1-es",
+      "title": "búho — Perfil del animal (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Owl-a1-es.json",
+      "word_count": 550
+    },
+    {
+      "id": "Parrot-a1-es",
+      "title": "loro — Perfil del animal (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Parrot-a1-es.json",
+      "word_count": 594
+    },
+    {
+      "id": "Hummingbird-a1-es",
+      "title": "colibrí — Perfil del animal (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Hummingbird-a1-es.json",
+      "word_count": 519
+    },
+    {
+      "id": "Crocodile-a1-es",
+      "title": "cocodrilo — Perfil del animal (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Crocodile-a1-es.json",
+      "word_count": 556
+    },
+    {
+      "id": "Alligator-a1-es",
+      "title": "caimán — Perfil del animal (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Alligator-a1-es.json",
+      "word_count": 576
+    },
+    {
+      "id": "Komodo-Dragon-a1-es",
+      "title": "dragón de Komodo — Perfil del animal (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Komodo-Dragon-a1-es.json",
+      "word_count": 575
+    },
+    {
+      "id": "Iguana-a1-es",
+      "title": "iguana — Perfil del animal (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Iguana-a1-es.json",
+      "word_count": 544
+    },
+    {
+      "id": "Chameleon-a1-es",
+      "title": "Camaleón — Perfil del animal (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Chameleon-a1-es.json",
+      "word_count": 567
+    },
+    {
+      "id": "Frog-a1-es",
+      "title": "rana — Perfil del animal (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Frog-a1-es.json",
+      "word_count": 573
+    },
+    {
+      "id": "Poison-Dart-Frog-a1-es",
+      "title": "rana dardo venenosa — Perfil del animal (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Poison-Dart-Frog-a1-es.json",
+      "word_count": 577
+    },
+    {
+      "id": "Red-Panda-a1-es",
+      "title": "Panda rojo — Perfil del animal (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Red-Panda-a1-es.json",
+      "word_count": 593
+    },
+    {
+      "id": "Gorilla-a1-es",
+      "title": "gorila — Perfil del animal (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Gorilla-a1-es.json",
+      "word_count": 593
+    },
+    {
+      "id": "Lemur-a1-es",
+      "title": "lémur — Perfil del animal (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Lemur-a1-es.json",
+      "word_count": 554
+    },
+    {
+      "id": "Walrus-a1-es",
+      "title": "morsa — Perfil del animal (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Walrus-a1-es.json",
+      "word_count": 594
+    },
+    {
+      "id": "Teacher-a1-es",
+      "title": "Profesor — Profesión (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Teacher-a1-es.json",
+      "word_count": 561
+    },
+    {
+      "id": "Doctor-a1-es",
+      "title": "Doctor — Profesión (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Doctor-a1-es.json",
+      "word_count": 560
+    },
+    {
+      "id": "Nurse-a1-es",
+      "title": "enfermera — Profesión (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Nurse-a1-es.json",
+      "word_count": 569
+    },
+    {
+      "id": "Dentist-a1-es",
+      "title": "dentista — Profesión (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Dentist-a1-es.json",
+      "word_count": 569
+    },
+    {
+      "id": "Pharmacist-a1-es",
+      "title": "Farmacéutico — Profesión (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Pharmacist-a1-es.json",
+      "word_count": 540
+    },
+    {
+      "id": "Chef-a1-es",
+      "title": "Cocinero — Profesión (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Chef-a1-es.json",
+      "word_count": 586
+    },
+    {
+      "id": "Waiter-a1-es",
+      "title": "Camarero — Profesión (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Waiter-a1-es.json",
+      "word_count": 547
+    },
+    {
+      "id": "Shop-Assistant-a1-es",
+      "title": "Dependiente — Profesión (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Shop-Assistant-a1-es.json",
+      "word_count": 577
+    },
+    {
+      "id": "Police-Officer-a1-es",
+      "title": "Policía — Profesión (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Police-Officer-a1-es.json",
+      "word_count": 584
+    },
+    {
+      "id": "Firefighter-a1-es",
+      "title": "Bombero — Profesión (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Firefighter-a1-es.json",
+      "word_count": 556
+    },
+    {
+      "id": "Pilot-a1-es",
+      "title": "Piloto — Profesión (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Pilot-a1-es.json",
+      "word_count": 561
+    },
+    {
+      "id": "Bus-Driver-a1-es",
+      "title": "Conductor de autobús — Profesión (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Bus-Driver-a1-es.json",
+      "word_count": 551
+    },
+    {
+      "id": "Taxi-Driver-a1-es",
+      "title": "taxista — Profesión (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Taxi-Driver-a1-es.json",
+      "word_count": 597
+    },
+    {
+      "id": "Train-Driver-a1-es",
+      "title": "Conductor de tren — Profesión (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Train-Driver-a1-es.json",
+      "word_count": 578
+    },
+    {
+      "id": "Farmer-a1-es",
+      "title": "Agricultor — Profesión (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Farmer-a1-es.json",
+      "word_count": 565
+    },
+    {
+      "id": "Fisherman-a1-es",
+      "title": "Pescador — Profesión (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Fisherman-a1-es.json",
+      "word_count": 544
+    },
+    {
+      "id": "Builder-a1-es",
+      "title": "Constructor — Profesión (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Builder-a1-es.json",
+      "word_count": 527
+    },
+    {
+      "id": "Electrician-a1-es",
+      "title": "Electricista — Profesión (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Electrician-a1-es.json",
+      "word_count": 573
+    },
+    {
+      "id": "Plumber-a1-es",
+      "title": "Fontanero — Profesión (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Plumber-a1-es.json",
+      "word_count": 557
+    },
+    {
+      "id": "Carpenter-a1-es",
+      "title": "Carpintero — Profesión (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Carpenter-a1-es.json",
+      "word_count": 520
+    },
+    {
+      "id": "Mechanic-a1-es",
+      "title": "Mecánico — Profesión (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Mechanic-a1-es.json",
+      "word_count": 547
+    },
+    {
+      "id": "Engineer-a1-es",
+      "title": "Ingeniero — Profesión (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Engineer-a1-es.json",
+      "word_count": 563
+    },
+    {
+      "id": "Architect-a1-es",
+      "title": "Arquitecto — Profesión (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Architect-a1-es.json",
+      "word_count": 531
+    },
+    {
+      "id": "Scientist-a1-es",
+      "title": "Científico — Profesión (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Scientist-a1-es.json",
+      "word_count": 554
+    },
+    {
+      "id": "Photographer-a1-es",
+      "title": "Fotógrafo — Profesión (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Photographer-a1-es.json",
+      "word_count": 482
+    },
+    {
+      "id": "Journalist-a1-es",
+      "title": "periodista — Profesión (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Journalist-a1-es.json",
+      "word_count": 571
+    },
+    {
+      "id": "Librarian-a1-es",
+      "title": "Bibliotecario — Profesión (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Librarian-a1-es.json",
+      "word_count": 543
+    },
+    {
+      "id": "Receptionist-a1-es",
+      "title": "Recepcionista — Profesión (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Receptionist-a1-es.json",
+      "word_count": 583
+    },
+    {
+      "id": "Secretary-a1-es",
+      "title": "secretario — Profesión (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Secretary-a1-es.json",
+      "word_count": 572
+    },
+    {
+      "id": "Accountant-a1-es",
+      "title": "Contador — Profesión (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Accountant-a1-es.json",
+      "word_count": 510
+    },
+    {
+      "id": "Lawyer-a1-es",
+      "title": "abogado — Profesión (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Lawyer-a1-es.json",
+      "word_count": 569
+    },
+    {
+      "id": "Judge-a1-es",
+      "title": "Juez — Profesión (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Judge-a1-es.json",
+      "word_count": 552
+    },
+    {
+      "id": "Hairdresser-a1-es",
+      "title": "Peluquero — Profesión (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Hairdresser-a1-es.json",
+      "word_count": 526
+    },
+    {
+      "id": "Barber-a1-es",
+      "title": "Barbero — Profesión (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Barber-a1-es.json",
+      "word_count": 528
+    },
+    {
+      "id": "Cleaner-a1-es",
+      "title": "Limpiador — Profesión (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Cleaner-a1-es.json",
+      "word_count": 565
+    },
+    {
+      "id": "Security-Guard-a1-es",
+      "title": "Guardia de seguridad — Profesión (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Security-Guard-a1-es.json",
+      "word_count": 587
+    },
+    {
+      "id": "Delivery-Driver-a1-es",
+      "title": "Repartidor — Profesión (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Delivery-Driver-a1-es.json",
+      "word_count": 552
+    },
+    {
+      "id": "Postman-a1-es",
+      "title": "Cartero — Profesión (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Postman-a1-es.json",
+      "word_count": 577
+    },
+    {
+      "id": "Travel-Agent-a1-es",
+      "title": "Agente de viajes — Profesión (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Travel-Agent-a1-es.json",
+      "word_count": 559
+    },
+    {
+      "id": "Tour-Guide-a1-es",
+      "title": "Guía turístico — Profesión (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Tour-Guide-a1-es.json",
+      "word_count": 563
+    },
+    {
+      "id": "Hotel-Manager-a1-es",
+      "title": "Gerente de hotel — Profesión (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Hotel-Manager-a1-es.json",
+      "word_count": 600
+    },
+    {
+      "id": "Bank-Clerk-a1-es",
+      "title": "Empleado de banco — Profesión (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Bank-Clerk-a1-es.json",
+      "word_count": 576
+    },
+    {
+      "id": "Cashier-a1-es",
+      "title": "Cajero — Profesión (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Cashier-a1-es.json",
+      "word_count": 543
+    },
+    {
+      "id": "Software-Developer-a1-es",
+      "title": "Desarrollador de software — Profesión (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Software-Developer-a1-es.json",
+      "word_count": 566
+    },
+    {
+      "id": "Graphic-Designer-a1-es",
+      "title": "Diseñador gráfico — Profesión (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Graphic-Designer-a1-es.json",
+      "word_count": 585
+    },
+    {
+      "id": "Musician-a1-es",
+      "title": "Músico — Profesión (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Musician-a1-es.json",
+      "word_count": 562
+    },
+    {
+      "id": "Actor-a1-es",
+      "title": "actor — Profesión (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Actor-a1-es.json",
+      "word_count": 538
+    },
+    {
+      "id": "Painter-a1-es",
+      "title": "Pintor — Profesión (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Painter-a1-es.json",
+      "word_count": 543
+    },
+    {
+      "id": "Tailor-a1-es",
+      "title": "sastre — Profesión (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Tailor-a1-es.json",
+      "word_count": 559
+    },
+    {
+      "id": "Veterinarian-a1-es",
+      "title": "veterinario — Profesión (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Veterinarian-a1-es.json",
+      "word_count": 545
+    },
+    {
+      "id": "Taking-a-Flight-a1-es",
+      "title": "Tomar un vuelo — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Taking-a-Flight-a1-es.json",
+      "word_count": 548
+    },
+    {
+      "id": "Booking-a-Hotel-a1-es",
+      "title": "Reservar un hotel — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Booking-a-Hotel-a1-es.json",
+      "word_count": 562
+    },
+    {
+      "id": "Checking-into-a-Hotel-a1-es",
+      "title": "Registrarse en un hotel — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Checking-into-a-Hotel-a1-es.json",
+      "word_count": 531
+    },
+    {
+      "id": "Checking-out-of-a-Hotel-a1-es",
+      "title": "Salida del hotel — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Checking-out-of-a-Hotel-a1-es.json",
+      "word_count": 569
+    },
+    {
+      "id": "Ordering-Food-at-a-Restaurant-a1-es",
+      "title": "Pedir comida en un restaurante — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Ordering-Food-at-a-Restaurant-a1-es.json",
+      "word_count": 575
+    },
+    {
+      "id": "Getting-a-Coffee-a1-es",
+      "title": "Comprar un café — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Getting-a-Coffee-a1-es.json",
+      "word_count": 515
+    },
+    {
+      "id": "Buying-Groceries-a1-es",
+      "title": "Comprar comida — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Buying-Groceries-a1-es.json",
+      "word_count": 576
+    },
+    {
+      "id": "Buying-Clothes-a1-es",
+      "title": "Comprar ropa — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Buying-Clothes-a1-es.json",
+      "word_count": 582
+    },
+    {
+      "id": "Buying-a-Train-Ticket-a1-es",
+      "title": "Comprar un billete de tren — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Buying-a-Train-Ticket-a1-es.json",
+      "word_count": 527
+    },
+    {
+      "id": "Taking-a-Train-a1-es",
+      "title": "Tomar un tren — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Taking-a-Train-a1-es.json",
+      "word_count": 570
+    },
+    {
+      "id": "Taking-the-Bus-a1-es",
+      "title": "Tomar el autobús — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Taking-the-Bus-a1-es.json",
+      "word_count": 570
+    },
+    {
+      "id": "Taking-the-Metro-a1-es",
+      "title": "Usar el metro — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Taking-the-Metro-a1-es.json",
+      "word_count": 576
+    },
+    {
+      "id": "Getting-a-Taxi-a1-es",
+      "title": "Tomar un taxi — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Getting-a-Taxi-a1-es.json",
+      "word_count": 535
+    },
+    {
+      "id": "Renting-a-Car-a1-es",
+      "title": "Alquilar un coche — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Renting-a-Car-a1-es.json",
+      "word_count": 528
+    },
+    {
+      "id": "Opening-a-Bank-Account-a1-es",
+      "title": "Abrir una cuenta bancaria — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Opening-a-Bank-Account-a1-es.json",
+      "word_count": 566
+    },
+    {
+      "id": "Using-an-ATM-a1-es",
+      "title": "Usar un cajero automático — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Using-an-ATM-a1-es.json",
+      "word_count": 603
+    },
+    {
+      "id": "Paying-a-Bill-a1-es",
+      "title": "Pagar una factura — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Paying-a-Bill-a1-es.json",
+      "word_count": 570
+    },
+    {
+      "id": "Sending-a-Package-a1-es",
+      "title": "Enviar un paquete — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Sending-a-Package-a1-es.json",
+      "word_count": 566
+    },
+    {
+      "id": "Buying-Medicine-a1-es",
+      "title": "Comprar medicina — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Buying-Medicine-a1-es.json",
+      "word_count": 530
+    },
+    {
+      "id": "Going-to-a-Doctors-Appointment-a1-es",
+      "title": "Ir al médico — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Going-to-a-Doctors-Appointment-a1-es.json",
+      "word_count": 543
+    },
+    {
+      "id": "Going-to-the-Dentist-a1-es",
+      "title": "Ir al dentista — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Going-to-the-Dentist-a1-es.json",
+      "word_count": 544
+    },
+    {
+      "id": "Getting-a-Haircut-a1-es",
+      "title": "Cortarse el pelo — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Getting-a-Haircut-a1-es.json",
+      "word_count": 535
+    },
+    {
+      "id": "Joining-a-Gym-a1-es",
+      "title": "Unirse al gimnasio — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Joining-a-Gym-a1-es.json",
+      "word_count": 545
+    },
+    {
+      "id": "Going-to-a-Job-Interview-a1-es",
+      "title": "Ir a una entrevista de trabajo — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Going-to-a-Job-Interview-a1-es.json",
+      "word_count": 543
+    },
+    {
+      "id": "Starting-a-New-Job-a1-es",
+      "title": "Empezar un nuevo trabajo — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Starting-a-New-Job-a1-es.json",
+      "word_count": 537
+    },
+    {
+      "id": "Registering-at-a-School-a1-es",
+      "title": "Inscripción en la escuela — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Registering-at-a-School-a1-es.json",
+      "word_count": 581
+    },
+    {
+      "id": "Starting-a-New-Class-a1-es",
+      "title": "Empezar una clase nueva — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Starting-a-New-Class-a1-es.json",
+      "word_count": 493
+    },
+    {
+      "id": "Buying-a-Phone-a1-es",
+      "title": "Comprar un teléfono — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Buying-a-Phone-a1-es.json",
+      "word_count": 579
+    },
+    {
+      "id": "Setting-up-Internet-a1-es",
+      "title": "Configurar Internet — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Setting-up-Internet-a1-es.json",
+      "word_count": 549
+    },
+    {
+      "id": "Booking-a-Restaurant-a1-es",
+      "title": "Reservar en un restaurante — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Booking-a-Restaurant-a1-es.json",
+      "word_count": 523
+    },
+    {
+      "id": "Going-to-the-Cinema-a1-es",
+      "title": "Ir al cine — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Going-to-the-Cinema-a1-es.json",
+      "word_count": 563
+    },
+    {
+      "id": "Going-to-a-Concert-a1-es",
+      "title": "Ir a un concierto — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Going-to-a-Concert-a1-es.json",
+      "word_count": 570
+    },
+    {
+      "id": "Going-to-a-Museum-a1-es",
+      "title": "Ir a un museo — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Going-to-a-Museum-a1-es.json",
+      "word_count": 571
+    },
+    {
+      "id": "Going-to-a-Festival-a1-es",
+      "title": "Ir a un festival — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Going-to-a-Festival-a1-es.json",
+      "word_count": 569
+    },
+    {
+      "id": "Going-to-the-Beach-a1-es",
+      "title": "Ir a la playa — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Going-to-the-Beach-a1-es.json",
+      "word_count": 568
+    },
+    {
+      "id": "Going-Camping-a1-es",
+      "title": "Ir de campamento — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Going-Camping-a1-es.json",
+      "word_count": 546
+    },
+    {
+      "id": "Going-on-Holiday-a1-es",
+      "title": "Ir de vacaciones — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Going-on-Holiday-a1-es.json",
+      "word_count": 516
+    },
+    {
+      "id": "Visiting-a-Friend-a1-es",
+      "title": "Visitar a un amigo — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Visiting-a-Friend-a1-es.json",
+      "word_count": 564
+    },
+    {
+      "id": "Meeting-a-Teacher-a1-es",
+      "title": "Conocer a un profesor — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Meeting-a-Teacher-a1-es.json",
+      "word_count": 585
+    },
+    {
+      "id": "Asking-for-Directions-a1-es",
+      "title": "Pedir direcciones — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Asking-for-Directions-a1-es.json",
+      "word_count": 545
+    },
+    {
+      "id": "Planning-a-Trip-a1-es",
+      "title": "Planear un viaje — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Planning-a-Trip-a1-es.json",
+      "word_count": 564
+    },
+    {
+      "id": "Packing-a-Suitcase-a1-es",
+      "title": "hacer la maleta — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Packing-a-Suitcase-a1-es.json",
+      "word_count": 596
+    },
+    {
+      "id": "Finding-an-Apartment-a1-es",
+      "title": "Buscar apartamento — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Finding-an-Apartment-a1-es.json",
+      "word_count": 523
+    },
+    {
+      "id": "Moving-to-a-New-City-a1-es",
+      "title": "Mudarse a otra ciudad — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Moving-to-a-New-City-a1-es.json",
+      "word_count": 578
+    },
+    {
+      "id": "Taking-a-Tour-a1-es",
+      "title": "Hacer un tour — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Taking-a-Tour-a1-es.json",
+      "word_count": 562
+    },
+    {
+      "id": "Renting-a-Bike-a1-es",
+      "title": "Alquilar una bicicleta — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Renting-a-Bike-a1-es.json",
+      "word_count": 539
+    },
+    {
+      "id": "Going-to-the-Post-Office-a1-es",
+      "title": "Ir a la oficina de correos — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Going-to-the-Post-Office-a1-es.json",
+      "word_count": 596
+    },
+    {
+      "id": "Going-to-the-Pharmacy-a1-es",
+      "title": "Ir a la farmacia — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Going-to-the-Pharmacy-a1-es.json",
+      "word_count": 590
+    },
+    {
+      "id": "Buying-a-Gift-a1-es",
+      "title": "Comprar un regalo — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Buying-a-Gift-a1-es.json",
+      "word_count": 498
+    },
+    {
+      "id": "Attending-a-Meeting-a1-es",
+      "title": "Asistir a una reunión — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/Attending-a-Meeting-a1-es.json",
+      "word_count": 564
+    },
+    {
+      "id": "personal-My-morning-routine-a1-es",
+      "title": "Mi rutina de la mañana — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/personal-My-morning-routine-a1-es.json",
+      "word_count": 556
+    },
+    {
+      "id": "personal-My-evening-routine-a1-es",
+      "title": "Mi rutina de la tarde — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/personal-My-evening-routine-a1-es.json",
+      "word_count": 581
+    },
+    {
+      "id": "personal-Getting-ready-for-work-a1-es",
+      "title": "Prepararme para el trabajo — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/personal-Getting-ready-for-work-a1-es.json",
+      "word_count": 558
+    },
+    {
+      "id": "personal-Getting-ready-for-bed-a1-es",
+      "title": "prepararme para dormir — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/personal-Getting-ready-for-bed-a1-es.json",
+      "word_count": 565
+    },
+    {
+      "id": "personal-Making-breakfast-a1-es",
+      "title": "hacer desayuno — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/personal-Making-breakfast-a1-es.json",
+      "word_count": 567
+    },
+    {
+      "id": "personal-Making-lunch-a1-es",
+      "title": "Preparar el almuerzo — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/personal-Making-lunch-a1-es.json",
+      "word_count": 545
+    },
+    {
+      "id": "personal-Cooking-dinner-a1-es",
+      "title": "cocinar la cena — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/personal-Cooking-dinner-a1-es.json",
+      "word_count": 577
+    },
+    {
+      "id": "personal-Going-to-work-a1-es",
+      "title": "Ir al trabajo — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/personal-Going-to-work-a1-es.json",
+      "word_count": 580
+    },
+    {
+      "id": "personal-Working-from-home-a1-es",
+      "title": "Trabajo en casa — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/personal-Working-from-home-a1-es.json",
+      "word_count": 567
+    },
+    {
+      "id": "personal-Studying-Spanish-a1-es",
+      "title": "Estudio de español — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/personal-Studying-Spanish-a1-es.json",
+      "word_count": 596
+    },
+    {
+      "id": "personal-Doing-homework-a1-es",
+      "title": "hacer la tarea — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/personal-Doing-homework-a1-es.json",
+      "word_count": 568
+    },
+    {
+      "id": "personal-Going-to-the-gym-a1-es",
+      "title": "Ir al gimnasio — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/personal-Going-to-the-gym-a1-es.json",
+      "word_count": 549
+    },
+    {
+      "id": "personal-Going-for-a-walk-a1-es",
+      "title": "Ir a caminar — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/personal-Going-for-a-walk-a1-es.json",
+      "word_count": 558
+    },
+    {
+      "id": "personal-Cleaning-my-house-a1-es",
+      "title": "limpiar la casa — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/personal-Cleaning-my-house-a1-es.json",
+      "word_count": 509
+    },
+    {
+      "id": "personal-Doing-the-laundry-a1-es",
+      "title": "Lavar la ropa — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/personal-Doing-the-laundry-a1-es.json",
+      "word_count": 560
+    },
+    {
+      "id": "personal-Shopping-for-groceries-a1-es",
+      "title": "Comprar comida — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/personal-Shopping-for-groceries-a1-es.json",
+      "word_count": 573
+    },
+    {
+      "id": "personal-Planning-my-week-a1-es",
+      "title": "Planifico mi semana — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/personal-Planning-my-week-a1-es.json",
+      "word_count": 574
+    },
+    {
+      "id": "personal-Using-public-transport-a1-es",
+      "title": "usar transporte público — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/personal-Using-public-transport-a1-es.json",
+      "word_count": 577
+    },
+    {
+      "id": "personal-Having-a-quiet-weekend-a1-es",
+      "title": "fin de semana tranquilo — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/personal-Having-a-quiet-weekend-a1-es.json",
+      "word_count": 583
+    },
+    {
+      "id": "personal-Calling-my-family-a1-es",
+      "title": "Llamar a mi familia — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/personal-Calling-my-family-a1-es.json",
+      "word_count": 595
+    },
+    {
+      "id": "problem-I-miss-my-bus-a1-es",
+      "title": "Perder el autobús — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/problem-I-miss-my-bus-a1-es.json",
+      "word_count": 520
+    },
+    {
+      "id": "problem-I-am-late-for-a-meeting-a1-es",
+      "title": "llego_tarde_a_una_reunion — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/problem-I-am-late-for-a-meeting-a1-es.json",
+      "word_count": 531
+    },
+    {
+      "id": "problem-I-lose-my-wallet-a1-es",
+      "title": "perder la cartera — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/problem-I-lose-my-wallet-a1-es.json",
+      "word_count": 555
+    },
+    {
+      "id": "problem-I-lose-my-phone-a1-es",
+      "title": "Perder el teléfono — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/problem-I-lose-my-phone-a1-es.json",
+      "word_count": 549
+    },
+    {
+      "id": "problem-I-forget-my-password-a1-es",
+      "title": "recuperar contraseña — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/problem-I-forget-my-password-a1-es.json",
+      "word_count": 585
+    },
+    {
+      "id": "problem-I-do-not-have-enough-money-a1-es",
+      "title": "no tengo dinero suficiente — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/problem-I-do-not-have-enough-money-a1-es.json",
+      "word_count": 564
+    },
+    {
+      "id": "problem-I-cannot-find-my-hotel-a1-es",
+      "title": "encontrar hotel perdido — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/problem-I-cannot-find-my-hotel-a1-es.json",
+      "word_count": 523
+    },
+    {
+      "id": "problem-I-cannot-find-my-apartment-a1-es",
+      "title": "encontrar mi apartamento — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/problem-I-cannot-find-my-apartment-a1-es.json",
+      "word_count": 532
+    },
+    {
+      "id": "problem-I-cannot-find-the-train-platform-a1-es",
+      "title": "encontrar el andén — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/problem-I-cannot-find-the-train-platform-a1-es.json",
+      "word_count": 557
+    },
+    {
+      "id": "problem-I-buy-the-wrong-ticket-a1-es",
+      "title": "Comprar el boleto correcto — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/problem-I-buy-the-wrong-ticket-a1-es.json",
+      "word_count": 581
+    },
+    {
+      "id": "problem-I-do-not-understand-the-menu-a1-es",
+      "title": "Entender el menú — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/problem-I-do-not-understand-the-menu-a1-es.json",
+      "word_count": 535
+    },
+    {
+      "id": "problem-I-feel-sick-a1-es",
+      "title": "sentirse mal — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/problem-I-feel-sick-a1-es.json",
+      "word_count": 555
+    },
+    {
+      "id": "problem-I-need-medicine-at-night-a1-es",
+      "title": "Tomar medicina de noche — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/problem-I-need-medicine-at-night-a1-es.json",
+      "word_count": 605
+    },
+    {
+      "id": "problem-My-internet-does-not-work-a1-es",
+      "title": "arreglar internet — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/problem-My-internet-does-not-work-a1-es.json",
+      "word_count": 511
+    },
+    {
+      "id": "problem-My-phone-battery-is-dead-a1-es",
+      "title": "cargar el móvil — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/problem-My-phone-battery-is-dead-a1-es.json",
+      "word_count": 575
+    },
+    {
+      "id": "problem-My-card-does-not-work-a1-es",
+      "title": "tarjeta no funciona — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/problem-My-card-does-not-work-a1-es.json",
+      "word_count": 508
+    },
+    {
+      "id": "problem-The-shop-is-closed-a1-es",
+      "title": "La tienda está cerrada — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/problem-The-shop-is-closed-a1-es.json",
+      "word_count": 521
+    },
+    {
+      "id": "problem-It-is-raining-a-lot-a1-es",
+      "title": "Lluvia fuerte y solución — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/problem-It-is-raining-a-lot-a1-es.json",
+      "word_count": 549
+    },
+    {
+      "id": "problem-I-get-lost-in-the-city-a1-es",
+      "title": "Encontrar el camino en la ciudad — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/problem-I-get-lost-in-the-city-a1-es.json",
+      "word_count": 551
+    },
+    {
+      "id": "problem-I-do-not-understand-a-person-a1-es",
+      "title": "Entender a una persona — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/problem-I-do-not-understand-a-person-a1-es.json",
+      "word_count": 564
+    },
+    {
+      "id": "adventure-Visiting-a-new-city-a1-es",
+      "title": "Visitar una ciudad nueva — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/adventure-Visiting-a-new-city-a1-es.json",
+      "word_count": 524
+    },
+    {
+      "id": "adventure-Going-to-the-beach-a1-es",
+      "title": "Ir a la playa — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/adventure-Going-to-the-beach-a1-es.json",
+      "word_count": 580
+    },
+    {
+      "id": "adventure-Going-to-a-museum-a1-es",
+      "title": "Ir al museo — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/adventure-Going-to-a-museum-a1-es.json",
+      "word_count": 567
+    },
+    {
+      "id": "adventure-Going-to-a-concert-a1-es",
+      "title": "Ir a un concierto — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/adventure-Going-to-a-concert-a1-es.json",
+      "word_count": 563
+    },
+    {
+      "id": "adventure-Going-to-a-festival-a1-es",
+      "title": "Ir a un festival — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/adventure-Going-to-a-festival-a1-es.json",
+      "word_count": 571
+    },
+    {
+      "id": "adventure-Going-on-a-day-trip-a1-es",
+      "title": "Un día de paseo — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/adventure-Going-on-a-day-trip-a1-es.json",
+      "word_count": 573
+    },
+    {
+      "id": "adventure-Taking-a-boat-tour-a1-es",
+      "title": "Paseo en barco — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/adventure-Taking-a-boat-tour-a1-es.json",
+      "word_count": 609
+    },
+    {
+      "id": "adventure-Trying-a-new-food-a1-es",
+      "title": "Probar comida nueva — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/adventure-Trying-a-new-food-a1-es.json",
+      "word_count": 534
+    },
+    {
+      "id": "adventure-Meeting-new-people-a1-es",
+      "title": "Conocer gente nueva — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/adventure-Meeting-new-people-a1-es.json",
+      "word_count": 599
+    },
+    {
+      "id": "adventure-Starting-a-new-hobby-a1-es",
+      "title": "Empezar un pasatiempo — Proceso (A1)",
+      "language": "es",
+      "level": "A1",
+      "genre": [
+        "Non-fiction"
+      ],
+      "difficulty": 1,
+      "enjoyment": 3,
+      "path": "books/es/a1/adventure-Starting-a-new-hobby-a1-es.json",
+      "word_count": 551
     }
   ]
 }
