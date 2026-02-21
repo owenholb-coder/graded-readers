@@ -1,0 +1,40 @@
+{
+  "id": "Librarian-a1-es",
+  "title": "Bibliotecario — Profesión (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — El trabajo — Bibliotecario",
+      "text": "El bibliotecario trabaja en la biblioteca todos los días. Su trabajo es ayudar a las personas que vienen a la biblioteca. Organiza los libros en las estanterías para que sea fácil encontrarlos. También cuida los libros para que no se dañen. Es un trabajo tranquilo y agradable. El bibliotecario usa la computadora para buscar información y para ayudar a los visitantes. Habla con las personas que visitan la biblioteca y responde sus preguntas. El bibliotecario es amable y paciente con todos. Le gusta leer libros y aprender cosas nuevas cada día. Su trabajo es muy importante para la comunidad. Muchas personas van a la biblioteca para estudiar, leer o buscar información. El bibliotecario ayuda a que la biblioteca sea un lugar bueno y tranquilo para todos. Además, organiza actividades para niños y adultos. Siempre está listo para ayudar y hacer que todos se sientan bien en la biblioteca."
+    },
+    {
+      "title": "Sección 2 — Dónde trabaja — Bibliotecario",
+      "text": "El bibliotecario trabaja en la biblioteca. La biblioteca tiene muchos libros para leer y estudiar. Hay mesas y sillas para que las personas se sienten y lean. La biblioteca está en la ciudad o en el pueblo. Muchas personas van a la biblioteca cada día para buscar libros o leer. En la biblioteca hay libros, revistas y a veces películas para ver. También hay computadoras que la gente usa para buscar información. La biblioteca es un lugar tranquilo y cómodo para todos. El bibliotecario trabaja en un escritorio y ayuda a poner los libros en las estanterías. La biblioteca está abierta para todos. Niños, jóvenes y adultos pueden ir a la biblioteca para aprender, leer y disfrutar el tiempo allí."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Bibliotecario",
+      "text": "El bibliotecario trabaja con libros todos los días. Organiza los libros en las estanterías para que las personas los encuentren fácil. Ayuda a la gente a buscar libros que necesitan. Usa la computadora para buscar información y dar respuestas. Presta libros a las personas y recibe los libros cuando los devuelven. También hace actividades para niños y adultos en la biblioteca. Cuida que la biblioteca esté limpia y ordenada. El bibliotecario habla con las personas y les explica cómo usar la biblioteca. Su trabajo es muy importante para que la biblioteca funcione bien. Gracias a él, todos pueden aprender y disfrutar de los libros. Además, mantiene un ambiente tranquilo para que todos puedan leer y estudiar sin problemas. Él trabaja con paciencia y siempre está listo para ayudar a todos los visitantes."
+    },
+    {
+      "title": "Sección 4 — Un día normal — Bibliotecario",
+      "text": "El bibliotecario llega a la biblioteca temprano por la mañana. Abre la puerta y prepara todo para un buen día. Organiza los libros en las estanterías con cuidado. Limpia un poco el lugar para que esté limpio y ordenado. Luego, atiende a las personas que vienen a la biblioteca. Ayuda a buscar libros y a usar la computadora. Contesta preguntas y da información a los visitantes con paciencia. A veces, el bibliotecario hace actividades con niños, como leer cuentos y jugar. Durante el día, presta libros a las personas y recibe los que regresan. También trabaja en la computadora para organizar la información. Al final del día, cierra la biblioteca con cuidado y apaga las luces. El bibliotecario se siente feliz porque ayudó a muchas personas y compartió su amor por los libros. Es un trabajo tranquilo y muy importante para la comunidad."
+    }
+  ],
+  "word_count": 543,
+  "tags": [
+    "work",
+    "places",
+    "services",
+    "routine",
+    "process",
+    "description"
+  ]
+}

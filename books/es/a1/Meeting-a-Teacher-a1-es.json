@@ -1,0 +1,115 @@
+{
+  "id": "Meeting-a-Teacher-a1-es",
+  "title": "Conocer a un profesor — Proceso (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — La situación — Conocer a un profesor",
+      "text": "Una persona tiene su primer día en la escuela. Está un poco nerviosa porque quiere conocer a su profesor. Ella quiere hablar con el profesor para saber más sobre la clase y entender bien las reglas. También quiere preguntar si hay tareas para hacer en casa. Quiere hacer una buena impresión y ser amable con el profesor. Por eso, decide llegar temprano a la escuela. Quiere estar lista y tranquila para la clase. El profesor es muy importante para aprender bien. La persona sabe que conocer al profesor ayuda mucho. Quiere que el profesor la conozca también. Así, la persona se siente más segura y feliz en la escuela. Está contenta porque sabe que tendrá un buen año. Quiere aprender mucho y hacer nuevos amigos. La escuela es un lugar para crecer y disfrutar. Ella espera que todo sea bueno y que la clase sea interesante."
+    },
+    {
+      "title": "Sección 2 — Lo que necesita — Conocer a un profesor",
+      "text": "La persona quiere conocer al profesor. Para eso, necesita cosas importantes. Lleva su documento de identidad porque es necesario para la escuela. También tiene su mochila con libros y cuadernos. Los libros y cuadernos son para estudiar y escribir en clase. La persona tiene tiempo libre para hablar con el profesor. Quiere hacer preguntas y escuchar con atención. Además, lleva un teléfono móvil para llamar si hay un problema. No necesita mucho dinero para esto. Solo quiere hablar con el profesor y entender todo bien. La persona se prepara con calma antes de ir a la escuela. Está tranquila y lista para aprender cosas nuevas. Todo es simple y fácil para ella. La persona está feliz de conocer al profesor y empezar bien su día en la escuela."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Conocer a un profesor",
+      "text": "La persona llega a la escuela y camina por el pasillo. Busca la clase del profesor con cuidado. Toca la puerta y entra con respeto. Saluda al profesor con una sonrisa amable. Dice su nombre y explica que es nuevo en la escuela. Pregunta sobre la clase y las tareas que debe hacer. El profesor responde con paciencia y explica todo con claridad. La persona escucha con atención y toma notas en su cuaderno. El profesor ayuda y da consejos para estudiar mejor. La persona se siente más tranquila y feliz. Ahora sabe qué hacer en la clase y está lista para aprender. Quiere participar y hacer preguntas. La escuela es un lugar bueno para aprender cosas nuevas. El profesor es amable y siempre ayuda a los estudiantes con cariño. La persona quiere venir todos los días para aprender más y mejorar. Está contenta de estar en la escuela y tener un buen profesor."
+    },
+    {
+      "title": "Sección 4 — El resultado — Conocer a un profesor",
+      "text": "La persona termina la conversación con el profesor. Ahora sabe qué hacer en la clase. Tiene información sobre las tareas y el horario. Se siente lista para aprender. El profesor también conoce a la persona. Esto es bueno para la escuela. La persona vuelve a casa contenta y tranquila. Está segura de que la clase será buena y divertida. Conocer al profesor fue útil y fácil. La persona espera el próximo día con ganas y alegría. Piensa en las cosas nuevas que va a aprender. Está feliz porque sabe que el profesor la ayudará. La persona quiere participar en la clase y hacer preguntas. Sabe que puede hablar con el profesor cuando necesite ayuda. La escuela es un lugar para aprender y crecer. La persona está lista para empezar esta nueva experiencia. Está emocionada por conocer a sus compañeros y hacer nuevos amigos. Cada día en la escuela será una oportunidad para descubrir cosas nuevas y mejorar."
+    }
+  ],
+  "word_count": 585,
+  "dialogue": {
+    "title": "Diálogo: Conocer al profesor",
+    "lines": [
+      {
+        "speaker": "A",
+        "text": "Hola, soy nuevo en la escuela."
+      },
+      {
+        "speaker": "B",
+        "text": "Hola, bienvenido. ¿Quieres conocer la clase?"
+      },
+      {
+        "speaker": "A",
+        "text": "Sí, quiero saber las reglas y las tareas."
+      },
+      {
+        "speaker": "B",
+        "text": "Claro, te explico todo con calma."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Hay tareas para hacer en casa?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, hay tareas cada semana."
+      },
+      {
+        "speaker": "A",
+        "text": "Gracias, quiero aprender mucho."
+      },
+      {
+        "speaker": "B",
+        "text": "Perfecto, estoy aquí para ayudarte."
+      }
+    ]
+  },
+  "say_it": {
+    "title": "Frases para repetir",
+    "items": [
+      "Quiero conocer al profesor.",
+      "¿Hay tareas para hacer en casa?",
+      "Llego temprano a la escuela.",
+      "Escucho con atención.",
+      "Tomo notas en mi cuaderno.",
+      "El profesor es amable.",
+      "Estoy lista para aprender.",
+      "La escuela es un lugar para crecer."
+    ]
+  },
+  "make_it_yours": {
+    "title": "Hazlo tuyo: Cambia una palabra",
+    "items": [
+      {
+        "prompt": "Quiero conocer al profesor.",
+        "example": "Quiero conocer a la profesora."
+      },
+      {
+        "prompt": "Llego temprano a la escuela.",
+        "example": "Llego tarde a la escuela."
+      },
+      {
+        "prompt": "Tomo notas en mi cuaderno.",
+        "example": "Tomo notas en mi libro."
+      },
+      {
+        "prompt": "El profesor es amable.",
+        "example": "El profesor es paciente."
+      },
+      {
+        "prompt": "Estoy lista para aprender.",
+        "example": "Estoy lista para estudiar."
+      }
+    ]
+  },
+  "tags": [
+    "asking",
+    "needing",
+    "process",
+    "time",
+    "social",
+    "work"
+  ]
+}

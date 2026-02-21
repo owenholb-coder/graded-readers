@@ -1,0 +1,115 @@
+{
+  "id": "Moving-to-a-New-City-a1-es",
+  "title": "Mudarse a otra ciudad — Proceso (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — La situación — Mudarse a otra ciudad",
+      "text": "Ana vive en una ciudad pequeña. Ella quiere vivir en una ciudad grande. En la ciudad grande hay muchas oportunidades para trabajar y aprender. Ana busca un trabajo nuevo y una vida diferente. Ella quiere conocer gente nueva y hacer amigos. Ana piensa mucho en su familia y en sus amigos. Ellos la apoyan y la animan. Cambiar de ciudad es un paso importante para Ana. Ella está feliz y un poco nerviosa. Ana imagina su nueva casa y su trabajo. Ella quiere descubrir lugares nuevos en la ciudad grande. Ana está lista para empezar esta nueva etapa con ilusión y esperanza. Sabe que la vida será diferente, pero quiere vivir esta experiencia con alegría y confianza."
+    },
+    {
+      "title": "Sección 2 — Lo que necesita — Mudarse a otra ciudad",
+      "text": "Ana quiere mudarse a otra ciudad. Para eso, necesita dinero. Ella guarda dinero para pagar el viaje y la casa nueva. También necesita tiempo para organizar todo. Ana prepara sus documentos importantes, como su identificación y otros papeles. Además, necesita un teléfono. Con él, habla con su familia y busca trabajo. Ana busca información sobre la ciudad. Quiere saber dónde vivir y cómo moverse. Habla con amigos que viven allí. Ellos le dan consejos buenos. Ana se prepara para el cambio con calma y paciencia. Ella quiere que todo salga bien. Mudarse es un paso grande y importante. Ana está lista para empezar una nueva vida en otro lugar. Está emocionada y un poco nerviosa. Sabe que será difícil, pero también sabe que es una oportunidad para crecer y aprender cosas nuevas. Ana también piensa en su ropa y sus cosas. Empaca con cuidado para no olvidar nada. Ella quiere estar lista para el día del viaje. Todo es nuevo, pero Ana tiene esperanza y fuerza para seguir adelante."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Mudarse a otra ciudad",
+      "text": "Ana quiere mudarse a otra ciudad. Ella busca una casa para vivir. Mira fotos y pregunta a personas. Ana hace las maletas con ropa y cosas importantes. Después, viaja a la ciudad nueva. El viaje es largo, pero Ana está feliz. Cuando llega, conoce su casa y el barrio. Compra comida y cosas para la casa. También, Ana busca trabajo y habla con sus vecinos. Poco a poco, aprende a usar el transporte público. Ana está emocionada. Ella empieza su nueva vida con energía y alegría. Ana va al mercado y compra frutas frescas. Ella visita parques y lugares nuevos. Ana habla con gente en la calle y hace amigos. Cada día, Ana aprende algo nuevo. La ciudad es diferente, pero Ana se siente bien. Ella quiere vivir aquí mucho tiempo y ser feliz. Ana disfruta su nueva vida y sueña con el futuro."
+    },
+    {
+      "title": "Sección 4 — El resultado — Mudarse a otra ciudad",
+      "text": "Ana vive en una ciudad grande. Ella tiene un trabajo nuevo y conoce amigos. Ana hace actividades diferentes cada día. Ella aprende cosas nuevas y mejora mucho. Ana está contenta con su decisión de mudarse. La ciudad le da muchas oportunidades para crecer. Ana se siente independiente y fuerte en su nueva vida. Ella sabe que el cambio fue bueno para ella. Ana piensa en su futuro con esperanza y alegría. Ella quiere seguir aprendiendo y disfrutando cada momento. Mudarse fue un paso importante para Ana. Ahora, ella tiene una vida nueva y feliz. Ana está segura de que tomó la mejor decisión. Ella vive con ganas y confianza en sí misma. La ciudad le ofrece muchas cosas para hacer y conocer. Ana está feliz y quiere seguir adelante. Cada día, Ana descubre algo nuevo y se siente mejor. La ciudad es su hogar y le gusta mucho."
+    }
+  ],
+  "word_count": 578,
+  "dialogue": {
+    "title": "Mudarse a otra ciudad - Mini diálogo",
+    "lines": [
+      {
+        "speaker": "A",
+        "text": "Hola, ¿quieres vivir en una ciudad grande?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, quiero conocer gente nueva y trabajar."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Tienes dinero para el viaje y la casa?"
+      },
+      {
+        "speaker": "B",
+        "text": "Estoy guardando dinero para eso."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Ya preparaste tus documentos?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, tengo mi identificación y papeles."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Y un teléfono para hablar con tu familia?"
+      },
+      {
+        "speaker": "B",
+        "text": "Claro, con el teléfono busco trabajo y hablo con ellos."
+      }
+    ]
+  },
+  "say_it": {
+    "title": "Frases para repetir",
+    "items": [
+      "Quiero vivir en una ciudad grande.",
+      "Busco un trabajo nuevo.",
+      "Necesito dinero para el viaje.",
+      "Preparo mis documentos importantes.",
+      "Hablo con mi familia por teléfono.",
+      "Empaco mi ropa y cosas importantes.",
+      "Conozco mi casa y el barrio.",
+      "Estoy feliz y un poco nerviosa."
+    ]
+  },
+  "make_it_yours": {
+    "title": "Hazlo tuyo - Cambia una palabra",
+    "items": [
+      {
+        "prompt": "Quiero vivir en una ciudad grande.",
+        "example": "Quiero vivir en una ciudad pequeña."
+      },
+      {
+        "prompt": "Busco un trabajo nuevo.",
+        "example": "Busco una casa nueva."
+      },
+      {
+        "prompt": "Necesito dinero para el viaje.",
+        "example": "Necesito tiempo para el viaje."
+      },
+      {
+        "prompt": "Hablo con mi familia por teléfono.",
+        "example": "Hablo con mis amigos por teléfono."
+      },
+      {
+        "prompt": "Estoy feliz y un poco nerviosa.",
+        "example": "Estoy feliz y un poco cansada."
+      }
+    ]
+  },
+  "tags": [
+    "needing",
+    "process",
+    "home",
+    "work",
+    "social",
+    "travel"
+  ]
+}

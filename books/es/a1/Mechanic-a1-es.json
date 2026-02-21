@@ -1,0 +1,40 @@
+{
+  "id": "Mechanic-a1-es",
+  "title": "Mecánico — Profesión (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — El trabajo — Mecánico",
+      "text": "El mecánico trabaja todos los días en un taller. Su trabajo es muy importante porque arregla coches que tienen problemas. Los coches no funcionan bien y el mecánico usa herramientas para repararlos. Él sabe mucho sobre los coches y cómo funcionan. El mecánico trabaja con cuidado para que los coches estén seguros. Muchas personas necesitan su ayuda cuando el coche no funciona. En el taller, el mecánico ve muchos tipos de coches diferentes. A veces, el trabajo es difícil, pero él siempre hace lo mejor. El mecánico también habla con los clientes y explica qué pasa con su coche. Este trabajo es bueno para personas que quieren trabajar con las manos y aprender cosas nuevas cada día. Además, el mecánico disfruta su trabajo porque cada día es diferente y aprende algo nuevo. Siempre está contento cuando ayuda a las personas y arregla los coches."
+    },
+    {
+      "title": "Sección 2 — Dónde trabaja — Mecánico",
+      "text": "El mecánico trabaja en un taller. El taller es un lugar grande y limpio. Allí hay muchas herramientas y máquinas para reparar coches y motos. El mecánico arregla los vehículos todos los días con cuidado. El taller está en la ciudad o en el pueblo, cerca de las casas. El mecánico trabaja con otros compañeros. Todos usan ropa especial para estar seguros. El taller tiene luz y aire para trabajar bien. El lugar es seguro y cómodo para trabajar. El mecánico usa herramientas para reparar los coches y motos. Su trabajo es importante para que los vehículos funcionen bien. El mecánico habla con los clientes para entender sus problemas. El taller es un lugar con ruido, pero es un buen lugar para trabajar y aprender. El mecánico está contento con su trabajo y ayuda a muchas personas cada día."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Mecánico",
+      "text": "El mecánico trabaja con coches todos los días. Mira el coche con atención para encontrar problemas. Usa herramientas para arreglar las partes que no funcionan bien. Cambia piezas si es necesario para que el coche vuelva a andar. También limpia las partes del coche para que estén en buen estado. Revisa el motor y las ruedas para ver que todo esté bien. Escucha el motor para encontrar ruidos extraños. Usa máquinas especiales para revisar el coche con más cuidado. Habla con el cliente para explicar el problema que encontró. Dice qué necesita arreglar y cuánto tiempo tomará el trabajo. El mecánico trabaja con cuidado y ayuda a que los coches sean seguros para manejar. Siempre aprende cosas nuevas para hacer mejor su trabajo."
+    },
+    {
+      "title": "Sección 4 — Un día normal — Mecánico",
+      "text": "El mecánico llega al taller muy temprano cada día. Abre la puerta y prepara todas sus herramientas con cuidado. Durante el día, llegan muchos coches para arreglar. El mecánico trabaja con atención y siempre mira bien cada parte del coche. Habla con los clientes y con sus compañeros para entender el problema. Usa diferentes máquinas y herramientas todo el tiempo. A veces come en el taller o en un lugar cerca. Termina los arreglos con paciencia y luego limpia el taller con cuidado. El día es largo y cansado, pero el mecánico está contento con su trabajo. Cada día aprende cosas nuevas y mejora sus habilidades poco a poco. Al final del día, cierra el taller con cuidado y se va a su casa para descansar. Mañana vuelve con ganas para seguir trabajando y ayudar a más personas con sus coches."
+    }
+  ],
+  "word_count": 547,
+  "tags": [
+    "work",
+    "problems",
+    "services",
+    "routine",
+    "process",
+    "description"
+  ]
+}

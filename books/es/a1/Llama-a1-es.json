@@ -1,0 +1,39 @@
+{
+  "id": "Llama-a1-es",
+  "title": "llama — Perfil del animal (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — Descripción — llama",
+      "text": "La llama es un animal grande y fuerte. Tiene pelo largo y suave. El pelo puede ser blanco, marrón o gris. Su cabeza es pequeña y tiene orejas largas que se mueven. Los ojos son grandes y oscuros. Su cuello es largo y fuerte. Las patas son delgadas pero fuertes. La llama tiene una cola corta que mueve cuando está contenta. Es un animal tranquilo y amable. Vive en las montañas altas y frías. Le gusta comer hierba y hojas verdes. La llama ayuda a las personas en el campo. La gente usa su lana para hacer ropa y mantas. Camina despacio y puede cargar cosas en su espalda. Es un animal muy útil y bonito para las personas. La llama es importante en la vida de muchas familias."
+    },
+    {
+      "title": "Sección 2 — Dónde vive — llama",
+      "text": "La llama es un animal que vive en las montañas de Sudamérica. Está en países como Perú, Bolivia y Chile. Le gusta el clima frío y seco. Vive en lugares altos, donde el aire tiene poco oxígeno. La llama camina bien en la montaña y puede subir por terrenos difíciles. También vive en campos y pastos cerca de las montañas. Las personas cuidan a las llamas en estas zonas. Usan las llamas para ayudar en su trabajo y para obtener lana. La llama es muy importante para la vida en la montaña. Sin la llama, muchas personas tendrían problemas. La llama es fuerte y puede llevar cargas pesadas. Por eso, es un animal muy útil para la gente que vive en las montañas. Además, la llama es un símbolo de la cultura andina y ayuda a las familias en su vida diaria."
+    },
+    {
+      "title": "Sección 3 — Qué come — llama",
+      "text": "La llama es un animal que come plantas. Su comida principal es la hierba que encuentra en el suelo. También come hojas verdes y flores cerca. A veces, cuando no hay hierba fresca, come pasto seco. La llama tiene dientes fuertes para masticar bien la comida. Come durante el día, poco a poco, varias veces. Esto le da energía para caminar y trabajar. Cuando tiene sed, bebe agua para estar fuerte. No come carne ni frutas. La llama prefiere solo plantas para su alimentación. Así vive saludable y puede hacer su trabajo en las montañas. La llama es un animal tranquilo. Le gusta comer con calma y descansar después. Siempre busca comida fresca y limpia. En las montañas, la llama encuentra muchas plantas para comer. Por eso, vive bien y es fuerte. Además, la llama come hierbas diferentes según la estación. En invierno, come plantas secas y en verano, hierba fresca. Esto la ayuda a estar sana todo el año."
+    },
+    {
+      "title": "Sección 4 — Su vida diaria — llama",
+      "text": "La llama vive en las montañas altas. Cada día, se despierta con el sol y sale a caminar. Busca comida fresca en el campo. Come hierba y plantas verdes. A veces, se detiene y mira todo a su alrededor. La llama hace sonidos suaves para hablar con otros animales. Cuando hace calor, busca sombra para descansar y estar fresca. Por la noche, duerme en el suelo con su familia cerca. La llama cuida a sus crías con amor y paciencia. También ayuda a las personas. Lleva cargas en su espalda para transportar cosas. La llama es un animal fuerte y tranquilo. Su vida es sencilla y feliz en la naturaleza. Siempre está cerca de su familia y amigos. Viven juntos en paz y armonía."
+    }
+  ],
+  "word_count": 555,
+  "tags": [
+    "description",
+    "places",
+    "food",
+    "work",
+    "routine"
+  ]
+}

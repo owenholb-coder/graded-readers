@@ -1,0 +1,114 @@
+{
+  "id": "Opening-a-Bank-Account-a1-es",
+  "title": "Abrir una cuenta bancaria — Proceso (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — La situación — Abrir una cuenta bancaria",
+      "text": "Muchas personas quieren abrir una cuenta en el banco. La cuenta es un lugar seguro para guardar dinero. La persona trabaja o estudia y necesita un lugar para su dinero. También usa la cuenta para pagar cosas como la luz, el agua o el teléfono. La persona prefiere tener su dinero en el banco y no en casa. Así, el dinero está seguro y puede usarlo cuando quiere. Además, con la cuenta puede recibir dinero de otras personas. Puede sacar dinero en el banco o en los cajeros automáticos. La cuenta ayuda a manejar el dinero de forma fácil y segura. Por eso, muchas personas deciden abrir una cuenta en el banco. Abrir una cuenta es un proceso sencillo y rápido. Solo necesita documentos y un poco de tiempo en el banco. Es importante ir con calma y preguntar si no entiende algo. El banco ayuda a las personas a cuidar su dinero todos los días."
+    },
+    {
+      "title": "Sección 2 — Lo que necesita — Abrir una cuenta bancaria",
+      "text": "Para abrir una cuenta en el banco, la persona necesita algunas cosas importantes. Primero, debe tener un documento de identidad, como el DNI o el pasaporte. También necesita un poco de dinero para poner en la cuenta. No es mucho, solo una cantidad pequeña. Además, la persona debe ir al banco en persona y tener tiempo para hacer el trámite. A veces, el banco pide un número de teléfono para enviar mensajes o hacer llamadas. También puede pedir una dirección para enviar cartas o información. Con estas cosas, la persona puede abrir su cuenta fácilmente. El proceso es sencillo y rápido. Así, la persona puede guardar su dinero en el banco y usar la cuenta para pagar o recibir dinero cuando quiera. La cuenta ayuda a manejar el dinero de forma segura y cómoda."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Abrir una cuenta bancaria",
+      "text": "Para abrir una cuenta bancaria, la persona va al banco. Allí, habla con un trabajador. El trabajador pide el documento de identidad. La persona muestra su documento. El trabajador explica cómo abrir la cuenta. La persona llena un formulario con su nombre y otros datos. Después, pone dinero en la cuenta para empezar. El banco guarda el dinero con cuidado y seguridad. Al final, la persona recibe una tarjeta o un papel con la información de la cuenta. La tarjeta sirve para usar el dinero en tiendas o cajeros automáticos. Así, la persona puede usar su cuenta para guardar y sacar dinero cuando quiera. El proceso es fácil y rápido. La persona puede volver al banco si tiene preguntas o necesita ayuda. Abrir una cuenta ayuda a cuidar el dinero y usarlo con seguridad cada día."
+    },
+    {
+      "title": "Sección 4 — El resultado — Abrir una cuenta bancaria",
+      "text": "La persona abre una cuenta nueva en el banco. Ahora tiene un lugar seguro para guardar su dinero. Puede usar la tarjeta del banco para pagar en tiendas y otros lugares. La cuenta ayuda a la persona a manejar su dinero de forma fácil y rápida. También puede ver cuánto dinero tiene usando internet o el teléfono. La persona está contenta porque su dinero está seguro y siempre puede acceder a él. Con la cuenta, puede hacer muchas cosas en su vida diaria, como pagar cuentas o ahorrar para el futuro. Además, la cuenta permite enviar dinero a otras personas y recibir pagos. La persona siente tranquilidad porque su dinero está protegido. La cuenta bancaria es muy útil y hace la vida más cómoda y segura para la persona. Ahora, la persona tiene más control y confianza con su dinero."
+    }
+  ],
+  "word_count": 566,
+  "dialogue": {
+    "title": "En el banco para abrir una cuenta",
+    "lines": [
+      {
+        "speaker": "A",
+        "text": "Hola, quiero abrir una cuenta bancaria."
+      },
+      {
+        "speaker": "B",
+        "text": "Claro, ¿tiene su documento de identidad?"
+      },
+      {
+        "speaker": "A",
+        "text": "Sí, aquí está mi DNI."
+      },
+      {
+        "speaker": "B",
+        "text": "Perfecto. También necesita un poco de dinero para empezar."
+      },
+      {
+        "speaker": "A",
+        "text": "Tengo dinero para poner en la cuenta."
+      },
+      {
+        "speaker": "B",
+        "text": "Muy bien. Por favor, llene este formulario con sus datos."
+      },
+      {
+        "speaker": "A",
+        "text": "Ya terminé el formulario."
+      },
+      {
+        "speaker": "B",
+        "text": "Gracias. Aquí tiene su tarjeta y la información de la cuenta."
+      }
+    ]
+  },
+  "say_it": {
+    "title": "Frases para usar en el banco",
+    "items": [
+      "Quiero abrir una cuenta.",
+      "Tengo mi documento de identidad.",
+      "¿Cuánto dinero necesito?",
+      "¿Dónde pongo el dinero?",
+      "¿Puedo usar una tarjeta?",
+      "¿Cómo pago las cuentas?",
+      "¿Puedo sacar dinero aquí?",
+      "¿Puedo recibir dinero en mi cuenta?"
+    ]
+  },
+  "make_it_yours": {
+    "title": "Cambia una palabra para practicar",
+    "items": [
+      {
+        "prompt": "Quiero abrir una cuenta.",
+        "example": "Quiero abrir una cuenta nueva."
+      },
+      {
+        "prompt": "Tengo mi documento de identidad.",
+        "example": "Tengo mi pasaporte."
+      },
+      {
+        "prompt": "¿Cuánto dinero necesito?",
+        "example": "¿Cuánto tiempo necesito?"
+      },
+      {
+        "prompt": "¿Dónde pongo el dinero?",
+        "example": "¿Dónde está el banco?"
+      },
+      {
+        "prompt": "¿Puedo usar una tarjeta?",
+        "example": "¿Puedo usar el cajero automático?"
+      }
+    ]
+  },
+  "tags": [
+    "needing",
+    "process",
+    "services",
+    "buying",
+    "routine"
+  ]
+}

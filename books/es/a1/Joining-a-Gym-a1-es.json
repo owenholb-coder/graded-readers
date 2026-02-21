@@ -1,0 +1,115 @@
+{
+  "id": "Joining-a-Gym-a1-es",
+  "title": "Unirse al gimnasio — Proceso (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — La situación — Unirse al gimnasio",
+      "text": "María quiere estar más sana y fuerte. Ella trabaja mucho y a veces está cansada. María sabe que hacer ejercicio es bueno para su salud. Ella piensa que ir al gimnasio puede ayudarla. En el gimnasio, María puede correr en la cinta, levantar pesas y hacer clases de ejercicio. María quiere tener más energía para su día. También quiere sentirse feliz y con buen ánimo. Por eso, María decide unirse al gimnasio. Ella sabe que es un buen paso para cambiar su vida. María quiere cuidar su cuerpo y su mente. Cada día, ella quiere hacer ejercicio para estar mejor. María está contenta con su decisión. Ella sabe que con esfuerzo puede lograr sus metas. Ir al gimnasio es importante para María. Ella quiere ser más fuerte y saludable. María empieza hoy y está muy motivada para mejorar su vida."
+    },
+    {
+      "title": "Sección 2 — Lo que necesita — Unirse al gimnasio",
+      "text": "María quiere ir al gimnasio. Para eso, necesita algunas cosas importantes. Primero, tiene dinero para pagar la cuota cada mes. También tiene tiempo para ir al gimnasio y hacer ejercicio con regularidad. María lleva su documento de identidad para poder registrarse en el lugar. Ella usa su teléfono para buscar información sobre el gimnasio y sus horarios de apertura y cierre. María quiere saber cuándo puede ir para organizar bien su tiempo. Además, necesita ropa cómoda para hacer ejercicio sin problemas. María lleva una botella de agua para beber cuando tiene sed durante la actividad. Ella prepara todo con cuidado y está contenta con sus planes. María está lista para empezar a hacer ejercicio en el gimnasio. Así, puede cuidar su salud y sentirse mejor cada día."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Unirse al gimnasio",
+      "text": "María quiere unirse a un gimnasio. Primero, busca un gimnasio cerca de su casa. Ella llama para preguntar el precio y el horario. Luego, va al gimnasio con su documento y dinero. En la recepción, habla con una persona amable. María llena un formulario con su nombre y datos. Después, paga la cuota para un mes. Recibe una tarjeta para entrar al gimnasio. María mira el lugar y ve las máquinas. Ella empieza a hacer ejercicio. María está feliz porque quiere estar sana. Va al gimnasio varias veces a la semana. Usa la tarjeta para entrar cada vez. María aprende a usar las máquinas poco a poco. El gimnasio es un buen lugar para hacer amigos. María se siente bien y tiene energía nueva. Ella sigue yendo para cuidar su salud y estar fuerte. También habla con otras personas y se siente contenta."
+    },
+    {
+      "title": "Sección 4 — El resultado — Unirse al gimnasio",
+      "text": "María va al gimnasio tres veces por semana. Ella hace ejercicio con ganas y siempre está feliz. María se siente mejor y tiene más energía cada día. Su salud mejora mucho porque cuida su cuerpo. En el gimnasio, María conoce a gente nueva. Habla con otras personas y hace amigos. Aprende a usar las máquinas y a hacer ejercicios diferentes. María está contenta con su decisión de unirse al gimnasio. Ahora, el gimnasio es parte de su vida diaria. Va con ganas y disfruta su tiempo allí. María sabe que el ejercicio es bueno para su cuerpo y su mente. Cada día, se siente más fuerte y saludable. El gimnasio ayuda a María a vivir mejor y con más alegría. Ella quiere seguir yendo siempre. María está orgullosa de su cambio y de su esfuerzo."
+    }
+  ],
+  "word_count": 545,
+  "dialogue": {
+    "title": "En el gimnasio",
+    "lines": [
+      {
+        "speaker": "A",
+        "text": "Hola, ¿quieres unirte al gimnasio?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, quiero estar más fuerte y sana."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Tienes tiempo para hacer ejercicio?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, voy tres veces por semana."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Qué haces en el gimnasio?"
+      },
+      {
+        "speaker": "B",
+        "text": "Corro en la cinta y levanto pesas."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Te gusta el gimnasio?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, me siento feliz y con energía."
+      }
+    ]
+  },
+  "say_it": {
+    "title": "Frases para repetir",
+    "items": [
+      "Quiero unirme al gimnasio.",
+      "Hago ejercicio para estar fuerte.",
+      "Voy al gimnasio tres veces a la semana.",
+      "Uso la tarjeta para entrar.",
+      "Llevo ropa cómoda para hacer ejercicio.",
+      "Bebo agua cuando tengo sed.",
+      "El gimnasio es un buen lugar.",
+      "Estoy contenta con mi decisión."
+    ]
+  },
+  "make_it_yours": {
+    "title": "Cambia una palabra",
+    "items": [
+      {
+        "prompt": "Quiero unirme al gimnasio.",
+        "example": "Quiero unirme al parque."
+      },
+      {
+        "prompt": "Voy al gimnasio tres veces a la semana.",
+        "example": "Voy al gimnasio dos veces a la semana."
+      },
+      {
+        "prompt": "Uso la tarjeta para entrar.",
+        "example": "Uso la llave para entrar."
+      },
+      {
+        "prompt": "Bebo agua cuando tengo sed.",
+        "example": "Bebo jugo cuando tengo sed."
+      },
+      {
+        "prompt": "Estoy contenta con mi decisión.",
+        "example": "Estoy feliz con mi decisión."
+      }
+    ]
+  },
+  "tags": [
+    "needing",
+    "buying",
+    "process",
+    "health",
+    "routine",
+    "social"
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "Ordering-Food-at-a-Restaurant-a1-es",
+  "title": "Pedir comida en un restaurante — Proceso (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — La situación — Pedir comida en un restaurante",
+      "text": "Muchas personas van a un restaurante para comer. Ellos tienen hambre y quieren comer algo rico y bueno. El restaurante es un lugar donde la gente come fuera de casa. La persona quiere disfrutar la comida y descansar un poco. También puede estar con amigos o con su familia. En el restaurante hay mesas y sillas para sentarse. La persona entra, busca un lugar y se sienta. Luego, mira el menú para elegir la comida. El camarero viene para tomar la orden. La persona habla con el camarero y pide la comida que quiere. Después, espera un poco y recibe la comida. Comer en un restaurante es un momento para disfrutar y pasar un buen rato con otras personas. La comida es fresca y el ambiente es agradable. Muchas veces, la gente habla y ríe mientras come. Al final, la persona paga la cuenta y se va contenta."
+    },
+    {
+      "title": "Sección 2 — Lo que necesita — Pedir comida en un restaurante",
+      "text": "Para pedir comida en un restaurante, la persona necesita algunas cosas importantes. Primero, tiene que tener dinero para pagar la comida. Sin dinero, no puede comprar nada. También necesita tiempo para esperar la comida. El cocinero prepara los platos y esto toma un poco de tiempo. La persona puede usar un menú para ver qué comidas hay. El menú muestra los nombres de los platos y sus precios. La persona puede estar en el restaurante o llamar por teléfono para pedir la comida. Cuando está en el restaurante, habla con el camarero para hacer el pedido. No necesita documentos especiales para pedir comida. Solo quiere comer bien y pagar lo que pidió. Así, la persona disfruta de su comida en el restaurante con tranquilidad y comodidad. Además, es bueno ser amable con el camarero y decir gracias. Esto hace que la experiencia sea mejor para todos."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Pedir comida en un restaurante",
+      "text": "La persona entra al restaurante y busca una mesa para sentarse. Se sienta y espera al camarero. El camarero trae el menú. La persona mira el menú con cuidado. Piensa en qué quiere comer. Luego, llama al camarero para pedir la comida. El camarero escucha y toma la orden. Después, la persona espera mientras preparan la comida en la cocina. El restaurante está tranquilo y la persona observa el lugar. Finalmente, el camarero trae la comida a la mesa. La persona está contenta y empieza a comer. Disfruta cada bocado. También bebe un poco de agua. Cuando termina, pide la cuenta. Paga y se levanta. Sale del restaurante con una sonrisa. Está feliz por la buena comida y el buen servicio. Luego, piensa en volver otro día. Le gusta este lugar porque es cómodo y la comida es rica. Está seguro de que volverá pronto."
+    },
+    {
+      "title": "Sección 4 — El resultado — Pedir comida en un restaurante",
+      "text": "Después de comer, la persona está contenta y satisfecha. Tiene menos hambre y se siente bien. Pide la cuenta al camarero con una sonrisa. El camarero trae la cuenta rápido. La persona paga con dinero o tarjeta. Si paga con dinero, recibe el cambio. Luego, recoge sus cosas con calma. Mira alrededor y ve a otras personas que comen. El lugar es tranquilo y cómodo. La persona habla con el camarero y dice gracias. Después, sale del restaurante feliz y tranquila. Ha comido bien y descansado un poco. Piensa en volver otro día para probar más platos. El restaurante es un buen lugar para comer y descansar. La experiencia es agradable y sencilla. La persona recomienda el lugar a sus amigos. Comer aquí es fácil y bueno para todos. Se siente bien y quiere regresar pronto."
+    }
+  ],
+  "word_count": 575,
+  "dialogue": {
+    "title": "Diálogo en el restaurante",
+    "lines": [
+      {
+        "speaker": "A",
+        "text": "Hola, quiero una mesa para uno."
+      },
+      {
+        "speaker": "B",
+        "text": "Claro, por aquí, por favor."
+      },
+      {
+        "speaker": "A",
+        "text": "Gracias. ¿Me trae el menú, por favor?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, aquí tiene el menú."
+      },
+      {
+        "speaker": "A",
+        "text": "Quiero pedir la sopa y el pollo."
+      },
+      {
+        "speaker": "B",
+        "text": "Perfecto, tomo su orden."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Cuánto tiempo tarda la comida?"
+      },
+      {
+        "speaker": "B",
+        "text": "Unos diez minutos, gracias por esperar."
+      }
+    ]
+  },
+  "say_it": {
+    "title": "Frases para repetir",
+    "items": [
+      "Quiero una mesa para dos.",
+      "¿Me trae el menú, por favor?",
+      "Quiero pedir la ensalada.",
+      "¿Cuánto cuesta este plato?",
+      "Gracias por la comida.",
+      "¿Me trae la cuenta, por favor?",
+      "Pago con dinero.",
+      "La comida está rica."
+    ]
+  },
+  "make_it_yours": {
+    "title": "Cambia una palabra y hazlo tuyo",
+    "items": [
+      {
+        "prompt": "Quiero pedir la sopa y el pollo.",
+        "example": "Quiero pedir la ensalada y el arroz."
+      },
+      {
+        "prompt": "¿Me trae el menú, por favor?",
+        "example": "¿Me trae la carta, por favor?"
+      },
+      {
+        "prompt": "Pago con dinero.",
+        "example": "Pago con tarjeta."
+      },
+      {
+        "prompt": "La comida está rica.",
+        "example": "La comida está buena."
+      },
+      {
+        "prompt": "Quiero una mesa para uno.",
+        "example": "Quiero una mesa para tres."
+      }
+    ]
+  },
+  "tags": [
+    "asking",
+    "buying",
+    "needing",
+    "process",
+    "food",
+    "social"
+  ]
+}
