@@ -1,0 +1,115 @@
+{
+  "id": "Asking-for-Directions-a1-es",
+  "title": "Pedir direcciones — Proceso (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — La situación — Pedir direcciones",
+      "text": "Una persona está en una ciudad nueva. No conoce bien las calles ni los lugares. Quiere ir a un lugar especial, pero no sabe dónde está. La persona necesita ayuda para encontrar el camino. Por eso, decide preguntar a alguien que está cerca. Preguntar direcciones es común cuando estamos en un lugar nuevo. Muchas personas hacen preguntas para no perderse. La persona habla con alguien amable y pregunta cómo llegar. La otra persona explica el camino con palabras fáciles. Así, la persona puede seguir las indicaciones y caminar sin problemas. Al final, llega al lugar especial que busca. Pedir direcciones ayuda a las personas a moverse mejor en la ciudad. Es importante saber cómo pedir ayuda cuando no conocemos el lugar. Pedir direcciones es fácil y útil para todos. Esto hace que viajar sea más tranquilo y seguro."
+    },
+    {
+      "title": "Sección 2 — Lo que necesita — Pedir direcciones",
+      "text": "La persona tiene un teléfono y un mapa pequeño. Ella quiere pedir direcciones para llegar a un lugar nuevo. No necesita mucho dinero para esto. Solo quiere saber el camino correcto. A veces, es bueno tener un papel y un bolígrafo para escribir la información. La persona habla con otras personas para preguntar. Usa su voz para pedir ayuda. No necesita documentos especiales ni cosas complicadas. Solo quiere información clara para llegar a su destino. Es importante escuchar bien y entender las indicaciones. La persona puede repetir lo que escucha para estar segura. Así, puede caminar o tomar un transporte sin perderse. Pedir direcciones es fácil y muy útil cuando no conoce el lugar. La persona está tranquila y lista para preguntar y seguir el camino correcto. Ella sabe que con paciencia puede encontrar el lugar sin problemas."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Pedir direcciones",
+      "text": "Cuando una persona quiere ir a un lugar, primero busca a alguien en la calle. Luego, saluda con una sonrisa y pregunta dónde está el sitio. La persona escucha con atención la respuesta para entender bien. A veces, repite las palabras para estar seguro. Después, da las gracias con amabilidad. Luego, empieza a caminar siguiendo las indicaciones. Así, puede llegar sin problemas al lugar que busca. Este proceso es común y ayuda a muchas personas en la ciudad. Pedir direcciones es fácil y muy útil para no perderse. Siempre es bueno ser claro y amable cuando se pregunta. La gente responde con gusto y da información. De esta forma, la comunicación es mejor y todos se ayudan. Pedir direcciones es una forma simple y buena para encontrar el camino."
+    },
+    {
+      "title": "Sección 4 — El resultado — Pedir direcciones",
+      "text": "La persona camina por las calles con cuidado. Mira el mapa muchas veces para no perderse. Pregunta a la gente en la calle para saber dónde está el lugar. Escucha con atención las direcciones que le dan. Camina despacio y mira bien a su alrededor. Finalmente, llega al lugar que busca. Está muy contenta porque encontró el camino correcto. Ahora puede hacer lo que quería en ese lugar. Pedir direcciones es muy útil para no perderse. La persona aprende a preguntar con confianza y a escuchar bien las respuestas. Así, siempre sabe dónde ir. Caminar y preguntar ayuda a conocer mejor la ciudad. La persona se siente feliz y segura porque sabe cómo llegar a los lugares nuevos. Siempre usa estas ideas cuando necesita ayuda para ir a un sitio. Esto hace que su viaje sea mejor y más fácil."
+    }
+  ],
+  "word_count": 545,
+  "dialogue": {
+    "title": "Pedir direcciones en la ciudad",
+    "lines": [
+      {
+        "speaker": "A",
+        "text": "Disculpe, ¿dónde está la plaza?"
+      },
+      {
+        "speaker": "B",
+        "text": "La plaza está cerca de aquí."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Cómo llego a la plaza?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sigue derecho y luego gira a la derecha."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Está lejos?"
+      },
+      {
+        "speaker": "B",
+        "text": "No, está a cinco minutos caminando."
+      },
+      {
+        "speaker": "A",
+        "text": "Muchas gracias por su ayuda."
+      },
+      {
+        "speaker": "B",
+        "text": "De nada, buen camino."
+      }
+    ]
+  },
+  "say_it": {
+    "title": "Frases para pedir direcciones",
+    "items": [
+      "¿Dónde está el lugar?",
+      "¿Cómo llego a la plaza?",
+      "¿Está lejos?",
+      "Siga derecho.",
+      "Gire a la derecha.",
+      "¿Puede ayudarme?",
+      "Gracias por la información.",
+      "¿Dónde está la calle?"
+    ]
+  },
+  "make_it_yours": {
+    "title": "Cambia una palabra para practicar",
+    "items": [
+      {
+        "prompt": "¿Dónde está la plaza?",
+        "example": "¿Dónde está el museo?"
+      },
+      {
+        "prompt": "Sigue derecho y luego gira a la derecha.",
+        "example": "Sigue derecho y luego gira a la izquierda."
+      },
+      {
+        "prompt": "¿Está lejos?",
+        "example": "¿Está cerca?"
+      },
+      {
+        "prompt": "Muchas gracias por su ayuda.",
+        "example": "Muchas gracias por la información."
+      },
+      {
+        "prompt": "¿Cómo llego a la plaza?",
+        "example": "¿Cómo llego al parque?"
+      }
+    ]
+  },
+  "tags": [
+    "asking",
+    "needing",
+    "movement",
+    "places",
+    "travel",
+    "process"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "Accountant-a1-es",
+  "title": "Contador — Profesión (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — El trabajo — Contador",
+      "text": "El contador trabaja con números todos los días. Ayuda a empresas y personas con el dinero. Su trabajo es muy importante para que todo esté bien. El contador revisa las cuentas y los gastos con mucho cuidado. Usa la computadora para hacer su trabajo rápido y correcto. Es una persona organizada y responsable. Su trabajo es tranquilo y serio. Habla con otras personas para entender mejor el dinero y las cuentas. Trabaja con atención para evitar errores. El contador siempre aprende cosas nuevas para hacer bien su trabajo. Este trabajo es bueno para quienes gustan de los números y quieren ayudar a otros. Cada día, el contador mejora y hace su trabajo mejor. Le gusta su trabajo porque es útil y necesario."
+    },
+    {
+      "title": "Sección 2 — Dónde trabaja — Contador",
+      "text": "El contador trabaja en una oficina. Esta oficina puede estar en una empresa o en un banco. A veces, el contador trabaja en su casa. Usa una computadora y una calculadora para hacer su trabajo. En la oficina hay muchos papeles y libros. El contador trabaja con otras personas en un equipo. También visita otras empresas para hacer su trabajo. El lugar donde trabaja es tranquilo y ordenado. El contador siempre usa ropa formal para su trabajo. El trabajo es dentro de un edificio grande. El contador tiene un escritorio donde pone sus cosas y trabaja todos los días. Su trabajo es muy importante para la empresa y ayuda a que todo funcione bien. Además, el contador revisa números y ayuda a tomar decisiones importantes. Su trabajo es necesario para que la empresa crezca y tenga éxito."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Contador",
+      "text": "El contador trabaja con el dinero de la empresa todos los días. Mira los números y revisa las cuentas con cuidado. Escribe informes para que la empresa entienda su dinero. Ayuda a pagar los impuestos a tiempo. Usa la computadora para hacer su trabajo rápido y bien. Habla con los jefes y con los clientes para explicar los números. Busca errores en las cuentas para corregirlos y evitar problemas. Hace cálculos y suma números cada día. Su trabajo es importante para que la empresa funcione bien y tenga éxito. Sin el contador, la empresa no sabe cómo está su dinero ni puede tomar buenas decisiones. Además, organiza los documentos y guarda la información con orden. Siempre está atento para que todo esté correcto y claro."
+    },
+    {
+      "title": "Sección 4 — Un día normal — Contador",
+      "text": "El contador llega a la oficina temprano en la mañana. Enciende la computadora y revisa los correos y mensajes nuevos. Luego, mira las cuentas del día con mucha atención. Habla con sus compañeros para compartir información importante. Después, escribe informes y hace cálculos con cuidado. A la hora de comer, toma un descanso para descansar y comer algo. Más tarde, vuelve a trabajar y revisa los papeles y las cuentas otra vez. El contador siempre trabaja con concentración para hacer bien su trabajo. También ayuda a sus compañeros cuando tienen dudas. Al final del día, guarda todos los documentos y apaga la computadora. Finalmente, sale de la oficina contento y listo para descansar en casa. Cada día es importante para él y disfruta mucho su trabajo."
+    }
+  ],
+  "word_count": 510,
+  "tags": [
+    "work",
+    "description",
+    "process",
+    "routine",
+    "services"
+  ]
+}

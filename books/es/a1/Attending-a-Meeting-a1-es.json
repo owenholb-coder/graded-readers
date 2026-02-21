@@ -1,0 +1,114 @@
+{
+  "id": "Attending-a-Meeting-a1-es",
+  "title": "Asistir a una reunión — Proceso (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — La situación — Asistir a una reunión",
+      "text": "Una persona va a una reunión en su trabajo. La reunión es importante para todos. En la reunión, habla con sus compañeros y escucha sus ideas. Hablan de un proyecto nuevo que es muy interesante. La persona quiere ayudar en el proyecto y también quiere aprender cosas nuevas. La reunión es en la oficina, en una sala grande. Es un día normal de trabajo, pero la reunión es especial. La persona se prepara para la reunión con cuidado. Quiere entender todo bien y participar. Durante la reunión, todos comparten sus opiniones y trabajan juntos. La persona se siente contenta porque puede colaborar y mejorar en su trabajo. Al final, la reunión termina y todos tienen tareas para hacer. La persona vuelve a su escritorio con ganas de empezar. Así, la reunión ayuda a que el equipo avance y tenga éxito."
+    },
+    {
+      "title": "Sección 2 — Lo que necesita — Asistir a una reunión",
+      "text": "Para asistir a una reunión, la persona se prepara con cuidado. Ella tiene tiempo para llegar sin prisa y no llega tarde. Lleva su teléfono móvil para llamar si hay un problema o un cambio. También lleva una libreta para escribir notas importantes y un bolígrafo para usar con la libreta. No necesita llevar dinero porque la reunión no lo pide. Lo más importante es estar lista y llegar a tiempo. Antes de salir, revisa que tiene todo lo que necesita. Así, puede participar bien y no olvidar nada. Estar preparada ayuda a que la reunión sea buena y sin problemas. La persona se siente tranquila y lista para hablar con los demás. Ella sabe que la reunión será útil y que aprende cosas nuevas cada vez."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Asistir a una reunión",
+      "text": "La persona llega a la oficina temprano. Entra y busca la sala de reuniones. Camina con cuidado y saluda a sus compañeros con una sonrisa. Todos están listos para empezar. El jefe habla primero y dice el tema del día. La persona escucha con atención y toma notas en su cuaderno. Durante la reunión, todos hablan sobre el proyecto. La persona da su opinión con palabras claras y simples. También hace preguntas para entender mejor. Los compañeros responden y todos participan. La reunión es tranquila y todos se ayudan. Al final, el jefe agradece a todos por su trabajo. La persona se siente contenta y lista para seguir trabajando. Sale de la sala con una sonrisa y vuelve a su escritorio. El día continúa con energía y buenas ideas. La reunión ayuda a todos a entender lo que deben hacer. Trabajan juntos para lograr el objetivo. La persona sabe que la reunión es importante para el equipo."
+    },
+    {
+      "title": "Sección 4 — El resultado — Asistir a una reunión",
+      "text": "La persona termina la reunión muy feliz. Ahora tiene más información sobre el proyecto. También sabe qué hacer en su trabajo. La persona siente que ayuda a su equipo y que es importante. Después, vuelve a su lugar de trabajo con energía. Usa las ideas que aprendió en la reunión para hacer su tarea. La reunión fue útil y buena para todos los que participaron. La persona está lista para trabajar mejor y con más confianza. Está contenta porque entiende bien su trabajo. La reunión le da fuerza para seguir adelante. El equipo también está contento porque todos saben qué hacer. La persona piensa que la reunión fue un buen momento para aprender y compartir. Ahora puede ayudar más a sus compañeros. La reunión termina con una buena sensación para todos. Todos están motivados y quieren hacer un buen trabajo."
+    }
+  ],
+  "word_count": 564,
+  "dialogue": {
+    "title": "En la reunión",
+    "lines": [
+      {
+        "speaker": "A",
+        "text": "Hola, ¿estás listo para la reunión?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, tengo mi libreta y bolígrafo."
+      },
+      {
+        "speaker": "A",
+        "text": "Perfecto. ¿Sabes el tema de hoy?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, hablamos del proyecto nuevo."
+      },
+      {
+        "speaker": "A",
+        "text": "Quiero dar mi opinión y aprender."
+      },
+      {
+        "speaker": "B",
+        "text": "Yo también. Es importante para el equipo."
+      },
+      {
+        "speaker": "A",
+        "text": "Después de la reunión, tengo tareas para hacer."
+      },
+      {
+        "speaker": "B",
+        "text": "Yo también. Vamos a trabajar juntos."
+      }
+    ]
+  },
+  "say_it": {
+    "title": "Frases para la reunión",
+    "items": [
+      "Tengo mi libreta y bolígrafo.",
+      "La reunión es importante para el equipo.",
+      "Quiero aprender cosas nuevas.",
+      "Escucho las ideas de mis compañeros.",
+      "Doy mi opinión con palabras claras.",
+      "Hago preguntas para entender mejor.",
+      "La reunión termina con tareas.",
+      "Trabajo con mis compañeros."
+    ]
+  },
+  "make_it_yours": {
+    "title": "Cambia una palabra",
+    "items": [
+      {
+        "prompt": "Cambia 'libreta' por otra cosa que llevas.",
+        "example": "Tengo mi teléfono móvil y bolígrafo."
+      },
+      {
+        "prompt": "Cambia 'proyecto' por otra palabra del trabajo.",
+        "example": "Hablamos del plan nuevo."
+      },
+      {
+        "prompt": "Cambia 'opinión' por otra acción en la reunión.",
+        "example": "Doy una idea con palabras claras."
+      },
+      {
+        "prompt": "Cambia 'tareas' por otra cosa que haces después.",
+        "example": "Después de la reunión, tengo trabajo para hacer."
+      },
+      {
+        "prompt": "Cambia 'equipo' por otra palabra del grupo.",
+        "example": "La reunión es importante para el grupo."
+      }
+    ]
+  },
+  "tags": [
+    "process",
+    "work",
+    "planning",
+    "time",
+    "social"
+  ]
+}
