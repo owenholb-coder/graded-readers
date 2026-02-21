@@ -1,0 +1,114 @@
+{
+  "id": "Going-to-the-Pharmacy-a1-es",
+  "title": "Ir a la farmacia — Proceso (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — La situación — Ir a la farmacia",
+      "text": "Una persona está enferma. Tiene dolor de cabeza y tos. No se siente bien y quiere mejorar rápido. La farmacia está cerca de su casa. Puede ir caminando. Decide ir a la farmacia para comprar medicina. Quiere sentirse mejor hoy. La farmacia abre en la mañana y cierra en la tarde. La persona piensa que la farmacia es un buen lugar para comprar medicina sin ir al doctor. Camina despacio porque no se siente fuerte. En la farmacia, habla con el farmacéutico. Explica sus síntomas. El farmacéutico le da medicina para el dolor y la tos. La persona paga y sale de la farmacia. Está contenta porque puede cuidar su salud. Ahora quiere descansar en casa y tomar la medicina. Espera sentirse mejor pronto. Además, sabe que debe beber agua y dormir bien. La persona piensa que la salud es importante. Por eso, cuida su cuerpo cada día. Mañana quiere estar mejor para trabajar y estar con su familia."
+    },
+    {
+      "title": "Sección 2 — Lo que necesita — Ir a la farmacia",
+      "text": "La persona va a la farmacia para comprar medicina. Tiene dinero en la mano para pagar. También lleva su documento de identidad. El teléfono está en el bolsillo. El tiempo es bueno para ir y volver a casa sin prisa. La persona sabe qué medicina necesita. Si no sabe, puede preguntar al farmacéutico. El farmacéutico ayuda con preguntas y da la medicina correcta. La persona lleva una bolsa para poner la medicina. Está lista para salir y comprar lo que necesita. La farmacia está cerca y es fácil llegar. La persona camina con calma y piensa en su salud. Al llegar, saluda al farmacéutico y explica su necesidad. Después de comprar, vuelve a casa contenta y tranquila. La medicina es importante para sentirse mejor. La persona cuida su salud con atención y cuidado. Siempre revisa la medicina antes de usarla. Así, se siente segura y bien."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Ir a la farmacia",
+      "text": "La persona sale de su casa para ir a la farmacia. Camina por la calle con calma hasta llegar. Entra en la farmacia y saluda al farmacéutico con una sonrisa amable. Mira las estanterías para buscar la medicina que necesita. Si no la encuentra, pregunta al farmacéutico con confianza. El farmacéutico escucha y ayuda a la persona con paciencia. Le da la medicina correcta para su problema de salud. La persona paga la medicina con dinero en efectivo. El farmacéutico le da el cambio y una bolsa para llevar la medicina. La persona agradece y sale de la farmacia contenta. Camina de regreso a su casa con la medicina en la mano. Está feliz porque ahora puede cuidar su salud mejor. El proceso es sencillo y rápido. Ir a la farmacia es importante cuando uno está enfermo o necesita algo para su bienestar."
+    },
+    {
+      "title": "Sección 4 — El resultado — Ir a la farmacia",
+      "text": "La persona va a la farmacia porque está enferma. Habla con el farmacéutico y explica sus síntomas. El farmacéutico da la medicina correcta. La persona paga y vuelve a casa. Lee las instrucciones en el paquete con cuidado. Toma la medicina todos los días, según las indicaciones. Poco a poco, la persona se siente mejor. Ya no tiene dolor ni fiebre. Está contenta porque la medicina funciona bien. Puede dormir bien y hacer sus actividades normales. La persona sabe que la farmacia es un lugar importante para su salud. Si se enferma otra vez, irá de nuevo a la farmacia. La experiencia es buena y aprende a cuidar su cuerpo. La salud mejora con la ayuda de la farmacia y la medicina. Ahora la persona está feliz y fuerte. Sabe que la farmacia ayuda mucho en su vida y quiere cuidarse siempre."
+    }
+  ],
+  "word_count": 590,
+  "dialogue": {
+    "title": "En la farmacia",
+    "lines": [
+      {
+        "speaker": "A",
+        "text": "Hola, tengo dolor de cabeza."
+      },
+      {
+        "speaker": "B",
+        "text": "¿También tiene tos?"
+      },
+      {
+        "speaker": "A",
+        "text": "Sí, un poco de tos."
+      },
+      {
+        "speaker": "B",
+        "text": "Le doy medicina para el dolor y la tos."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Cuánto cuesta la medicina?"
+      },
+      {
+        "speaker": "B",
+        "text": "Son cinco euros, por favor."
+      },
+      {
+        "speaker": "A",
+        "text": "Aquí tiene el dinero."
+      },
+      {
+        "speaker": "B",
+        "text": "Gracias. Que se mejore pronto."
+      }
+    ]
+  },
+  "say_it": {
+    "title": "Frases para repetir",
+    "items": [
+      "Tengo dolor de cabeza.",
+      "Quiero comprar medicina.",
+      "¿Cuánto cuesta?",
+      "¿Tiene medicina para la tos?",
+      "Estoy enfermo.",
+      "¿Dónde está la farmacia?",
+      "Gracias por la ayuda.",
+      "Quiero sentirme mejor."
+    ]
+  },
+  "make_it_yours": {
+    "title": "Hazlo tuyo",
+    "items": [
+      {
+        "prompt": "Tengo dolor de cabeza.",
+        "example": "Tengo dolor de estómago."
+      },
+      {
+        "prompt": "Quiero comprar medicina.",
+        "example": "Quiero comprar agua."
+      },
+      {
+        "prompt": "¿Cuánto cuesta la medicina?",
+        "example": "¿Cuánto cuesta el agua?"
+      },
+      {
+        "prompt": "Estoy enfermo.",
+        "example": "Estoy cansado."
+      },
+      {
+        "prompt": "La farmacia está cerca.",
+        "example": "La farmacia está lejos."
+      }
+    ]
+  },
+  "tags": [
+    "needing",
+    "asking",
+    "buying",
+    "health",
+    "process"
+  ]
+}

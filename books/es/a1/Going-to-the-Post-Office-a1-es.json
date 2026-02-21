@@ -1,0 +1,114 @@
+{
+  "id": "Going-to-the-Post-Office-a1-es",
+  "title": "Ir a la oficina de correos — Proceso (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — La situación — Ir a la oficina de correos",
+      "text": "María tiene una carta para su amigo. Él vive en otra ciudad. Ella no puede ir a su casa. Por eso, María va a la oficina de correos. Ella quiere enviar la carta hoy. En la oficina, María compra un sello para la carta. Luego, pone la carta en un buzón. María está contenta porque la carta llegará pronto. Ella piensa que su amigo estará feliz. Después, María regresa a su casa. Ella espera que la carta llegue sin problemas. María sabe que la oficina de correos es un lugar importante para enviar cartas y paquetes. Ella quiere usar este servicio siempre que necesite enviar algo. María está segura de que su amigo recibirá la carta pronto. Además, María mira el horario de la oficina para ir otro día si necesita. Ella sabe que la oficina abre por la mañana y por la tarde. María piensa que enviar cartas es fácil y rápido en la oficina de correos."
+    },
+    {
+      "title": "Sección 2 — Lo que necesita — Ir a la oficina de correos",
+      "text": "María va a la oficina de correos hoy. Ella tiene una carta para enviar a su amiga. María sabe que debe pagar para enviar la carta. Por eso, lleva dinero en su bolso. También lleva su documento de identidad. Es importante para mostrar quién es. María lleva su teléfono móvil. Puede usarlo si necesita ayuda o quiere llamar a alguien. Ella mira la hora y ve que tiene tiempo. No tiene prisa y puede hacer todo con calma. María piensa en la dirección de la oficina de correos. Ella sabe dónde está y cómo llegar. Está contenta porque todo está listo. María sale de su casa y camina hacia la oficina. Quiere enviar la carta hoy mismo. María está segura y preparada para todo. En la oficina, habla con la persona que trabaja allí. Ella entrega la carta y paga el envío. Después, María espera un momento. Finalmente, recibe un recibo. Está feliz porque la carta ya está en camino."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Ir a la oficina de correos",
+      "text": "María va a la oficina de correos. Entra y espera en la fila con calma. Cuando es su turno, habla con la persona que trabaja allí. María tiene una carta para enviar a su amiga. Ella dice a dónde quiere mandar la carta y la persona escucha con atención. La persona en la oficina mira la carta y dice el precio para enviarla. María paga con dinero y recibe el cambio. Después, la persona pone un sello en la carta para que pueda viajar. María recibe un papel con información para seguir la carta en el camino. Ella está contenta porque sabe que la carta llegará pronto. María sale de la oficina de correos con la carta lista para enviar. Está feliz y tranquila porque hizo todo bien. Luego, María piensa en su amiga y espera que reciba la carta pronto."
+    },
+    {
+      "title": "Sección 4 — El resultado — Ir a la oficina de correos",
+      "text": "María va a la oficina de correos para enviar una carta. Ella habla con la persona que trabaja allí. La persona ayuda a María con la carta. María paga el envío y recibe un papel. En el papel, María ve información sobre la carta. Ella sabe que la carta llegará pronto a su amigo. María está feliz porque todo fue fácil y rápido. Después, María sale de la oficina de correos. Ella camina a su casa con tranquilidad. María piensa que el proceso fue bueno. Ella recomienda ir a la oficina de correos cuando necesita enviar algo. María espera que su amigo reciba la carta sin problemas. Ella sabe que puede usar el papel para seguir la carta. María está contenta con el servicio. El día fue bueno para ella. Ahora, María espera noticias de su amigo."
+    }
+  ],
+  "word_count": 596,
+  "dialogue": {
+    "title": "En la oficina de correos",
+    "lines": [
+      {
+        "speaker": "A",
+        "text": "Hola, quiero enviar esta carta."
+      },
+      {
+        "speaker": "B",
+        "text": "Claro, ¿a dónde es la carta?"
+      },
+      {
+        "speaker": "A",
+        "text": "Es para mi amigo en otra ciudad."
+      },
+      {
+        "speaker": "B",
+        "text": "Perfecto, el precio es cinco euros."
+      },
+      {
+        "speaker": "A",
+        "text": "Aquí tiene el dinero."
+      },
+      {
+        "speaker": "B",
+        "text": "Gracias. Aquí está el recibo."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Cuándo llegará la carta?"
+      },
+      {
+        "speaker": "B",
+        "text": "Llegará en tres días."
+      }
+    ]
+  },
+  "say_it": {
+    "title": "Frases para practicar",
+    "items": [
+      "Quiero enviar una carta.",
+      "¿Dónde está la oficina de correos?",
+      "¿Cuánto cuesta el envío?",
+      "Tengo dinero para pagar.",
+      "Necesito un sello para la carta.",
+      "¿Puedo usar mi teléfono aquí?",
+      "¿A qué hora abre la oficina?",
+      "Gracias por su ayuda."
+    ]
+  },
+  "make_it_yours": {
+    "title": "Cambia una palabra y practica",
+    "items": [
+      {
+        "prompt": "Quiero enviar una carta.",
+        "example": "Quiero enviar un paquete."
+      },
+      {
+        "prompt": "La carta es para mi amigo.",
+        "example": "La carta es para mi amiga."
+      },
+      {
+        "prompt": "Pago con dinero en efectivo.",
+        "example": "Pago con tarjeta de crédito."
+      },
+      {
+        "prompt": "La oficina abre por la mañana.",
+        "example": "La oficina abre por la tarde."
+      },
+      {
+        "prompt": "Espero que la carta llegue pronto.",
+        "example": "Espero que el paquete llegue pronto."
+      }
+    ]
+  },
+  "tags": [
+    "needing",
+    "buying",
+    "process",
+    "time",
+    "services"
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "Going-to-a-Museum-a1-es",
+  "title": "Ir a un museo — Proceso (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — La situación — Ir a un museo",
+      "text": "Una persona quiere aprender sobre arte y historia. Ella vive en una ciudad con un museo grande. El museo tiene muchas pinturas y objetos antiguos. La persona está curiosa y quiere ver estas cosas. También quiere pasar un buen rato y descansar. El museo es un lugar tranquilo y bonito. Muchas personas van al museo para conocer cosas nuevas y divertirse. La persona piensa que ir al museo es una buena idea para el fin de semana. Ella decide ir el sábado por la mañana. Compra la entrada en la puerta con facilidad. En el museo, mira las pinturas con atención y calma. También lee la información sobre cada objeto con interés. La persona siente alegría y aprende mucho. Después, toma fotos para recordar la visita. Al final, está contenta y quiere volver pronto. El museo es un lugar especial para ella y su corazón."
+    },
+    {
+      "title": "Sección 2 — Lo que necesita — Ir a un museo",
+      "text": "Para ir al museo, la persona necesita algunas cosas importantes. Primero, debe tener dinero para pagar la entrada. El museo cobra un precio pequeño, pero es necesario. También necesita tiempo libre para visitar el museo con calma. La persona debe estar libre, por ejemplo, en la tarde o en el fin de semana. Además, lleva su documento de identidad porque es importante para comprar la entrada y mostrarla si la piden. La persona usa su teléfono para buscar la dirección del museo y no perderse. También mira el horario del museo para saber a qué hora abre y cierra. Es bueno llevar ropa cómoda para caminar y disfrutar. Con todo esto, la persona está lista para ir al museo y ver las obras y las exposiciones que hay allí. Así, puede aprender y pasar un buen rato en el museo."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Ir a un museo",
+      "text": "La persona sale de su casa y va al museo. Camina o toma un bus para llegar. Cuando llega, compra la entrada en la taquilla. Entra al museo y mira las pinturas y los cuadros. Camina por las salas con cuidado. Ve objetos y obras de arte muy interesantes. También lee los carteles para entender mejor las cosas. A veces, pregunta a un guía o a otra persona. Disfruta mucho el tiempo en el museo. Al final, visita la tienda del museo. Compra un recuerdo para su casa. Después, sale del museo contenta y con una sonrisa. Le gusta aprender y ver cosas nuevas. El museo es un lugar bonito y tranquilo. Allí puede ver muchas cosas diferentes. La persona siente alegría y calma. Siempre quiere volver para aprender más y disfrutar otra vez. El museo es un lugar especial para ella."
+    },
+    {
+      "title": "Sección 4 — El resultado — Ir a un museo",
+      "text": "La persona termina su visita al museo muy feliz. Ella aprende cosas nuevas sobre arte e historia. Se siente contenta y tranquila por la experiencia. El museo le da alegría y paz. Ella piensa en volver otro día para ver más. También habla con sus amigos sobre lo que vio en el museo. El recuerdo que compra le ayuda a recordar la visita siempre. La persona sabe que ir al museo es bueno para su mente y su corazón. Está satisfecha y tiene ganas de aprender más cosas nuevas. La visita al museo es una experiencia bonita y útil para ella. Además, siente que su día fue especial y diferente. Le gusta mucho estar en un lugar con tanta cultura. Por eso, recomienda a otros ir al museo y disfrutar como ella. La persona quiere seguir visitando museos para conocer más y sentirse bien."
+    }
+  ],
+  "word_count": 571,
+  "dialogue": {
+    "title": "En el museo",
+    "lines": [
+      {
+        "speaker": "A",
+        "text": "¿Quieres ir al museo conmigo?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, me gusta el arte y la historia."
+      },
+      {
+        "speaker": "A",
+        "text": "El museo tiene muchas pinturas y objetos."
+      },
+      {
+        "speaker": "B",
+        "text": "¿Cuándo vamos?"
+      },
+      {
+        "speaker": "A",
+        "text": "El sábado por la mañana."
+      },
+      {
+        "speaker": "B",
+        "text": "Perfecto. ¿Compramos la entrada en la puerta?"
+      },
+      {
+        "speaker": "A",
+        "text": "Sí, es fácil y rápido."
+      },
+      {
+        "speaker": "B",
+        "text": "Me gusta la idea. Vamos juntos."
+      }
+    ]
+  },
+  "say_it": {
+    "title": "Frases para repetir",
+    "items": [
+      "Quiero ir al museo.",
+      "El museo es un lugar tranquilo.",
+      "Compra la entrada en la puerta.",
+      "Mira las pinturas con atención.",
+      "Lee la información con interés.",
+      "La persona siente alegría.",
+      "El museo tiene muchas cosas.",
+      "Quiero volver pronto."
+    ]
+  },
+  "make_it_yours": {
+    "title": "Hazlo tuyo",
+    "items": [
+      {
+        "prompt": "Cambia el día de la visita.",
+        "example": "Voy al museo el domingo por la mañana."
+      },
+      {
+        "prompt": "Cambia el momento del día.",
+        "example": "Voy al museo por la tarde."
+      },
+      {
+        "prompt": "Cambia el medio de transporte.",
+        "example": "Tomo el bus para ir al museo."
+      },
+      {
+        "prompt": "Cambia lo que compra en la tienda.",
+        "example": "Compra un libro en la tienda del museo."
+      },
+      {
+        "prompt": "Cambia el sentimiento después de la visita.",
+        "example": "La persona está tranquila y feliz después de la visita."
+      }
+    ]
+  },
+  "tags": [
+    "needing",
+    "buying",
+    "time",
+    "movement",
+    "places",
+    "process"
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "Going-on-Holiday-a1-es",
+  "title": "Ir de vacaciones — Proceso (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — La situación — Ir de vacaciones",
+      "text": "Muchas personas trabajan mucho todos los días. Están cansadas y quieren descansar. También quieren conocer lugares nuevos y divertirse. Por eso, deciden ir de vacaciones. Las vacaciones son un tiempo para estar lejos del trabajo y de la rutina diaria. En vacaciones, las personas pueden estar con su familia o con amigos. Pueden ir a la playa, a la montaña o a la ciudad. Ir de vacaciones es bueno para la salud y para el ánimo. La persona quiere cambiar su vida por unos días y sentir alegría. Por eso, prepara su viaje con ilusión y emoción. Las vacaciones son un momento especial para descansar y disfrutar. Es un tiempo para ser feliz, relajarse y vivir momentos bonitos. Muchas personas esperan las vacaciones con ganas para descansar y pasar tiempo con sus seres queridos."
+    },
+    {
+      "title": "Sección 2 — Lo que necesita — Ir de vacaciones",
+      "text": "Para ir de vacaciones, una persona necesita cosas importantes. Primero, necesita dinero para pagar el viaje y el lugar donde va a estar. También necesita tiempo libre en el trabajo o en la escuela para descansar y disfrutar. Es muy importante tener un documento de identidad, como el DNI o el pasaporte. Si la persona viaja a otro país, el pasaporte es necesario para entrar. Además, es bueno tener un teléfono para hablar con amigos o familia y estar en contacto. La persona puede llevar ropa cómoda para estar bien durante el viaje y el descanso. También necesita una maleta para guardar sus cosas y llevarlas con facilidad. Con estas cosas, la persona puede tener un buen viaje y unas vacaciones felices y tranquilas."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Ir de vacaciones",
+      "text": "La persona piensa en un lugar para sus vacaciones. Busca información sobre ese lugar y cómo llegar. Compra los billetes para el avión o el tren. Prepara la maleta con ropa y cosas importantes. Revisa que tiene el documento y el dinero. Cuando todo está listo, va al aeropuerto o a la estación para comenzar el viaje. Durante el viaje, sigue su plan y disfruta del lugar. En las vacaciones, descansa, conoce cosas nuevas y pasa tiempo con amigos o familia. También toma fotos y prueba comida diferente. Cada paso es importante para que las vacaciones sean buenas y felices. Al final, vuelve a casa con recuerdos y alegría."
+    },
+    {
+      "title": "Sección 4 — El resultado — Ir de vacaciones",
+      "text": "Al final de las vacaciones, la persona está feliz y descansada. Visita lugares nuevos y pasa tiempo con su familia o amigos. Tiene recuerdos bonitos y fotos para mostrar. Se siente con energía para volver al trabajo o a la rutina diaria. Las vacaciones cambian la vida por un tiempo. La persona aprende cosas nuevas y disfruta mucho. Durante las vacaciones, el cuerpo y la mente descansan. Esto es bueno para la salud y el ánimo. Por eso, ir de vacaciones es una experiencia positiva y necesaria para muchas personas. Viajar y descansar hacen que la vida sea mejor y más feliz. Además, las vacaciones ayudan a olvidar el estrés y a sentir paz. La persona vuelve contenta y lista para nuevos retos. Las vacaciones son un tiempo para vivir momentos especiales y para cuidar de uno mismo. Por eso, todos necesitan descansar y disfrutar en sus días libres."
+    }
+  ],
+  "word_count": 516,
+  "dialogue": {
+    "title": "Preparar las vacaciones",
+    "lines": [
+      {
+        "speaker": "A",
+        "text": "¿Quieres ir de vacaciones este año?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, quiero descansar y conocer lugares nuevos."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Dónde quieres ir, a la playa o a la montaña?"
+      },
+      {
+        "speaker": "B",
+        "text": "Prefiero la playa para relajarme y disfrutar."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Tienes el dinero y el tiempo libre para el viaje?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, tengo dinero y pedí tiempo en el trabajo."
+      },
+      {
+        "speaker": "A",
+        "text": "No olvides el documento y la maleta con ropa cómoda."
+      },
+      {
+        "speaker": "B",
+        "text": "Claro, preparo todo con ilusión y emoción."
+      }
+    ]
+  },
+  "say_it": {
+    "title": "Frases para repetir",
+    "items": [
+      "Quiero ir de vacaciones.",
+      "Necesito descansar y disfrutar.",
+      "Tengo dinero para el viaje.",
+      "Busco información sobre el lugar.",
+      "Preparo la maleta con ropa cómoda.",
+      "Reviso el documento y el dinero.",
+      "Voy al aeropuerto para comenzar el viaje.",
+      "Vuelvo a casa con recuerdos bonitos."
+    ]
+  },
+  "make_it_yours": {
+    "title": "Cambia una palabra en cada frase",
+    "items": [
+      {
+        "prompt": "Quiero ir a la playa.",
+        "example": "Quiero ir a la montaña."
+      },
+      {
+        "prompt": "Necesito tiempo libre.",
+        "example": "Necesito dinero."
+      },
+      {
+        "prompt": "Preparo la maleta con ropa.",
+        "example": "Preparo la maleta con zapatos."
+      },
+      {
+        "prompt": "Compro los billetes para el avión.",
+        "example": "Compro los billetes para el tren."
+      },
+      {
+        "prompt": "Visito lugares nuevos en vacaciones.",
+        "example": "Visito lugares bonitos en vacaciones."
+      }
+    ]
+  },
+  "tags": [
+    "needing",
+    "planning",
+    "process",
+    "travel",
+    "health",
+    "social"
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "Going-to-a-Concert-a1-es",
+  "title": "Ir a un concierto — Proceso (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — La situación — Ir a un concierto",
+      "text": "La persona quiere ir a un concierto porque le gusta mucho la música. Quiere escuchar a su grupo favorito en vivo. El concierto es en la ciudad, cerca de su casa. Es un evento especial que pasa una vez al año. La persona está feliz y emocionada por ir. Quiere pasar un buen rato con sus amigos o su familia. Para ella, ir al concierto es una forma de disfrutar el tiempo libre y olvidar el trabajo o la escuela. La música le hace sentir bien y le da energía. Por eso, decide comprar la entrada y prepararse para el día del concierto. Está segura de que será una experiencia muy bonita y divertida. Además, puede cantar y bailar con las canciones que le gustan. Ir al concierto es un momento para compartir con las personas que quiere y para disfrutar juntos."
+    },
+    {
+      "title": "Sección 2 — Lo que necesita — Ir a un concierto",
+      "text": "Para ir a un concierto, una persona necesita varias cosas importantes. Primero, debe tener dinero para comprar la entrada. Sin la entrada, no puede entrar al concierto. También es necesario saber la fecha y la hora del evento. Así, puede llegar a tiempo y no perderse nada. La persona debe llevar un documento de identidad, como el DNI o el pasaporte, para mostrar en la entrada. Además, lleva el teléfono móvil para llamar a amigos o buscar información sobre el concierto. También puede usar el móvil para tomar fotos y guardar recuerdos. Es bueno llevar ropa cómoda para estar bien durante el concierto. También es importante llevar algo para beber y así no tener sed. Con estas cosas, la persona puede disfrutar mucho del concierto y pasar un buen momento con sus amigos."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Ir a un concierto",
+      "text": "Primero, la persona compra la entrada para el concierto. Puede comprarla en internet o en la taquilla. Después, prepara sus cosas para el día del concierto. Lleva dinero, documento de identidad y el teléfono móvil. Luego, sale de su casa y va al lugar del concierto. Puede ir en autobús, en coche o caminando. Cuando llega, muestra la entrada a la persona que cuida la puerta. Entra al lugar y busca su sitio para sentarse o estar de pie. El lugar puede ser un teatro, un estadio o una plaza. Al final, espera que empiece la música. Cuando la música empieza, escucha y disfruta mucho. El concierto es un momento para estar feliz y pasar un buen rato con otras personas. Es una experiencia que gusta a muchas personas. También puede cantar y bailar con la música. El concierto es un momento especial para compartir con amigos y conocer gente nueva."
+    },
+    {
+      "title": "Sección 4 — El resultado — Ir a un concierto",
+      "text": "El concierto termina y la persona está muy contenta. Escucha música buena y se divierte mucho. Está con amigos o con su familia. Todos disfrutan juntos y tienen buenos recuerdos del concierto. Después, la persona habla con otras personas sobre la música y el evento. A veces, canta las canciones o baila con alegría. Se siente feliz y relajada después del concierto. La música le da energía y buen ánimo. El concierto es una experiencia muy positiva para la persona. Quiere ir a otro concierto pronto. Le gusta compartir momentos con amigos y familia. La persona piensa que la música une a las personas. El concierto es un momento especial para ella. Siempre recuerda la música, la alegría y la diversión. Quiere vivir esta experiencia otra vez en el futuro. Está feliz porque la música le hace sentir bien y le da mucha energía."
+    }
+  ],
+  "word_count": 570,
+  "dialogue": {
+    "title": "En la entrada del concierto",
+    "lines": [
+      {
+        "speaker": "A",
+        "text": "¿Tienes la entrada para el concierto?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, la compré en internet."
+      },
+      {
+        "speaker": "A",
+        "text": "Perfecto. ¿Sabes la hora del evento?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, empieza a las ocho de la noche."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Llevas tu documento de identidad?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, aquí está mi DNI."
+      },
+      {
+        "speaker": "A",
+        "text": "Muy bien. ¿Vamos juntos al concierto?"
+      },
+      {
+        "speaker": "B",
+        "text": "Claro, quiero disfrutar con mis amigos."
+      }
+    ]
+  },
+  "say_it": {
+    "title": "Frases para el concierto",
+    "items": [
+      "Quiero ir al concierto.",
+      "Tengo la entrada.",
+      "El concierto es en la ciudad.",
+      "Llevo mi documento de identidad.",
+      "La música me hace feliz.",
+      "Voy con mis amigos.",
+      "El concierto empieza a las ocho.",
+      "Disfruto mucho la música."
+    ]
+  },
+  "make_it_yours": {
+    "title": "Cambia una palabra y practica",
+    "items": [
+      {
+        "prompt": "Cambia el lugar del concierto.",
+        "example": "El concierto es en el estadio."
+      },
+      {
+        "prompt": "Cambia la persona con quien vas.",
+        "example": "Voy con mi familia."
+      },
+      {
+        "prompt": "Cambia la hora del concierto.",
+        "example": "El concierto empieza a las siete."
+      },
+      {
+        "prompt": "Cambia el objeto que llevas.",
+        "example": "Llevo el teléfono móvil."
+      },
+      {
+        "prompt": "Cambia la emoción que sientes.",
+        "example": "Estoy emocionado por ir al concierto."
+      }
+    ]
+  },
+  "tags": [
+    "needing",
+    "buying",
+    "process",
+    "time",
+    "movement",
+    "social"
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "Going-to-the-Beach-a1-es",
+  "title": "Ir a la playa — Proceso (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — La situación — Ir a la playa",
+      "text": "Hoy es un día bonito y hace mucho sol. La persona siente calor y quiere descansar. Busca un lugar tranquilo para estar bien. La playa es un lugar perfecto para descansar. Allí puede ver el mar azul y escuchar el sonido de las olas. También puede caminar en la arena suave y sentir el viento fresco en la cara. La persona quiere estar feliz y relajada en la playa. Por eso, decide ir a la playa hoy. Camina despacio y disfruta del paisaje. El día es tranquilo y agradable. La playa es un buen lugar para pensar y descansar. La persona sonríe y siente paz. Es un plan sencillo y bueno para el día. La playa ayuda a olvidar el estrés y a estar contento. Además, el sol calienta la piel y el aire es fresco. La persona respira profundo y se siente bien. Quiere estar en la playa por mucho tiempo."
+    },
+    {
+      "title": "Sección 2 — Lo que necesita — Ir a la playa",
+      "text": "Para ir a la playa, la persona necesita varias cosas importantes. Primero, tiene que tener dinero para pagar el transporte y comprar comida si quiere. También necesita tiempo libre para ir a la playa y regresar a casa sin prisa. Es bueno llevar un documento, como una identificación, por si pasa algo. El teléfono es útil para llamar a alguien o sacar fotos bonitas del lugar. La persona debe llevar ropa cómoda para el calor y una toalla para secarse después de nadar. Además, es importante llevar protector solar para cuidar la piel del sol y evitar quemaduras. También puede llevar agua para beber y algo para comer durante el día. Con todas estas cosas, la persona está lista para disfrutar un día en la playa y pasar un buen momento bajo el sol y la brisa."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Ir a la playa",
+      "text": "La persona prepara todo para ir a la playa. Toma su toalla, su traje de baño y algo de comida. Sale de su casa y va en transporte. Cuando llega a la playa, busca un lugar para poner su toalla. Se pone protector solar para no quemarse. Camina cerca del mar y siente la arena en sus pies. Mira el agua y escucha el sonido de las olas. Luego, se sienta en la toalla y descansa un poco. Come algo para tener energía. Disfruta del sol y del aire fresco. La persona está tranquila y feliz en la playa. Pasa un buen rato y se siente bien. También mira a otras personas y juega con el agua. Al final, recoge sus cosas y vuelve a casa contenta. La playa es un lugar bonito para descansar y disfrutar del día."
+    },
+    {
+      "title": "Sección 4 — El resultado — Ir a la playa",
+      "text": "La persona termina el día en la playa. Está cansada pero contenta. Tiene la piel un poco roja por el sol. Ha descansado mucho y ha visto el mar azul. También ha caminado por la arena y ha estado al aire libre. La persona siente el viento en su cara y escucha el sonido de las olas. Vuelve a casa con energía nueva y feliz. El día en la playa fue bueno para su cuerpo y su mente. Ahora, piensa en volver otro día para disfrutar más. La experiencia fue simple, tranquila y agradable. Estar en la playa le da paz y alegría. Quiere repetir este momento con amigos o familia. La playa es un lugar especial para ella. El sol, el mar y la arena hacen que se sienta bien. Termina el día con una sonrisa y buenos recuerdos."
+    }
+  ],
+  "word_count": 568,
+  "dialogue": {
+    "title": "En la playa",
+    "lines": [
+      {
+        "speaker": "A",
+        "text": "Hace mucho sol hoy."
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, la playa es perfecta para descansar."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Tienes todo para el día?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, llevo toalla y protector solar."
+      },
+      {
+        "speaker": "A",
+        "text": "Yo también. ¿Quieres caminar en la arena?"
+      },
+      {
+        "speaker": "B",
+        "text": "Claro, me gusta sentir el viento fresco."
+      },
+      {
+        "speaker": "A",
+        "text": "Después podemos comer algo y descansar."
+      },
+      {
+        "speaker": "B",
+        "text": "Perfecto, así disfrutamos el día en la playa."
+      }
+    ]
+  },
+  "say_it": {
+    "title": "Frases para repetir",
+    "items": [
+      "Hace mucho sol hoy.",
+      "La playa es un lugar tranquilo.",
+      "Llevo protector solar.",
+      "Quiero descansar en la playa.",
+      "Camino en la arena suave.",
+      "Siento el viento fresco.",
+      "Disfruto del sol y el mar.",
+      "La playa me da paz."
+    ]
+  },
+  "make_it_yours": {
+    "title": "Hazlo tuyo",
+    "items": [
+      {
+        "prompt": "Hoy es un día ___.",
+        "example": "Hoy es un día bonito."
+      },
+      {
+        "prompt": "La persona siente ___.",
+        "example": "La persona siente calor."
+      },
+      {
+        "prompt": "La playa es un lugar ___.",
+        "example": "La playa es un lugar perfecto."
+      },
+      {
+        "prompt": "La persona lleva ___.",
+        "example": "La persona lleva una toalla."
+      },
+      {
+        "prompt": "La persona quiere estar ___.",
+        "example": "La persona quiere estar feliz."
+      }
+    ]
+  },
+  "tags": [
+    "process",
+    "needing",
+    "transport",
+    "food",
+    "health",
+    "description"
+  ]
+}

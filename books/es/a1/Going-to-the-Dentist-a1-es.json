@@ -1,0 +1,115 @@
+{
+  "id": "Going-to-the-Dentist-a1-es",
+  "title": "Ir al dentista — Proceso (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — La situación — Ir al dentista",
+      "text": "La persona tiene dolor de muelas. El dolor es fuerte y no puede comer bien. También tiene los dientes sucios y quiere cuidar su boca. Por eso, decide ir al dentista. El dentista ayuda a las personas con los dientes. Es importante ir al dentista para tener una boca sana y fuerte. Muchas personas van al dentista cada año para revisar sus dientes. La persona quiere estar bien y no tener dolor. Quiere sonreír sin problemas. Por eso, va al dentista hoy. El dentista mira sus dientes, limpia su boca y arregla el dolor. Después, la persona se siente mejor y feliz. Ahora puede comer, hablar y sonreír sin dolor. Ir al dentista es bueno para la salud y para la vida diaria. También ayuda a prevenir problemas y a cuidar la boca todos los días."
+    },
+    {
+      "title": "Sección 2 — Lo que necesita — Ir al dentista",
+      "text": "La persona necesita dinero para pagar la visita al dentista. También necesita tiempo para ir y volver. Es importante llamar por teléfono para pedir una cita. Cuando va al dentista, debe llevar su documento de identidad. El dentista puede pedir información personal para la historia clínica. La persona lleva una lista con preguntas para el dentista. También lleva un cepillo de dientes para limpiar la boca antes de la cita. Es importante llegar a tiempo para que la visita sea buena. Si la persona llega tarde, puede perder la cita. El dentista ayuda a cuidar los dientes y la boca. Por eso, es bueno preparar todo antes de ir. Así, la visita al dentista es fácil y rápida. Además, la persona debe llevar su tarjeta de seguro si tiene. También es bueno llevar un poco de agua para después de la cita. Prepararse bien ayuda a que todo salga bien en la visita."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Ir al dentista",
+      "text": "La persona llama al dentista para pedir una cita. El día de la cita, va a la clínica dental. Allí, habla con la recepcionista y espera su turno. Cuando es su turno, el dentista mira sus dientes con cuidado. Luego, limpia los dientes y revisa si hay algún problema. El dentista habla con la persona y explica qué hacer para tener una boca sana. La persona escucha y puede hacer preguntas si no entiende. Después, el dentista da consejos para cuidar los dientes todos los días. También dice qué alimentos son buenos para los dientes. Al final, la persona paga y sale de la clínica con una sonrisa. Ir al dentista es muy importante para tener dientes fuertes y sanos. Así, la boca está limpia, sana y sin dolor."
+    },
+    {
+      "title": "Sección 4 — El resultado — Ir al dentista",
+      "text": "La persona va al dentista porque tiene dolor de muelas. El dentista mira sus dientes con cuidado y luego limpia su boca para que esté sana. Ahora, la persona no siente dolor. El dentista le explica cómo cepillarse los dientes todos los días. La persona escucha y aprende con atención. Se siente feliz y tranquila porque su boca está mejor. Sabe que debe ir al dentista cada año para revisar sus dientes. También sabe cómo cuidar su boca en casa para evitar problemas. La visita al dentista fue buena y ayuda a su salud. La persona sonríe mucho y come sin dolor. Está contenta porque su salud dental es buena. Cada día cuida sus dientes con más cuidado. Quiere tener una sonrisa bonita y fuerte siempre."
+    }
+  ],
+  "word_count": 544,
+  "dialogue": {
+    "title": "En la clínica dental",
+    "lines": [
+      {
+        "speaker": "A",
+        "text": "Tengo dolor de muelas."
+      },
+      {
+        "speaker": "B",
+        "text": "¿Cuándo fue tu última visita al dentista?"
+      },
+      {
+        "speaker": "A",
+        "text": "Hace más de un año."
+      },
+      {
+        "speaker": "B",
+        "text": "Es importante ir cada año para cuidar los dientes."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Qué hago para preparar la cita?"
+      },
+      {
+        "speaker": "B",
+        "text": "Llama por teléfono y lleva tu documento de identidad."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Y después de la visita?"
+      },
+      {
+        "speaker": "B",
+        "text": "Cepíllate los dientes todos los días y come bien."
+      }
+    ]
+  },
+  "say_it": {
+    "title": "Frases para repetir",
+    "items": [
+      "Tengo dolor de muelas.",
+      "Quiero ir al dentista.",
+      "Necesito pedir una cita.",
+      "Llevo mi documento de identidad.",
+      "El dentista limpia mis dientes.",
+      "Escucho los consejos del dentista.",
+      "Pago la visita al dentista.",
+      "Cuido mis dientes todos los días."
+    ]
+  },
+  "make_it_yours": {
+    "title": "Hazlo tuyo",
+    "items": [
+      {
+        "prompt": "Tengo dolor de muelas.",
+        "example": "Tengo dolor de cabeza."
+      },
+      {
+        "prompt": "Quiero ir al dentista.",
+        "example": "Quiero ir al médico."
+      },
+      {
+        "prompt": "Llevo mi documento de identidad.",
+        "example": "Llevo mi tarjeta de seguro."
+      },
+      {
+        "prompt": "El dentista limpia mis dientes.",
+        "example": "El dentista revisa mis dientes."
+      },
+      {
+        "prompt": "Pago la visita al dentista.",
+        "example": "Pago la consulta médica."
+      }
+    ]
+  },
+  "tags": [
+    "problems",
+    "needing",
+    "asking",
+    "process",
+    "health",
+    "services"
+  ]
+}

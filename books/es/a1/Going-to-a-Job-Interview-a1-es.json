@@ -1,0 +1,114 @@
+{
+  "id": "Going-to-a-Job-Interview-a1-es",
+  "title": "Ir a una entrevista de trabajo — Proceso (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — La situación — Ir a una entrevista de trabajo",
+      "text": "Una persona busca un trabajo nuevo. Quiere ganar dinero y mejorar su vida. En la ciudad, muchas personas buscan empleo también. Un día, ella ve un anuncio en el periódico. El trabajo parece bueno para ella. Decide ir a la entrevista. La entrevista es una conversación con el jefe. El jefe quiere conocer a la persona y saber si puede hacer el trabajo. Ella está un poco nerviosa porque es su primera entrevista. Pero tiene ganas de trabajar y aprender. Ella se prepara para la entrevista y llega a tiempo. La entrevista es muy importante para conseguir el empleo. Después, espera una respuesta con esperanza. Quiere empezar pronto y hacer un buen trabajo. Ella sabe que esta oportunidad puede cambiar su vida. Está lista para mostrar su mejor actitud y sus ganas de ayudar en el trabajo."
+    },
+    {
+      "title": "Sección 2 — Lo que necesita — Ir a una entrevista de trabajo",
+      "text": "La persona prepara varias cosas para la entrevista de trabajo. Lleva su currículum con su información personal y experiencia. También lleva su documento de identidad para mostrar quién es. Usa ropa limpia y cómoda para la entrevista. Es importante llegar a tiempo y con calma. Para llegar bien, la persona usa el teléfono para preguntar la dirección del lugar. Lleva dinero para el transporte, como el bus o el taxi. La persona se siente lista y tranquila. Todo esto ayuda a que la entrevista sea buena. Quiere mostrar su mejor lado y tener éxito en el trabajo. La entrevista es una oportunidad para hablar con el jefe y explicar sus habilidades. La persona escucha con atención y responde con claridad. Así, puede conseguir el trabajo que quiere y empezar una nueva etapa en su vida."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Ir a una entrevista de trabajo",
+      "text": "La persona quiere un trabajo nuevo. Primero, prepara su currículum y elige ropa limpia y bonita. Luego, busca dónde es la entrevista. Sale de su casa con tiempo para no llegar tarde. Toma el bus o el metro para ir al lugar. Cuando llega, espera en la sala con otras personas. El jefe llama a la persona y la lleva a su oficina. Hablan sobre el trabajo y las preguntas. La persona responde con calma y dice la verdad. El jefe explica las tareas y el horario. La persona escucha con atención. Al final, da las gracias, se despide y sale del lugar. Después, espera la respuesta para saber si tiene el trabajo. Está contenta y espera una buena noticia pronto. Quiere trabajar y aprender cosas nuevas. Está lista para empezar si la llaman."
+    },
+    {
+      "title": "Sección 4 — El resultado — Ir a una entrevista de trabajo",
+      "text": "Después de la entrevista, la persona espera la respuesta con paciencia. Ella puede recibir una llamada o un mensaje en su teléfono. Si el jefe dice que sí, la persona tiene un trabajo nuevo. Ella está feliz y empieza a trabajar en la empresa. Si el jefe dice que no, la persona no se rinde. Ella busca otra entrevista en otro lugar. La experiencia ayuda mucho para la próxima vez. La persona aprende cosas nuevas y mejora sus respuestas. Ir a la entrevista es un paso importante para encontrar un buen empleo. Cada intento es una oportunidad para crecer y avanzar en su carrera. La persona sigue buscando y aprendiendo hasta lograr su meta. Siempre tiene esperanza y trabaja con ganas para conseguir un buen trabajo. Así, poco a poco, su vida mejora y tiene más oportunidades."
+    }
+  ],
+  "word_count": 543,
+  "dialogue": {
+    "title": "En la entrevista de trabajo",
+    "lines": [
+      {
+        "speaker": "A",
+        "text": "Hola, ¿es esta la entrevista de trabajo?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, por favor, pase y tome asiento."
+      },
+      {
+        "speaker": "A",
+        "text": "Gracias. Traigo mi currículum y documento."
+      },
+      {
+        "speaker": "B",
+        "text": "Muy bien. ¿Por qué quiere este trabajo?"
+      },
+      {
+        "speaker": "A",
+        "text": "Quiero aprender y mejorar mi vida."
+      },
+      {
+        "speaker": "B",
+        "text": "Perfecto. ¿Puede trabajar con nosotros?"
+      },
+      {
+        "speaker": "A",
+        "text": "Sí, estoy lista y tengo ganas de ayudar."
+      },
+      {
+        "speaker": "B",
+        "text": "Muy bien. Le llamaremos pronto con la respuesta."
+      }
+    ]
+  },
+  "say_it": {
+    "title": "Frases para repetir",
+    "items": [
+      "Quiero un trabajo nuevo.",
+      "Llego a tiempo a la entrevista.",
+      "Traigo mi currículum y documento.",
+      "Estoy un poco nerviosa.",
+      "Escucho con atención.",
+      "Respondo con calma.",
+      "Espero una buena noticia.",
+      "Tengo ganas de trabajar."
+    ]
+  },
+  "make_it_yours": {
+    "title": "Hazlo tuyo",
+    "items": [
+      {
+        "prompt": "Cambia el trabajo que quiere la persona.",
+        "example": "Quiero un trabajo en una tienda."
+      },
+      {
+        "prompt": "Cambia el medio de transporte que usa.",
+        "example": "Tomo el metro para ir a la entrevista."
+      },
+      {
+        "prompt": "Cambia la emoción que siente la persona.",
+        "example": "Estoy un poco feliz por la entrevista."
+      },
+      {
+        "prompt": "Cambia el lugar donde espera la persona.",
+        "example": "Espero en la sala con otras personas."
+      },
+      {
+        "prompt": "Cambia la acción que hace al final de la entrevista.",
+        "example": "Doy las gracias y me despido."
+      }
+    ]
+  },
+  "tags": [
+    "needing",
+    "asking",
+    "transport",
+    "work",
+    "process"
+  ]
+}

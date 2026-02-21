@@ -1,0 +1,115 @@
+{
+  "id": "Going-to-the-Cinema-a1-es",
+  "title": "Ir al cine — Proceso (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — La situación — Ir al cine",
+      "text": "Muchas personas van al cine para ver una película. El cine tiene una pantalla grande y muchas sillas. La persona quiere descansar y divertirse un rato. A veces, va al cine con amigos o con su familia. Ver una película en el cine es diferente que verla en casa. En el cine, el sonido es muy bueno y la imagen es grande y clara. La persona está feliz porque le gusta la película que ve. Ir al cine es una actividad común en el fin de semana o en la tarde. Muchas personas compran palomitas y refrescos para disfrutar mejor. El cine es un lugar para pasar un buen momento y olvidar el trabajo o la escuela. Después de la película, la persona habla con sus amigos sobre lo que vio. También piensa en la historia y en los personajes. Ir al cine es una forma de relajarse y disfrutar."
+    },
+    {
+      "title": "Sección 2 — Lo que necesita — Ir al cine",
+      "text": "Para ir al cine, una persona necesita algunas cosas importantes. Primero, debe tener dinero para comprar la entrada. También necesita tiempo libre para ir sin prisa. La persona puede usar su teléfono para ver los horarios de las películas. A veces, debe mostrar un documento para un descuento. Además, puede llevar algo para comer o beber durante la película. Es bueno usar ropa cómoda para estar bien en la sala. La persona debe estar lista para salir a tiempo y disfrutar la película. Ir al cine es una actividad divertida y fácil si se prepara bien. También es importante llegar temprano para elegir un buen asiento y comprar palomitas o refrescos si quiere. Así, la experiencia es mejor y más agradable. También es bueno ir con amigos o familia para compartir el momento. La película puede ser de acción, comedia o drama, y siempre es bueno elegir la que más guste."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Ir al cine",
+      "text": "La persona quiere ir al cine. Primero, busca la película que le gusta. Mira los horarios para saber cuándo empieza. Luego, compra la entrada en la taquilla o por internet. Espera el día y la hora con ilusión. Cuando llega el momento, va al cine con alegría. Entra y busca su asiento con cuidado. Si quiere, compra palomitas o una bebida para disfrutar. Apaga el teléfono para no molestar a los demás. Se sienta y mira la pantalla con atención. La película empieza y la persona presta mucha atención. Disfruta las imágenes y los sonidos. Al final, la función termina. La persona sale del cine contenta y feliz. Le gusta la experiencia y quiere volver pronto para ver otra película. Ir al cine es un momento especial para ella."
+    },
+    {
+      "title": "Sección 4 — El resultado — Ir al cine",
+      "text": "Al terminar la película, la persona se siente feliz y contenta. Ve una historia que le gusta mucho. A veces, habla con sus amigos sobre la película. Recuerda las partes buenas y las partes que no le gustan. Piensa en los personajes y en lo que pasa en la historia. Luego, sale del cine y vuelve a su casa o va a otro lugar. Ir al cine es un momento de alegría y descanso. Le gusta estar en el cine, ver las imágenes grandes y escuchar el sonido fuerte. La persona quiere ir otra vez para ver más películas y pasar un buen rato. Ir al cine es una forma de disfrutar y aprender cosas nuevas cada vez. Además, siente emoción y calma. El cine es un lugar especial para compartir y soñar."
+    }
+  ],
+  "word_count": 563,
+  "dialogue": {
+    "title": "En el cine",
+    "lines": [
+      {
+        "speaker": "A",
+        "text": "¿Quieres ir al cine esta tarde?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, me gusta ver películas en el cine."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Qué película quieres ver?"
+      },
+      {
+        "speaker": "B",
+        "text": "Quiero ver una comedia."
+      },
+      {
+        "speaker": "A",
+        "text": "Perfecto, ¿compramos las entradas ahora?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, tengo dinero y tiempo libre."
+      },
+      {
+        "speaker": "A",
+        "text": "También podemos comprar palomitas y refrescos."
+      },
+      {
+        "speaker": "B",
+        "text": "Buena idea. Vamos a disfrutar mucho."
+      }
+    ]
+  },
+  "say_it": {
+    "title": "Frases para repetir",
+    "items": [
+      "Voy al cine con amigos.",
+      "La película empieza a las siete.",
+      "Compro palomitas y una bebida.",
+      "La pantalla es grande y clara.",
+      "Me gusta la historia y los personajes.",
+      "Apago el teléfono en la sala.",
+      "La función termina y salgo contento.",
+      "Quiero ver otra película pronto."
+    ]
+  },
+  "make_it_yours": {
+    "title": "Hazlo tuyo",
+    "items": [
+      {
+        "prompt": "Cambia la actividad: Voy al cine con amigos.",
+        "example": "Voy al parque con amigos."
+      },
+      {
+        "prompt": "Cambia el tiempo: La película empieza a las siete.",
+        "example": "La película empieza a las ocho."
+      },
+      {
+        "prompt": "Cambia la comida: Compro palomitas y una bebida.",
+        "example": "Compro chocolate y una bebida."
+      },
+      {
+        "prompt": "Cambia el lugar: La pantalla es grande y clara.",
+        "example": "La televisión es grande y clara."
+      },
+      {
+        "prompt": "Cambia el sentimiento: Salgo contento del cine.",
+        "example": "Salgo cansado del cine."
+      }
+    ]
+  },
+  "tags": [
+    "process",
+    "needing",
+    "buying",
+    "time",
+    "social",
+    "food"
+  ]
+}

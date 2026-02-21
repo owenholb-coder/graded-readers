@@ -1,0 +1,115 @@
+{
+  "id": "Going-Camping-a1-es",
+  "title": "Ir de campamento — Proceso (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — La situación — Ir de campamento",
+      "text": "Ana quiere salir de la ciudad porque trabaja mucho y está cansada. Ella busca estar en la naturaleza. Le gusta el aire fresco y el silencio. Por eso, decide ir de campamento. Ana quiere descansar y disfrutar del tiempo libre. También quiere estar con sus amigos. Ellos hablan, ríen y comparten momentos juntos. Ana está feliz porque va a cambiar su rutina diaria. Ir de campamento es bueno para su salud y su mente. Ella siente que la naturaleza la ayuda a sentirse mejor. Ana prepara todo para su viaje con ilusión. Está lista para vivir una experiencia nueva y tranquila. El campamento es un lugar especial para ella. Ella piensa en el bosque, el río y las montañas. Ana quiere caminar y ver animales. También quiere dormir bajo las estrellas. El campamento es un tiempo para descansar y ser feliz."
+    },
+    {
+      "title": "Sección 2 — Lo que necesita — Ir de campamento",
+      "text": "Ana quiere ir de campamento. Para eso, necesita varias cosas importantes. Tiene dinero para comprar comida y para pagar el lugar donde va a estar. También necesita tiempo libre en su trabajo. Ana pide permiso a su jefe para poder ir. Ella lleva su documento de identidad porque es importante para viajar y para entrar al campamento. Ana lleva su teléfono móvil para llamar si tiene algún problema. Además, lleva ropa cómoda para estar bien durante el día y la noche. Usa una mochila para guardar todas sus cosas. Ana prepara todo con cuidado y revisa que no falte nada. Ella piensa en todo para que el campamento sea bueno y seguro. Así, puede disfrutar mucho su tiempo en el campamento y descansar bien. También lleva una linterna para ver en la noche y una botella de agua para beber. Ana está feliz y lista para su aventura."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Ir de campamento",
+      "text": "Ana prepara su mochila con ropa y comida para el campamento. Ella llama a sus amigos para organizar el viaje. Todos van en coche al lugar del campamento. Ana y sus amigos montan la tienda de campaña con cuidado. Luego, hacen una fogata para cocinar la comida. Caminan por el bosque y ven muchas plantas y animales. Juegan y hablan mientras exploran la naturaleza juntos. Por la tarde, descansan y comen comida deliciosa. Cuando llega la noche, miran las estrellas en el cielo oscuro. Ana siente paz y alegría en el campamento. Ella disfruta mucho el día y la noche al aire libre. El campamento es una experiencia buena y divertida para Ana y sus amigos. Ellos aprenden sobre la naturaleza y se sienten libres. Ana quiere volver a ir de campamento pronto. Ella sueña con nuevas aventuras en el bosque."
+    },
+    {
+      "title": "Sección 4 — El resultado — Ir de campamento",
+      "text": "Al final del campamento, Ana está feliz y tranquila. Ella duerme bien todas las noches y come comida rica durante el día. Ana aprende sobre la naturaleza y los animales del bosque. También mejora su amistad con sus amigos porque pasan tiempo juntos y se ayudan. Ana siente que es más fuerte y más feliz. Cuando vuelve a la ciudad, tiene mucha energía y quiere hacer campamento otra vez pronto. Esta experiencia es buena para su vida y su salud. Ana sabe que salir de la rutina y estar en la naturaleza es importante para su cuerpo y mente. El campamento le da alegría y paz. Ana recuerda los momentos bonitos y quiere vivirlos otra vez."
+    }
+  ],
+  "word_count": 546,
+  "dialogue": {
+    "title": "Diálogo: Preparar el campamento",
+    "lines": [
+      {
+        "speaker": "A",
+        "text": "¿Tienes todo para el campamento?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, llevo ropa cómoda y comida."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Y la linterna para la noche?"
+      },
+      {
+        "speaker": "B",
+        "text": "Claro, también la botella de agua."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Llamaste a los amigos para el viaje?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, ellos están listos y felices."
+      },
+      {
+        "speaker": "A",
+        "text": "Perfecto, vamos a disfrutar la naturaleza."
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, quiero caminar y ver animales."
+      }
+    ]
+  },
+  "say_it": {
+    "title": "Frases para repetir",
+    "items": [
+      "Ana quiere ir de campamento.",
+      "Ella lleva ropa cómoda.",
+      "Ana prepara su mochila.",
+      "Ellos montan la tienda de campaña.",
+      "Ana habla con sus amigos.",
+      "El campamento es bueno para la salud.",
+      "Ana duerme bajo las estrellas.",
+      "Ellos disfrutan la naturaleza."
+    ]
+  },
+  "make_it_yours": {
+    "title": "Hazlo tuyo: Cambia una palabra",
+    "items": [
+      {
+        "prompt": "Cambia el lugar del campamento.",
+        "example": "Ana quiere ir al río."
+      },
+      {
+        "prompt": "Cambia la actividad que hace Ana.",
+        "example": "Ana quiere correr en el bosque."
+      },
+      {
+        "prompt": "Cambia la comida que lleva Ana.",
+        "example": "Ana lleva fruta para el campamento."
+      },
+      {
+        "prompt": "Cambia el objeto que Ana usa para ver en la noche.",
+        "example": "Ana lleva una linterna para la noche."
+      },
+      {
+        "prompt": "Cambia la persona con quien Ana va al campamento.",
+        "example": "Ana va con su familia al campamento."
+      }
+    ]
+  },
+  "tags": [
+    "planning",
+    "needing",
+    "process",
+    "social",
+    "health",
+    "travel"
+  ]
+}

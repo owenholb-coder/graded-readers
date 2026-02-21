@@ -1,0 +1,114 @@
+{
+  "id": "Going-to-a-Doctors-Appointment-a1-es",
+  "title": "Ir al médico — Proceso (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — La situación — Ir al médico",
+      "text": "Una persona se siente mal. Tiene dolor de cabeza y fiebre. No puede trabajar ni estudiar. Quiere mejorar su salud. Por eso, decide ir al médico. El médico ayuda a las personas cuando están enfermas. Es muy importante cuidar el cuerpo para estar bien. La persona va al consultorio y habla con el doctor. El doctor escucha con atención y hace preguntas. Luego, revisa al paciente con cuidado y calma. El médico dice qué hacer para mejorar la salud. La persona sigue las indicaciones del doctor. Toma medicina y descansa en casa. Poco a poco, se siente mejor y más fuerte. Ir al médico es bueno cuando uno está enfermo. Así, la persona cuida su salud y vuelve a su vida normal y feliz."
+    },
+    {
+      "title": "Sección 2 — Lo que necesita — Ir al médico",
+      "text": "Para ir al médico, la persona necesita varias cosas. Primero, debe tener dinero para pagar la consulta. También necesita tiempo para ir al consultorio y esperar su turno. Es muy importante llevar un documento de identidad, como una tarjeta o un carnet. A veces, la persona debe llamar al consultorio para pedir una cita antes de ir. Para eso, puede usar su teléfono y hablar con la secretaria. Además, es bueno llevar una lista con los síntomas que tiene. Esto ayuda al doctor a entender mejor el problema de salud. La persona debe explicar bien sus síntomas y responder las preguntas del doctor. Así, el médico puede dar un buen diagnóstico y tratamiento. Ir al médico es importante para cuidar la salud y sentirse mejor. También es bueno llegar a tiempo y llevar los medicamentos que usa. La salud es muy valiosa y el médico ayuda a protegerla."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Ir al médico",
+      "text": "La persona quiere ir al médico. Primero, llama al consultorio para pedir una cita. Después, espera el día de la cita con paciencia. Cuando llega el día, va al consultorio con su documento y dinero. Al llegar, se registra en la recepción y espera su turno en la sala. Cuando es su turno, entra al consultorio y habla con el doctor. El doctor escucha con atención y hace preguntas para entender el problema. La persona responde con calma y explica sus síntomas. El doctor piensa y da un diagnóstico. También explica el tratamiento que la persona debe seguir. La persona escucha con cuidado y hace preguntas si no entiende. Al final, la persona sale del consultorio con las indicaciones para mejorar su salud. Se siente más tranquila y espera mejorar pronto."
+    },
+    {
+      "title": "Sección 4 — El resultado — Ir al médico",
+      "text": "La persona termina la cita con el doctor. El doctor explica su diagnóstico de forma clara y sencilla. La persona escucha con atención y hace preguntas para entender mejor. El doctor da medicinas para tomar en casa y también consejos para mejorar la salud. La persona se siente más tranquila y sabe qué hacer. Puede descansar y seguir las indicaciones del doctor con cuidado. Después de unos días, la persona nota que su salud mejora poco a poco. Se siente mejor y más fuerte cada día. Está contenta porque el doctor la ayudó mucho. Ir al médico es importante para cuidar el cuerpo y la mente. La persona sabe que debe volver si no mejora o si tiene dudas. Así puede vivir bien y sin problemas. La salud es un tesoro que hay que cuidar siempre con atención y amor."
+    }
+  ],
+  "word_count": 543,
+  "dialogue": {
+    "title": "En el consultorio del médico",
+    "lines": [
+      {
+        "speaker": "A",
+        "text": "Hola, doctor. Me siento mal."
+      },
+      {
+        "speaker": "B",
+        "text": "¿Qué síntomas tiene usted?"
+      },
+      {
+        "speaker": "A",
+        "text": "Tengo dolor de cabeza y fiebre."
+      },
+      {
+        "speaker": "B",
+        "text": "¿Desde cuándo se siente así?"
+      },
+      {
+        "speaker": "A",
+        "text": "Desde ayer por la tarde."
+      },
+      {
+        "speaker": "B",
+        "text": "Voy a revisarlo con cuidado."
+      },
+      {
+        "speaker": "A",
+        "text": "Gracias, doctor."
+      },
+      {
+        "speaker": "B",
+        "text": "Tome esta medicina y descanse en casa."
+      }
+    ]
+  },
+  "say_it": {
+    "title": "Frases para ir al médico",
+    "items": [
+      "Me siento mal.",
+      "Tengo dolor de cabeza.",
+      "Tengo fiebre.",
+      "Quiero mejorar mi salud.",
+      "Necesito una cita.",
+      "¿Qué debo hacer?",
+      "Tomo medicina.",
+      "Descanso en casa."
+    ]
+  },
+  "make_it_yours": {
+    "title": "Cambia una palabra en cada frase",
+    "items": [
+      {
+        "prompt": "Me siento mal.",
+        "example": "Me siento bien."
+      },
+      {
+        "prompt": "Tengo dolor de cabeza.",
+        "example": "Tengo dolor de estómago."
+      },
+      {
+        "prompt": "Quiero mejorar mi salud.",
+        "example": "Quiero mejorar mi trabajo."
+      },
+      {
+        "prompt": "Tomo medicina.",
+        "example": "Tomo agua."
+      },
+      {
+        "prompt": "Descanso en casa.",
+        "example": "Trabajo en casa."
+      }
+    ]
+  },
+  "tags": [
+    "needing",
+    "asking",
+    "process",
+    "health",
+    "services"
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "Going-to-a-Festival-a1-es",
+  "title": "Ir a un festival — Proceso (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — La situación — Ir a un festival",
+      "text": "Una persona quiere ir a un festival. El festival es un evento con música y comida. Muchas personas van al festival para divertirse y pasar un buen rato. El festival está en la ciudad y es un lugar muy alegre. La persona está feliz porque le gusta la música y la comida que hay. También quiere ver a sus amigos en el festival. Para ella, el festival es un día especial y divertido. Ella piensa que el festival es una buena oportunidad para descansar y disfrutar. Por eso, decide ir al festival este fin de semana. Ella se prepara para el día con ropa cómoda y comida. Está muy emocionada porque le gusta la música y quiere bailar. También quiere probar la comida y hablar con sus amigos. El festival es un lugar feliz para ella y espera pasar un buen día."
+    },
+    {
+      "title": "Sección 2 — Lo que necesita — Ir a un festival",
+      "text": "Para ir al festival, la persona necesita varias cosas importantes. Primero, tiene que tener dinero para comprar la entrada y poder entrar. También necesita tiempo libre porque el festival es durante el día y no puede trabajar ese día. Además, debe llevar su documento de identidad para mostrarlo al entrar. Ella lleva su teléfono para hablar con sus amigos y compartir momentos. Es importante que use ropa cómoda porque va a caminar mucho y estar mucho tiempo de pie. También lleva agua para beber y algo de comida para no tener hambre. Ella prepara todo con cuidado y revisa sus cosas antes de salir. Así, puede disfrutar bien del festival sin problemas y pasar un buen día con sus amigos. También piensa en llegar temprano para ver todo lo que hay. El festival es divertido y ella quiere aprovecharlo mucho."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Ir a un festival",
+      "text": "La persona compra la entrada para el festival. Ella prepara su mochila con agua y comida. También revisa que tiene su documento y su teléfono. Luego, va al festival en autobús. Ella llega temprano para ver todo con calma. En el festival, escucha música y come. Ella mira los puestos y habla con sus amigos. Toma fotos para recordar el día. Después, disfruta de los bailes y las luces. Ella se siente feliz y tranquila. Al final, regresa a su casa cansada pero contenta. Siempre sigue estos pasos para pasar un buen día en el festival. El festival es un lugar para divertirse y estar con amigos. Ella espera con ganas el próximo festival. Le gusta mucho la música y la alegría del lugar. Cada año, el festival es una experiencia especial para ella."
+    },
+    {
+      "title": "Sección 4 — El resultado — Ir a un festival",
+      "text": "Al final del día, la persona está muy contenta. Ella escucha música buena y come comida rica. También ve a sus amigos y habla con ellos. El festival es muy divertido y ella se siente bien. Tiene recuerdos bonitos del día. Además, está cansada porque caminó mucho. Pero está feliz porque pasó un tiempo muy bueno. Ella piensa en volver al festival el próximo año. El resultado es que la persona disfruta mucho y descansa en un día especial. El festival le da alegría y momentos felices. Ella quiere repetir esta experiencia porque es muy bonita. Al final, el día es muy bueno para ella y la hace sentir feliz y tranquila. Ella sonríe y piensa en todo lo bueno que vivió. El festival es un lugar para disfrutar y estar con amigos. Ella sabe que estos momentos son importantes para su vida. Por eso, quiere volver y vivir otra vez esta alegría."
+    }
+  ],
+  "word_count": 569,
+  "dialogue": {
+    "title": "En el festival",
+    "lines": [
+      {
+        "speaker": "A",
+        "text": "¿Tienes la entrada para el festival?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, la tengo en mi mochila."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Llevas agua y comida?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, llevo agua y un sándwich."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Quieres bailar con la música?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, me gusta bailar en el festival."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Vas a hablar con tus amigos?"
+      },
+      {
+        "speaker": "B",
+        "text": "Claro, quiero verlos y pasar un buen rato."
+      }
+    ]
+  },
+  "say_it": {
+    "title": "Frases para repetir",
+    "items": [
+      "Voy al festival este fin de semana.",
+      "Llevo ropa cómoda para caminar.",
+      "Tengo dinero para comprar la entrada.",
+      "Uso mi documento para entrar.",
+      "Quiero escuchar música y bailar.",
+      "Llevo agua para beber.",
+      "Hablo con mis amigos en el festival.",
+      "El festival es un día especial y divertido."
+    ]
+  },
+  "make_it_yours": {
+    "title": "Hazlo tuyo",
+    "items": [
+      {
+        "prompt": "Yo voy al festival este fin de semana.",
+        "example": "Ella va al festival este fin de semana."
+      },
+      {
+        "prompt": "Llevo ropa cómoda para caminar.",
+        "example": "Llevo ropa cómoda para bailar."
+      },
+      {
+        "prompt": "Tengo dinero para comprar la entrada.",
+        "example": "Tengo dinero para comprar comida."
+      },
+      {
+        "prompt": "Uso mi documento para entrar.",
+        "example": "Uso mi teléfono para hablar."
+      },
+      {
+        "prompt": "Quiero escuchar música y bailar.",
+        "example": "Quiero escuchar música y comer."
+      }
+    ]
+  },
+  "tags": [
+    "process",
+    "needing",
+    "buying",
+    "time",
+    "movement",
+    "social"
+  ]
+}
