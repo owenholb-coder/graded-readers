@@ -1,0 +1,115 @@
+{
+  "id": "Registering-at-a-School-a1-es",
+  "title": "Inscripción en la escuela — Proceso (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — La situación — Inscripción en la escuela",
+      "text": "Ana quiere estudiar en una escuela nueva. Ella vive en la ciudad y busca aprender cosas nuevas cada día. La escuela está cerca de su casa, por eso es fácil ir. Ana quiere ir a clases para mejorar su futuro y tener un buen trabajo. Ella habla con su familia y todos están contentos con su decisión. Ana tiene muchas ganas de empezar pronto. La escuela abre en septiembre y Ana necesita tiempo para prepararse bien. Ella quiere hacer amigos nuevos y aprender mucho en las clases. Ana sabe que estudiar es muy importante para su vida y para su futuro. Ella está feliz y lista para este nuevo paso. Ana espera que sus estudios la ayuden a crecer y a tener éxito en la vida. Ana piensa que la escuela es un lugar bueno para aprender y para conocer gente nueva. Ella quiere aprovechar cada día en la escuela para mejorar."
+    },
+    {
+      "title": "Sección 2 — Lo que necesita — Inscripción en la escuela",
+      "text": "Ana quiere inscribirse en la escuela. Para eso, necesita su documento de identidad. También debe pagar la matrícula con dinero. Ana llama a la escuela para pedir información. Ella tiene tiempo para ir a la escuela y hacer los papeles. Ana lleva una foto para su ficha. Además, prepara un papel con su dirección y teléfono. Ella guarda todo en una carpeta. Ana está lista para comenzar el proceso. Sabe que es importante tener todo preparado. Ana quiere estudiar y está feliz. La escuela es un lugar bueno para aprender. Ana piensa en su futuro y trabaja para lograr su meta. Ella habla con los profesores y pregunta sobre las clases. Ana quiere aprender cosas nuevas cada día. Está emocionada por empezar pronto. Ana sabe que estudiar es importante para su vida. Ella quiere hacer amigos y conocer gente nueva. La escuela le da muchas oportunidades para crecer."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Inscripción en la escuela",
+      "text": "Ana quiere inscribirse en la escuela. Primero, ella llama a la escuela para pedir información. La persona de la escuela le explica qué necesita para la inscripción. Ana prepara sus papeles y una foto. Ella va a la escuela con todo lo que pidió. En la escuela, habla con la persona que ayuda a los estudiantes nuevos. Ana entrega sus documentos y la foto. Después, paga el dinero que la escuela pide para inscribirse. Luego, llena un formulario con su nombre y otros datos importantes. La persona revisa todo con cuidado y le da un papel. Este papel dice que Ana ya está inscrita en la escuela. Ana está contenta y feliz. Ella espera con ganas el primer día de clase. Quiere aprender cosas nuevas, conocer a sus profesores y hacer amigos en la escuela."
+    },
+    {
+      "title": "Sección 4 — El resultado — Inscripción en la escuela",
+      "text": "Ana termina el proceso de inscripción en la escuela. Ella tiene su papel de estudiante. Ahora, Ana puede ir a la escuela cuando empieza el curso. Ella sabe dónde están sus clases y sus horarios. Ana recibe información sobre los profesores y las actividades. Ella está lista para aprender cosas nuevas y hacer amigos. Ana siente alegría y confianza porque todo está bien. La escuela es un lugar importante para su futuro. Ella está contenta y tranquila porque hizo todo bien. Ana espera con ganas el primer día de clase. Está feliz y preparada para comenzar esta nueva etapa en su vida. Ana sabe que en la escuela aprenderá mucho. Ella quiere estudiar y participar en las actividades. También quiere conocer a sus compañeros y profesores. Ana está segura de que esta experiencia será buena para ella. Ella piensa en su futuro con esperanza y entusiasmo."
+    }
+  ],
+  "word_count": 581,
+  "dialogue": {
+    "title": "Diálogo: Inscripción en la escuela",
+    "lines": [
+      {
+        "speaker": "A",
+        "text": "Hola, quiero inscribirme en la escuela."
+      },
+      {
+        "speaker": "B",
+        "text": "Hola, ¿tienes tus documentos?"
+      },
+      {
+        "speaker": "A",
+        "text": "Sí, tengo mi documento de identidad y una foto."
+      },
+      {
+        "speaker": "B",
+        "text": "Muy bien. También necesitas pagar la matrícula."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Dónde pago el dinero?"
+      },
+      {
+        "speaker": "B",
+        "text": "Puedes pagar aquí en la escuela."
+      },
+      {
+        "speaker": "A",
+        "text": "Perfecto. ¿Cuándo empiezan las clases?"
+      },
+      {
+        "speaker": "B",
+        "text": "Las clases empiezan en septiembre."
+      }
+    ]
+  },
+  "say_it": {
+    "title": "Frases para repetir",
+    "items": [
+      "Quiero estudiar en la escuela.",
+      "Necesito mi documento de identidad.",
+      "Llamo a la escuela para pedir información.",
+      "Llevo una foto para la ficha.",
+      "Pago la matrícula con dinero.",
+      "Entrego mis documentos en la escuela.",
+      "Llena un formulario con mis datos.",
+      "Estoy feliz y lista para empezar."
+    ]
+  },
+  "make_it_yours": {
+    "title": "Hazlo tuyo: cambia una palabra",
+    "items": [
+      {
+        "prompt": "Quiero estudiar en la escuela.",
+        "example": "Quiero estudiar en la universidad."
+      },
+      {
+        "prompt": "Necesito mi documento de identidad.",
+        "example": "Necesito mi pasaporte."
+      },
+      {
+        "prompt": "Pago la matrícula con dinero.",
+        "example": "Pago la matrícula con tarjeta."
+      },
+      {
+        "prompt": "Llevo una foto para la ficha.",
+        "example": "Llevo una foto para el carnet."
+      },
+      {
+        "prompt": "Estoy feliz y lista para empezar.",
+        "example": "Estoy feliz y lista para aprender."
+      }
+    ]
+  },
+  "tags": [
+    "needing",
+    "asking",
+    "process",
+    "time",
+    "social",
+    "services"
+  ]
+}

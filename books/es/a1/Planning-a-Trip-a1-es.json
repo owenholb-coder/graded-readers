@@ -1,0 +1,115 @@
+{
+  "id": "Planning-a-Trip-a1-es",
+  "title": "Planear un viaje — Proceso (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — La situación — Planear un viaje",
+      "text": "Ana quiere viajar a otra ciudad. Ella trabaja mucho y necesita descansar. Su familia quiere ir con ella. En la casa, ellos hablan mucho sobre el viaje. Ana busca un lugar bonito para visitar. Ella quiere conocer nuevos lugares y probar comida diferente. El viaje es muy importante para Ana y su familia. Ellos están contentos porque van a salir juntos. Ana piensa que el viaje es bueno para su salud y para su felicidad. También, Ana quiere descansar y pasar tiempo con su familia. Ellos planean el viaje con alegría y emoción. Ana sueña con ver lugares nuevos, caminar por la ciudad y disfrutar con su familia. El viaje es una oportunidad para estar juntos, descansar y crear recuerdos felices. Todos esperan que el viaje sea divertido y tranquilo. Ana quiere que este viaje sea especial para todos. Ella imagina momentos felices y risas con su familia."
+    },
+    {
+      "title": "Sección 2 — Lo que necesita — Planear un viaje",
+      "text": "Ana quiere hacer un viaje. Para eso, necesita dinero. Ella guarda dinero en una caja en su casa. También necesita tiempo libre en su trabajo. Ana habla con su jefe y pide permiso para no ir a trabajar algunos días. Ana tiene un documento importante para viajar. Este documento es su pasaporte. Ella usa su teléfono para buscar información sobre el lugar donde va a ir. Ana mira mapas para saber cómo llegar y busca hoteles para dormir. Además, Ana prepara su ropa. Ella elige ropa cómoda para el viaje. También lleva su cepillo de dientes para estar limpia. Ana prepara todo con mucho cuidado. Quiere estar lista y no olvidar nada para su viaje. Ana también piensa en la comida que llevará. Ella compra bocadillos para el camino. Además, revisa el clima para saber qué ropa necesita. Ana está feliz y emocionada por su viaje."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Planear un viaje",
+      "text": "Ana quiere hacer un viaje. Primero, ella busca información sobre la ciudad. Quiere saber qué lugares visitar y qué hacer allí. Después, Ana compra los boletos de autobús para llegar a la ciudad. Luego, ella prepara su maleta con ropa, zapatos y cosas personales. Ana también habla con su familia para organizar todo. Ellos deciden qué llevar y cuándo salir de casa. Ana revisa su pasaporte y el dinero para el viaje. Ella quiere estar segura de que todo está bien. Finalmente, Ana sale de su casa y va a la estación de autobús. Está feliz y lista para el viaje. Ana y su familia esperan disfrutar mucho y conocer lugares nuevos durante su viaje. Ellos planean visitar museos, parques y probar comida típica. Ana siente emoción y alegría por esta aventura. El viaje es importante para ella y su familia."
+    },
+    {
+      "title": "Sección 4 — El resultado — Planear un viaje",
+      "text": "Ana llega a la ciudad con su familia. Ellos visitan lugares bonitos y prueban comida nueva. Ana toma muchas fotos y habla con personas diferentes. Ella se siente feliz y tranquila en el viaje. Cada día es divertido y aprende cosas nuevas. Ana ve museos, parques y calles interesantes. Ella disfruta mucho el tiempo con su familia. Después de varios días, Ana regresa a su casa. Ella está contenta y tiene recuerdos bonitos. Ana piensa en otro viaje para el futuro. El viaje cambia su vida y su ánimo. Ella sabe que viajar es bueno para ella y quiere hacerlo más veces. Viajar le da alegría y nuevas ideas. Ana quiere conocer más lugares y vivir nuevas experiencias. El viaje es muy importante para su felicidad y su vida."
+    }
+  ],
+  "word_count": 564,
+  "dialogue": {
+    "title": "Diálogo: Planear un viaje con la familia",
+    "lines": [
+      {
+        "speaker": "A",
+        "text": "¿Quieres viajar conmigo a otra ciudad?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, quiero descansar y conocer lugares nuevos."
+      },
+      {
+        "speaker": "A",
+        "text": "Yo busco información y compro los boletos."
+      },
+      {
+        "speaker": "B",
+        "text": "¿Ya tienes el pasaporte y el dinero?"
+      },
+      {
+        "speaker": "A",
+        "text": "Sí, y también preparo la ropa y la comida."
+      },
+      {
+        "speaker": "B",
+        "text": "Perfecto, así estamos listos para el viaje."
+      },
+      {
+        "speaker": "A",
+        "text": "Vamos a visitar museos y parques juntos."
+      },
+      {
+        "speaker": "B",
+        "text": "Estoy feliz y emocionado por este viaje."
+      }
+    ]
+  },
+  "say_it": {
+    "title": "Frases para repetir",
+    "items": [
+      "Quiero viajar con mi familia.",
+      "Busco información para el viaje.",
+      "Preparo mi ropa y mi maleta.",
+      "Necesito dinero para el viaje.",
+      "Hablo con mi jefe para pedir permiso.",
+      "Miro mapas para saber dónde ir.",
+      "Compro boletos de autobús.",
+      "Estoy feliz y emocionado."
+    ]
+  },
+  "make_it_yours": {
+    "title": "Hazlo tuyo: Cambia una palabra",
+    "items": [
+      {
+        "prompt": "Quiero viajar a otra ciudad.",
+        "example": "Quiero viajar a la playa."
+      },
+      {
+        "prompt": "Ana busca un lugar bonito para visitar.",
+        "example": "Ana busca un lugar tranquilo para visitar."
+      },
+      {
+        "prompt": "Ella prepara su ropa cómoda.",
+        "example": "Ella prepara su ropa nueva."
+      },
+      {
+        "prompt": "Ana compra bocadillos para el camino.",
+        "example": "Ana compra frutas para el camino."
+      },
+      {
+        "prompt": "Ana está feliz y emocionada por su viaje.",
+        "example": "Ana está feliz y tranquila por su viaje."
+      }
+    ]
+  },
+  "tags": [
+    "needing",
+    "planning",
+    "process",
+    "travel",
+    "social",
+    "health"
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "Packing-a-Suitcase-a1-es",
+  "title": "hacer la maleta — Proceso (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — La situación — hacer la maleta",
+      "text": "Ana va a viajar a otra ciudad. Ella quiere visitar a su familia y pasar tiempo con ellos. El viaje es muy importante para Ana. Está contenta porque verá a sus seres queridos. También está un poco nerviosa por el viaje. Ana sabe que debe preparar todo con tiempo para no olvidar nada. Por eso, decide hacer la maleta hoy. Piensa en la ropa que necesita para el viaje. También piensa en sus cosas personales, como su cepillo de dientes y su libro favorito. Quiere estar cómoda y feliz en su destino. Ana revisa sus zapatos y su ropa favorita. Empaca todo con cuidado en la maleta. Quiere que todo esté listo para el viaje. Ana se siente feliz y lista para salir. Ella imagina el viaje y sonríe. Está segura de que será una buena experiencia para ella. Ana también piensa en el clima de la ciudad. Decide llevar un abrigo porque puede hacer frío. Además, pone una botella de agua en la maleta para el camino. Ana termina de empacar y cierra la maleta con cuidado."
+    },
+    {
+      "title": "Sección 2 — Lo que necesita — hacer la maleta",
+      "text": "Ana prepara su maleta para un viaje. Ella piensa en todo lo que necesita. Primero, lleva ropa cómoda para usar durante el viaje. También pone ropa para dormir y ropa limpia para cada día. Ana no olvida su documento de identidad, porque es importante para viajar. Además, lleva dinero para comprar comida y para pagar el transporte. Ana lleva un teléfono para llamar a su familia y para estar en contacto. También pone en la maleta un cargador para el teléfono. Ella lleva un cepillo de dientes y cosas para su higiene personal. Ana quiere estar lista y tranquila. Por eso, ella toma tiempo para preparar todo con calma. Así, Ana puede disfrutar su viaje sin problemas. Ana también lleva un pequeño libro para leer en el camino. Ella sabe que es bueno tener algo para descansar la mente. La maleta está lista y Ana está feliz."
+    },
+    {
+      "title": "Sección 3 — Qué hace — hacer la maleta",
+      "text": "Ana prepara su maleta para un viaje. Primero, busca la maleta en su casa. Luego, abre la maleta con cuidado. Ana pone ropa dentro. Escoge ropa cómoda y bonita para el viaje. También pone su documento importante y el dinero. No olvida su teléfono móvil ni sus cosas personales. Ana mira todo con atención. Revisa que no falte nada en la maleta. Ella cierra la maleta con cuidado. Después, pone la maleta cerca de la puerta. Ana está lista para salir mañana. Ella sonríe porque el viaje es importante. La maleta tiene todo lo necesario para el viaje. Ana se siente feliz y tranquila. Ahora puede descansar y esperar el día del viaje con calma. Ana piensa en el viaje y se prepara con ganas."
+    },
+    {
+      "title": "Sección 4 — El resultado — hacer la maleta",
+      "text": "Ana termina de hacer la maleta. La maleta está lista y Ana está contenta. Ella pone ropa, zapatos y cosas para el viaje. Ana mira todo con cuidado. Tiene todo lo que necesita para el viaje. No olvida nada importante. Ana cierra la maleta con cuidado. Ahora puede descansar un poco antes de salir. Piensa en el viaje y sonríe. El viaje será bueno porque está preparada. Ana siente tranquilidad y alegría. Está lista para la aventura. Ana sabe que todo está en la maleta. Se siente segura y contenta. El viaje es importante para ella. Ana quiere disfrutar y descansar. La maleta es parte del viaje. Ana está lista para salir y vivir momentos nuevos. Ella imagina lugares y personas. Ana sueña con días felices y recuerdos bonitos. La maleta es su compañera en esta aventura. Ana espera con ilusión el viaje que empieza pronto."
+    }
+  ],
+  "word_count": 596,
+  "dialogue": {
+    "title": "Diálogo: Preparar la maleta",
+    "lines": [
+      {
+        "speaker": "A",
+        "text": "¿Ya hiciste la maleta para el viaje?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, puse ropa cómoda y mi cepillo de dientes."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Llevas tu documento de identidad?"
+      },
+      {
+        "speaker": "B",
+        "text": "Claro, es importante para viajar."
+      },
+      {
+        "speaker": "A",
+        "text": "¿También tienes dinero y el teléfono?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, el dinero está en la maleta y el teléfono también."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Revisaste que no falte nada?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, cerré la maleta con cuidado."
+      }
+    ]
+  },
+  "say_it": {
+    "title": "Frases para repetir",
+    "items": [
+      "Hago la maleta hoy.",
+      "Llevo ropa cómoda para el viaje.",
+      "No olvido mi cepillo de dientes.",
+      "Pongo mi documento en la maleta.",
+      "Llevo dinero para comprar comida.",
+      "Tengo un teléfono para llamar a mi familia.",
+      "Cierro la maleta con cuidado.",
+      "Estoy lista para el viaje."
+    ]
+  },
+  "make_it_yours": {
+    "title": "Hazlo tuyo: cambia una palabra",
+    "items": [
+      {
+        "prompt": "Yo llevo ropa cómoda para el viaje.",
+        "example": "Yo llevo ropa bonita para el viaje."
+      },
+      {
+        "prompt": "Pongo mi documento en la maleta.",
+        "example": "Pongo mi libro en la maleta."
+      },
+      {
+        "prompt": "Llevo dinero para comprar comida.",
+        "example": "Llevo dinero para pagar el transporte."
+      },
+      {
+        "prompt": "Tengo un teléfono para llamar a mi familia.",
+        "example": "Tengo un teléfono para estar en contacto."
+      },
+      {
+        "prompt": "Estoy lista para el viaje.",
+        "example": "Estoy feliz para el viaje."
+      }
+    ]
+  },
+  "tags": [
+    "process",
+    "needing",
+    "travel",
+    "routine"
+  ]
+}

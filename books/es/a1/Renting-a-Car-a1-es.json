@@ -1,0 +1,115 @@
+{
+  "id": "Renting-a-Car-a1-es",
+  "title": "Alquilar un coche — Proceso (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — La situación — Alquilar un coche",
+      "text": "Una persona quiere viajar a otra ciudad. No tiene coche propio y quiere visitar muchos lugares con libertad. Por eso, decide alquilar un coche. El coche es cómodo y rápido. La persona puede ir donde quiere y cuando quiere. También puede viajar con amigos o con su familia. Alquilar un coche es una buena opción para viajar fácil y tranquilo. La persona elige el coche que le gusta y lo usa todo el día. Así, puede conocer la ciudad y sus alrededores. Puede parar donde quiere para descansar o comer. Alquilar un coche ayuda a tener un viaje mejor y más cómodo. La persona está feliz porque puede moverse sin depender de otros. Por eso, alquilar un coche es una buena idea para viajar con libertad y tranquilidad."
+    },
+    {
+      "title": "Sección 2 — Lo que necesita — Alquilar un coche",
+      "text": "Para alquilar un coche, una persona necesita algunas cosas importantes. Primero, debe tener dinero para pagar el alquiler. Sin dinero, no puede alquilar el coche. También necesita tiempo para hacer los trámites. Estos trámites son necesarios para que todo sea legal y seguro. La persona debe llevar un documento de identidad para mostrar quién es. Además, necesita el carnet de conducir para manejar el coche. Sin este carnet, no puede conducir el coche alquilado. Es bueno tener un teléfono para llamar si hay algún problema. El teléfono ayuda a hablar con la empresa de alquiler. Con estas cosas, la persona puede alquilar un coche sin problemas. Así, puede disfrutar su viaje con tranquilidad y seguridad."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Alquilar un coche",
+      "text": "Cuando una persona quiere alquilar un coche, primero busca una empresa que tenga coches para alquilar. Luego, va a la oficina y habla con un empleado. El empleado explica los tipos de coches y los precios. La persona muestra su documento y su carnet de conducir para confirmar que puede manejar. Después, paga el dinero que cuesta el alquiler. Cuando termina el pago, recibe las llaves del coche. Antes de salir, la persona revisa el coche para ver si está limpio y sin daños. Si todo está bien, la persona puede empezar su viaje con el coche alquilado. Así, puede viajar a diferentes lugares con comodidad y libertad. Alquilar un coche es fácil y útil para moverse rápido. Es una buena opción para las personas que quieren conocer nuevos sitios. También ayuda cuando no hay transporte público. Con un coche alquilado, la persona tiene más tiempo y puede elegir su camino."
+    },
+    {
+      "title": "Sección 4 — El resultado — Alquilar un coche",
+      "text": "La persona alquila un coche para su viaje. Con el coche, puede ir a muchos lugares. El coche está limpio y funciona bien. La persona está feliz porque tiene libertad para viajar donde quiere. Puede visitar amigos, ir a la playa o conocer la ciudad. El coche es cómodo y rápido. Durante el viaje, la persona disfruta mucho y no tiene problemas con el coche. Al final, regresa el coche a la empresa. La empresa revisa el coche y todo está bien. La persona paga el precio y recibe su recibo. Alquilar un coche es una buena opción para moverse fácil y rápido. La persona quiere alquilar otro coche para su próximo viaje. Así, puede viajar sin problemas y conocer lugares nuevos. El viaje es bueno y la persona está contenta con el coche."
+    }
+  ],
+  "word_count": 528,
+  "dialogue": {
+    "title": "Diálogo: Alquilar un coche",
+    "lines": [
+      {
+        "speaker": "A",
+        "text": "Quiero alquilar un coche para viajar."
+      },
+      {
+        "speaker": "B",
+        "text": "¿Tienes el carnet de conducir?"
+      },
+      {
+        "speaker": "A",
+        "text": "Sí, aquí está mi carnet."
+      },
+      {
+        "speaker": "B",
+        "text": "Muy bien. ¿Cuánto tiempo necesitas el coche?"
+      },
+      {
+        "speaker": "A",
+        "text": "Lo necesito para tres días."
+      },
+      {
+        "speaker": "B",
+        "text": "Perfecto. Aquí está el contrato y las llaves."
+      },
+      {
+        "speaker": "A",
+        "text": "Gracias. ¿El coche está limpio y sin daños?"
+      },
+      {
+        "speaker": "B",
+        "text": "Sí, puedes revisar antes de salir."
+      }
+    ]
+  },
+  "say_it": {
+    "title": "Frases para repetir",
+    "items": [
+      "Quiero alquilar un coche.",
+      "Necesito el carnet de conducir.",
+      "¿Cuánto cuesta el alquiler?",
+      "El coche está limpio.",
+      "Puedo viajar con libertad.",
+      "Pago el dinero hoy.",
+      "Recibo las llaves del coche.",
+      "El viaje es cómodo y rápido."
+    ]
+  },
+  "make_it_yours": {
+    "title": "Hazlo tuyo: cambia una palabra",
+    "items": [
+      {
+        "prompt": "Quiero alquilar un coche para viajar.",
+        "example": "Quiero alquilar un coche para trabajar."
+      },
+      {
+        "prompt": "Necesito el carnet de conducir.",
+        "example": "Necesito el documento de identidad."
+      },
+      {
+        "prompt": "El coche está limpio y sin daños.",
+        "example": "El coche está rápido y cómodo."
+      },
+      {
+        "prompt": "Pago el dinero que cuesta el alquiler.",
+        "example": "Pago el dinero que cuesta el viaje."
+      },
+      {
+        "prompt": "La persona está feliz con el coche.",
+        "example": "La persona está feliz con la familia."
+      }
+    ]
+  },
+  "tags": [
+    "needing",
+    "buying",
+    "process",
+    "problems",
+    "travel",
+    "transport"
+  ]
+}

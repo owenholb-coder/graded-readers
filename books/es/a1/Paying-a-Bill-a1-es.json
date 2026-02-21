@@ -1,0 +1,115 @@
+{
+  "id": "Paying-a-Bill-a1-es",
+  "title": "Pagar una factura — Proceso (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — La situación — Pagar una factura",
+      "text": "Una persona recibe una factura en su casa. La factura es de la luz. La luz es muy importante para la casa. La persona usa la luz todos los días para muchas cosas. Ahora la persona debe pagar la factura para tener luz en su casa. Si no paga, la luz puede cortar y no puede usarla. La persona quiere pagar la factura para vivir bien y tener luz siempre. Pagar la factura es necesario para la casa y para la vida diaria. La persona revisa la factura y busca el dinero para pagar. Después, la persona paga la factura en un lugar o por internet. Cuando paga, la luz sigue en la casa. La luz ayuda a la persona en la noche y en el día. Por eso, la persona siempre paga la factura a tiempo. Así, la casa tiene luz y la vida es mejor."
+    },
+    {
+      "title": "Sección 2 — Lo que necesita — Pagar una factura",
+      "text": "Para pagar una factura, la persona necesita tener dinero y la factura. La factura puede estar en papel o en el teléfono. En la factura está el número para pagar. La persona puede usar su teléfono para hacer el pago o puede ir al banco. Es importante tener tiempo para pagar sin prisas. La persona debe preparar todo antes de pagar para que sea rápido y fácil. Pagar la factura es importante para no tener problemas. La persona debe revisar la factura antes de pagar. Si la factura está en el teléfono, debe abrirla. Si está en papel, debe tenerla a mano. Con dinero, factura y tiempo, la persona puede pagar. Pagar la factura es parte de la vida diaria. Es bueno hacerlo a tiempo para estar tranquilo y sin preocupaciones. Así, la persona cuida su dinero y su vida."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Pagar una factura",
+      "text": "Cuando una persona tiene una factura, primero la mira con atención. La factura dice cuánto dinero debe pagar. Después, la persona busca el dinero para pagar. Puede usar dinero en efectivo o su tarjeta. Luego, la persona llama al número que está en la factura o va al banco. Cuando habla con la persona del banco o en la llamada, dice que quiere pagar la factura. También da el número que está en la factura para que sepan cuál es. Después, entrega el dinero o paga con su tarjeta. Al final, la persona recibe un papel o un mensaje en su teléfono que dice que el pago está hecho. Así, la factura queda pagada y la persona no debe más dinero. Pagar la factura es importante para no tener problemas y seguir usando los servicios que necesita."
+    },
+    {
+      "title": "Sección 4 — El resultado — Pagar una factura",
+      "text": "La persona termina de pagar la factura de la luz. Ahora la luz está en su casa y funciona bien. La persona está contenta porque no hay problemas con la luz. Tiene un papel o un mensaje que dice que pagó la factura. La factura está pagada y la luz funciona sin problemas. La persona usa la luz todos los días sin miedo. Puede encender las luces cuando quiere. También usa otros aparatos eléctricos. La luz es muy importante en la casa. La persona sabe que debe pagar la factura cada mes. Así, la luz siempre estará en su casa. Pagar la factura es un trabajo necesario. La persona está tranquila porque todo está bien. La luz ayuda en la casa para ver y hacer cosas. La persona vive mejor con la luz. Está feliz porque todo funciona bien y puede usar la luz sin problemas."
+    }
+  ],
+  "word_count": 570,
+  "dialogue": {
+    "title": "Diálogo: Pagar la factura de la luz",
+    "lines": [
+      {
+        "speaker": "A",
+        "text": "Hola, recibí la factura de la luz."
+      },
+      {
+        "speaker": "B",
+        "text": "¿Ya la revisaste?"
+      },
+      {
+        "speaker": "A",
+        "text": "Sí, dice cuánto dinero debo pagar."
+      },
+      {
+        "speaker": "B",
+        "text": "¿Tienes el dinero para pagar?"
+      },
+      {
+        "speaker": "A",
+        "text": "Sí, tengo el dinero y la factura."
+      },
+      {
+        "speaker": "B",
+        "text": "¿Vas a pagar por internet o en el banco?"
+      },
+      {
+        "speaker": "A",
+        "text": "Voy a pagar por internet con mi teléfono."
+      },
+      {
+        "speaker": "B",
+        "text": "Muy bien, así la luz no se corta."
+      }
+    ]
+  },
+  "say_it": {
+    "title": "Frases para repetir sobre pagar la factura",
+    "items": [
+      "Recibo la factura en mi casa.",
+      "La luz es importante para la casa.",
+      "Debo pagar la factura a tiempo.",
+      "Uso el teléfono para pagar.",
+      "Busco el dinero para pagar.",
+      "Pago la factura en el banco.",
+      "La luz funciona bien en la casa.",
+      "Estoy tranquilo porque pagué."
+    ]
+  },
+  "make_it_yours": {
+    "title": "Cambia una palabra para practicar",
+    "items": [
+      {
+        "prompt": "Recibo la factura en mi casa.",
+        "example": "Recibo la carta en mi casa."
+      },
+      {
+        "prompt": "Debo pagar la factura a tiempo.",
+        "example": "Debo pagar la cuenta a tiempo."
+      },
+      {
+        "prompt": "Uso el teléfono para pagar.",
+        "example": "Uso el banco para pagar."
+      },
+      {
+        "prompt": "Pago la factura en el banco.",
+        "example": "Pago la factura en la tienda."
+      },
+      {
+        "prompt": "La luz funciona bien en la casa.",
+        "example": "El agua funciona bien en la casa."
+      }
+    ]
+  },
+  "tags": [
+    "needing",
+    "buying",
+    "process",
+    "time",
+    "problems",
+    "home"
+  ]
+}

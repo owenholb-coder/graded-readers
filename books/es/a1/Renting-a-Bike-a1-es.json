@@ -1,0 +1,115 @@
+{
+  "id": "Renting-a-Bike-a1-es",
+  "title": "Alquilar una bicicleta — Proceso (A1)",
+  "language": "es",
+  "level": "A1",
+  "genre": [
+    "Non-fiction"
+  ],
+  "author": "",
+  "blurb": "",
+  "difficulty": 1,
+  "enjoyment": 3,
+  "chapters": [
+    {
+      "title": "Sección 1 — La situación — Alquilar una bicicleta",
+      "text": "Una persona quiere pasear por la ciudad. No tiene bicicleta. Quiere ver lugares nuevos y hacer ejercicio. La bicicleta es buena para esto. Es fácil y rápido moverse por la ciudad. También es divertido y saludable. Por eso, decide alquilar una bicicleta por un día. Va a una tienda de bicicletas. Habla con el dueño y pregunta el precio. El dueño explica las reglas y el costo. La persona paga y recibe la bicicleta. Está contenta y lista para empezar. Monta la bicicleta y recorre las calles. Ve parques, tiendas y plazas. Disfruta del aire fresco y el sol. La bicicleta ayuda a conocer la ciudad mejor. Al final del día, regresa la bicicleta. Está feliz por la experiencia. Quiere repetirlo otro día. Le gusta mucho pasear en bicicleta. Es una actividad que recomienda a sus amigos."
+    },
+    {
+      "title": "Sección 2 — Lo que necesita — Alquilar una bicicleta",
+      "text": "Para alquilar una bicicleta, una persona necesita algunas cosas importantes. Primero, debe tener dinero para pagar el alquiler. Sin dinero, no puede usar la bicicleta. También necesita un documento de identidad, como su DNI o pasaporte. Esto es para saber quién es la persona. Además, es bueno tener un teléfono móvil. El teléfono ayuda a llamar a la empresa si hay un problema con la bicicleta. La persona debe tener tiempo libre para usar la bicicleta sin prisa. También es importante saber montar en bicicleta para que el paseo sea seguro. Con todo esto, puede alquilar la bicicleta y disfrutar del paseo. Montar en bicicleta es bueno para la salud y para conocer lugares nuevos. Alquilar una bicicleta es fácil si se tiene todo lo necesario. Así, el paseo será seguro y divertido para todos."
+    },
+    {
+      "title": "Sección 3 — Qué hace — Alquilar una bicicleta",
+      "text": "Una persona quiere alquilar una bicicleta. Primero, busca una tienda para alquilarla. Cuando llega, habla con el empleado. Pregunta cuánto cuesta y qué necesita para alquilar. El empleado explica todo con paciencia. La persona muestra su documento y paga el dinero. Luego, recibe la bicicleta y un casco para protegerse. Antes de salir, revisa la bicicleta con cuidado. Mira las ruedas, los frenos y el asiento. Todo está bien y seguro. Después, empieza a usar la bicicleta. Pasea por la ciudad y disfruta del viaje. La bicicleta es cómoda y fácil de manejar. La persona usa la bicicleta para conocer lugares nuevos y hacer ejercicio. Al final, regresa la bicicleta en buen estado. Así termina el proceso de alquilar una bicicleta. La persona está contenta y feliz con su paseo."
+    },
+    {
+      "title": "Sección 4 — El resultado — Alquilar una bicicleta",
+      "text": "Después del paseo, la persona vuelve la bicicleta al lugar donde la tomó. El empleado mira la bicicleta y dice que está bien. La persona está feliz porque disfrutó mucho del paseo. También hizo ejercicio y se siente bien. Durante el paseo, aprendió a usar la bicicleta en la ciudad. Esto le da confianza para andar más. Al final, la persona paga si usó la bicicleta más tiempo. Todo el proceso fue fácil y rápido. La experiencia fue buena y la persona quiere alquilar otra bicicleta otra vez. Le gusta salir y conocer la ciudad en bicicleta. Quiere seguir haciendo ejercicio y divertirse. La bicicleta es una buena opción para moverse y disfrutar el día. Andar en bicicleta es bueno para la salud y para el ambiente. La persona piensa que es una forma feliz de viajar."
+    }
+  ],
+  "word_count": 539,
+  "dialogue": {
+    "title": "Alquilar una bicicleta - diálogo en la tienda",
+    "lines": [
+      {
+        "speaker": "A",
+        "text": "Hola, quiero alquilar una bicicleta."
+      },
+      {
+        "speaker": "B",
+        "text": "Claro, ¿por cuánto tiempo la necesita?"
+      },
+      {
+        "speaker": "A",
+        "text": "Por un día, por favor."
+      },
+      {
+        "speaker": "B",
+        "text": "El precio es diez euros por día."
+      },
+      {
+        "speaker": "A",
+        "text": "¿Qué necesito para alquilarla?"
+      },
+      {
+        "speaker": "B",
+        "text": "Necesita su documento y el dinero."
+      },
+      {
+        "speaker": "A",
+        "text": "Aquí está mi DNI y el dinero."
+      },
+      {
+        "speaker": "B",
+        "text": "Perfecto, aquí tiene la bicicleta y el casco."
+      }
+    ]
+  },
+  "say_it": {
+    "title": "Frases útiles para alquilar una bicicleta",
+    "items": [
+      "Quiero alquilar una bicicleta.",
+      "¿Cuánto cuesta el alquiler?",
+      "¿Qué necesito para alquilar?",
+      "Tengo mi documento y el dinero.",
+      "¿Puedo usar la bicicleta hoy?",
+      "¿Dónde regreso la bicicleta?",
+      "La bicicleta es cómoda y fácil.",
+      "Me gusta pasear en bicicleta."
+    ]
+  },
+  "make_it_yours": {
+    "title": "Cambia una palabra para practicar",
+    "items": [
+      {
+        "prompt": "Quiero alquilar una bicicleta por un día.",
+        "example": "Quiero alquilar una bicicleta por una hora."
+      },
+      {
+        "prompt": "El precio es diez euros por día.",
+        "example": "El precio es cinco euros por día."
+      },
+      {
+        "prompt": "Necesito mi documento y el dinero.",
+        "example": "Necesito mi teléfono y el dinero."
+      },
+      {
+        "prompt": "La bicicleta es cómoda y fácil.",
+        "example": "La bicicleta es rápida y fácil."
+      },
+      {
+        "prompt": "Me gusta pasear en bicicleta.",
+        "example": "Me gusta pasear en la ciudad."
+      }
+    ]
+  },
+  "tags": [
+    "needing",
+    "buying",
+    "process",
+    "transport",
+    "health",
+    "travel"
+  ]
+}
